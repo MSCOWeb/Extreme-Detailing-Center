@@ -1,0 +1,107 @@
+Return-path: <>
+Envelope-to: valhalla@gator3265.hostgator.com
+Delivery-date: Sun, 29 May 2016 17:26:21 -0500
+Received: from gateway26.websitewelcome.com ([192.185.86.53]:52685)
+	by gator3265.hostgator.com with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.86_1)
+	id 1b79A4-000Nd4-Rj
+	for valhalla@gator3265.hostgator.com; Sun, 29 May 2016 17:26:20 -0500
+Received: by gateway26.websitewelcome.com (Postfix)
+	id 609DB6A8E6215; Sun, 29 May 2016 17:26:18 -0500 (CDT)
+Date: Sun, 29 May 2016 17:26:18 -0500 (CDT)
+From: MAILER-DAEMON@gateway26.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: valhalla@gator3265.hostgator.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="3C83E6A5FE1CC.1464560778/gateway26.websitewelcome.com"
+Message-Id: <20160529222618.609DB6A8E6215@gateway26.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--3C83E6A5FE1CC.1464560778/gateway26.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway26.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<nikoalb01@yahoo.com>: delivery temporarily suspended: lost connection with
+    mta5.am0.yahoodns.net[66.196.118.33] while sending RCPT TO
+
+--3C83E6A5FE1CC.1464560778/gateway26.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway26.websitewelcome.com
+X-Postfix-Queue-ID: 3C83E6A5FE1CC
+X-Postfix-Sender: rfc822; valhalla@gator3265.hostgator.com
+Arrival-Date: Sun, 29 May 2016 15:00:07 -0500 (CDT)
+
+Final-Recipient: rfc822; nikoalb01@yahoo.com
+Original-Recipient: rfc822;nikoalb01@yahoo.com
+Action: failed
+Status: 4.4.2
+Diagnostic-Code: X-Postfix; delivery temporarily suspended: lost connection
+    with mta5.am0.yahoodns.net[66.196.118.33] while sending RCPT TO
+
+--3C83E6A5FE1CC.1464560778/gateway26.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <valhalla@gator3265.hostgator.com>
+Received: from gateway34.websitewelcome.com (gateway34.websitewelcome.com [192.185.149.62])
+	by gateway26.websitewelcome.com (Postfix) with ESMTP id 3C83E6A5FE1CC
+	for <nikoalb01@yahoo.com>; Sun, 29 May 2016 15:00:07 -0500 (CDT)
+Received: from cm1.websitewelcome.com (cm.websitewelcome.com [192.185.0.102])
+	by gateway34.websitewelcome.com (Postfix) with ESMTP id A9E6BB6705C7A
+	for <nikoalb01@yahoo.com>; Sun, 29 May 2016 15:00:06 -0500 (CDT)
+Received: from gator3265.hostgator.com ([198.57.247.229])
+	by cm1.websitewelcome.com with 
+	id 0L041t03T4xhxxS01L06eC; Sun, 29 May 2016 15:00:06 -0500
+Received: from valhalla by gator3265.hostgator.com with local (Exim 4.86_1)
+	(envelope-from <valhalla@gator3265.hostgator.com>)
+	id 1b76sW-000MoC-LB
+	for nikoalb01@yahoo.com; Sun, 29 May 2016 15:00:04 -0500
+To: nikoalb01@yahoo.com
+Subject: Thank You From Valhalla Detailing
+X-PHP-Script: valhalladetailing.com/wp-content/themes/valhalla/handleForm.php for 71.172.24.150
+From: info@valhalladetailing.com
+Message-Id: <E1b76sW-000MoC-LB@gator3265.hostgator.com>
+Date: Sun, 29 May 2016 15:00:04 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3265.hostgator.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [34222 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - gator3265.hostgator.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Exim-ID: 1b76sW-000MoC-LB
+X-Source: /opt/php54/bin/php-cgi
+X-Source-Args: /usr/bin/php /home4/valhalla/public_html/wp-content/themes/valhalla/handleForm.php 
+X-Source-Dir: valhalladetailing.com:/public_html/wp-content/themes/valhalla
+X-Source-Sender: 
+X-Source-Auth: valhalla
+X-Email-Count: 2
+X-Source-Cap: dmFsaGFsbGE7dmFsaGFsbGE7Z2F0b3IzMjY1Lmhvc3RnYXRvci5jb20=
+
+Thanks for scheduling an appointment with us! We look forward to taking care of your detailing needs.
+
+One of our Customer Service professionals will be contacting you shortly to confirm your appointment.
+
+Please feel free to call us at (908) 623-7676 for immediate assistance during regular business hours.
+
+Sincerely,
+Guy DiTommaso
+
+--3C83E6A5FE1CC.1464560778/gateway26.websitewelcome.com--

@@ -1,0 +1,46 @@
+Return-path: <>
+Envelope-to: valhalla@gator3265.hostgator.com
+Delivery-date: Fri, 22 Jan 2016 16:39:19 -0600
+Received: from mailnull by gator3265.hostgator.com with local (Exim 4.85)
+	id 1aMkMR-000J1W-OA
+	for valhalla@gator3265.hostgator.com; Fri, 22 Jan 2016 16:39:19 -0600
+X-Failed-Recipients: djace52@hotmail.cm
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@gator3265.hostgator.com>
+To: valhalla@gator3265.hostgator.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1aMkMR-000J1W-OA@gator3265.hostgator.com>
+Date: Fri, 22 Jan 2016 16:39:19 -0600
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  djace52@hotmail.cm
+    host cm.websitewelcome.com [192.185.178.233]
+    SMTP error from remote mail server after RCPT TO:<djace52@hotmail.cm>:
+    550 5.1.1 <djace52@hotmail.cm> recipient rejected
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <valhalla@gator3265.hostgator.com>
+Received: from valhalla by gator3265.hostgator.com with local (Exim 4.85)
+	(envelope-from <valhalla@gator3265.hostgator.com>)
+	id 1aMkMP-000Izq-Tz
+	for djace52@hotmail.cm; Fri, 22 Jan 2016 16:39:17 -0600
+To: djace52@hotmail.cm
+Subject: Thank You From Valhalla Detailing
+X-PHP-Script: valhalladetailing.com/wp-content/themes/valhalla/emailHereForm.php for 71.187.204.94
+From: Valhalla Detailing <info@valhalladetailing.com>
+Message-Id: <E1aMkMP-000Izq-Tz@gator3265.hostgator.com>
+Date: Fri, 22 Jan 2016 16:39:17 -0600
+
+Thanks for requesting more information on our dealership services. We look forward to taking care of your detailing needs.
+
+One of our Customer Service professionals will be contacting you shortly to set up a time for us to meet.
+
+Please feel free to call us at (908) 623-7676 for immediate assistance during regular business hours.
+
+Sincerely,
+Guy DiTommaso

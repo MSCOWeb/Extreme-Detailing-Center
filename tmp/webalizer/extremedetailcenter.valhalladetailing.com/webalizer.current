@@ -1,0 +1,415 @@
+# Webalizer V2.23-05 Incremental Data - 08/10/2016 05:08:54
+2016 8 10 5 8 54
+385 191 62 9 8 36 821175 313 100 0
+3 1 54 3 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+64 44 216398 13 52 13
+128 72 167465 21 117 28
+25 12 45326 14 16 10
+32 7 70453 12 20 9
+15 7 41983 8 9 6
+55 42 89747 12 43 14
+63 6 183411 17 54 18
+3 1 6392 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 6311 1
+10 0 7424 6
+5 4 463 2
+9 4 2983 7
+11 4 40077 9
+1 0 6303 1
+0 0 0 0
+30 17 27536 28
+16 10 3702 12
+51 16 104833 43
+36 30 73576 32
+24 18 8601 22
+21 8 29390 19
+68 43 92503 61
+9 3 21887 5
+3 3 555 2
+13 5 47003 10
+29 7 188778 21
+13 3 77267 8
+0 0 0 0
+8 5 1571 6
+3 1 701 2
+8 3 3267 7
+15 6 76444 9
+0
+0
+0
+191
+0
+0
+0
+0
+0
+0
+0
+39
+1
+0
+0
+0
+0
+0
+0
+0
+28
+20
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+104
+0
+0
+0
+0
+0
+# -urls- 
+/not_found
+0 1 18850288 287 0 0
+/document.location.protocol
+0 2 0 1136 0 0
+/wp-config.php
+0 1 0 241 0 0
+/th1s_1s_a_4o4.html
+0 1 0 568 0 0
+/favicon.ico
+0 14 0 5606 0 0
+/wp-load.php
+0 1 0 236 0 0
+/
+0 166 0 40757 71 24
+/valhalla-admin
+0 1 18850512 1913 0 1
+/robots.txt
+0 4 0 276 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-65-175.googlebot.com
+0 1 0 449 0 0
+-
+rate-limited-proxy-66-249-90-105.google.com
+0 1 1 232 1 1470226237
+/
+ec2-54-234-166-87.compute-1.amazonaws.com
+0 2 0 1550 1 1470232308
+-
+raa.informika.ru
+0 1 1 315 1 1470390612
+/
+scan07.sitelock.com
+0 7 0 71210 1 1470762004
+/th1s_1s_a_4o4.html
+173.252.114.117
+0 1 1 236 1 1470625922
+/
+google-proxy-66-102-7-171.google.com
+0 33 24 9609 4 1470317459
+/
+scan06.sitelock.com
+0 11 5 76949 2 1470674583
+-
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 1 69 0 0
+-
+pool-72-76-221-220.nwrknj.fios.verizon.net
+0 6 1 73815 1 1470231324
+-
+178-137-57-111-broadband.kyivstar.net
+0 3 0 18116 1 1470746920
+-
+placeholder.sitelock.com
+0 10 2 76554 2 1470589268
+-
+173.252.115.86
+0 1 0 20 1 1470798241
+/
+baiduspider-180-76-15-134.crawl.baidu.com
+0 1 1 236 1 1470450617
+/
+69.58.178.56
+0 5 2 37817 1 1470628835
+-
+bzq-62-219-8-233.dcenter.bezeqint.net
+0 1 1 236 1 1470344272
+/
+ec2-54-149-57-2.us-west-2.compute.amazonaws.com
+0 2 0 1550 1 1470319283
+-
+google-proxy-66-102-8-164.google.com
+0 15 0 25434 1 1470734965
+/
+msnbot-207-46-13-152.search.msn.com
+0 2 1 1007 1 1470349945
+/
+bzq-82-80-249-214.dcenter.bezeqint.net
+0 1 1 236 1 1470352307
+/
+192.237.216.89
+0 1 1 232 1 1470430248
+/
+c-69-142-180-192.hsd1.nj.comcast.net
+0 3 3 472 1 1470612707
+/
+google-proxy-66-249-83-251.google.com
+0 4 4 472 2 1470382649
+/
+google-proxy-66-102-7-174.google.com
+0 27 17 8434 3 1470317459
+-
+crawl-66-249-79-156.googlebot.com
+0 3 0 1356 0 0
+-
+rate-limited-proxy-72-14-199-111.google.com
+0 2 0 898 2 1470629425
+-
+173.252.115.12
+0 1 1 236 1 1470453391
+/
+bzq-82-80-249-192.dcenter.bezeqint.net
+0 5 1 73036 1 1470352336
+-
+173.252.115.90
+0 1 0 20 1 1470712250
+/
+crawl-66-249-79-160.googlebot.com
+0 2 0 904 0 0
+-
+google-proxy-66-102-7-168.google.com
+0 27 17 8434 4 1470317459
+/
+baiduspider-180-76-15-10.crawl.baidu.com
+0 1 0 20 1 1470785612
+/
+home-136.169.10.10.mits.lv
+0 4 2 1865 1 1470388559
+/
+static-96-234-56-32.nwrknj.fios.verizon.net
+0 2 2 236 1 1470229653
+/
+crawl-66-249-79-175.googlebot.com
+0 6 3 1288 2 1470777583
+/
+45.32.129.1.vultr.com
+0 1 1 568 1 1470659859
+/
+google-proxy-66-102-7-149.google.com
+0 1 0 449 1 1470316127
+-
+google-proxy-66-102-7-141.google.com
+0 1 1 232 1 1470316127
+/
+198.101.238.203
+0 1 1 236 1 1470411076
+/
+45.32.128.51.vultr.com
+0 1 1 315 1 1470600740
+/
+192.185.1.20
+0 2 2 232 1 1470648373
+/
+google-proxy-66-102-8-158.google.com
+0 11 0 31654 1 1470734964
+/
+70-91-24-193-busname-nj.panjde.hfc.comcastbusiness.net
+0 1 0 20 1 1470743589
+/
+173.252.115.87
+0 2 2 472 2 1470539505
+/
+ool-60395e6a.static.optonline.net
+0 78 64 120294 9 1470744895
+/
+h86-62-117-180.ln.rinet.ru
+0 10 0 7424 1 1470445541
+/
+google-proxy-66-102-8-161.google.com
+0 5 1 6611 2 1470734959
+/
+newscan10.sitelock.com
+0 5 1 38277 1 1470504927
+-
+ofdp-3.phishmongers.com
+0 2 2 638 2 1470410933
+/
+crawl-66-249-79-169.googlebot.com
+0 4 2 36632 1 1470322103
+-
+baiduspider-180-76-15-162.crawl.baidu.com
+0 1 0 20 1 1470709998
+/
+ool-4577cdaa.dyn.optonline.net
+0 4 2 522 2 1470688999
+/
+google-proxy-66-102-7-145.google.com
+0 1 1 232 1 1470316127
+/
+ns7000703.ip-158-69-229.net
+0 2 1 319 2 1470775862
+/
+ec2-54-175-174-135.compute-1.amazonaws.com
+0 4 0 3100 2 1470610850
+-
+scan08.sitelock.com
+0 5 1 38277 1 1470245835
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 1 1 69 0 0
+-
+173.252.115.8
+0 1 1 236 1 1470366878
+/
+crawl-66-249-79-164.googlebot.com
+0 2 2 472 2 1470645554
+/
+crawl-66-249-79-172.googlebot.com
+0 10 1 21774 4 1470805734
+-
+rate-limited-proxy-72-14-199-105.google.com
+0 15 3 5655 7 1470744560
+/
+rate-limited-proxy-72-14-199-108.google.com
+0 20 7 12902 7 1470744563
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+173.252.115.86
+0 1 0 20 1 1470798241
+/
+crawl-66-249-79-175.googlebot.com
+0 1 1 69 0 0
+-
+crawl-66-249-79-172.googlebot.com
+0 1 0 6303 1 1470805734
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.facebook.com
+0 1
+http://www.google.com/url
+0 20
+http://extremedetailcenter.com/not_found
+0 1
+- (Direct Request)
+0 346
+http://www.extremedetailcenter.com/
+0 7
+http://m.facebook.com/
+0 2
+http://www.extremedetailcenter.com
+0 1
+http://extremedetailcenter.com/
+0 7
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 60
+Mozilla/5.0 (X11; Linux i686; rv:34.0; P1BzHUwpBlzrKl8RAGnsqgpWavfFskxR3gY9gbB6bEY=) Gecko/20100101 Firefox/34.0
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 21
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 17
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+panscient.com
+0 6
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 2
+Mozilla/42.0 (compatible; MSIE 28.0; Win128)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 24
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 10
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.8.131 Version/11.10
+0 3
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 1
+Googlebot-Image/1.0
+0 1
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.5) Gecko/2008120122 Firefox/3.0.5
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G935T Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 3
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 159
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.136
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

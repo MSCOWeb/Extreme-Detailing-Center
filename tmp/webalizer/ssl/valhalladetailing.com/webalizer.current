@@ -1,0 +1,2177 @@
+# Webalizer V2.23-05 Incremental Data - 08/10/2016 07:03:36
+2016 8 10 7 3 36
+4647 4316 235 378 94 182 91443346 1011 443 0
+16 6 447 1 10
+1148 1116 23604293 42 236 64
+432 399 6593132 44 76 44
+739 713 16996674 52 148 55
+301 277 6305908 41 74 37
+255 234 3932811 39 72 46
+273 258 4591023 38 70 42
+143 136 2321385 22 47 26
+686 604 15566747 49 117 40
+552 484 8971475 34 131 62
+118 95 2559898 16 40 28
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+76 70 503809 15
+81 71 2407157 17
+38 30 216101 20
+32 31 180773 14
+279 270 6441414 96
+94 86 1432713 35
+90 72 1628160 29
+112 103 2747330 24
+210 198 3252552 31
+418 402 11124837 87
+379 354 8090590 45
+549 494 10170725 71
+151 134 3735946 31
+265 247 4683347 75
+594 582 11008826 88
+129 108 2861566 38
+302 271 4966907 43
+227 216 4095550 87
+169 155 2609108 37
+113 105 2248366 37
+135 132 2768221 26
+94 88 2428394 29
+68 63 1516423 18
+42 34 324531 18
+0
+0
+0
+4316
+0
+0
+0
+0
+0
+2
+0
+14
+35
+0
+108
+0
+0
+0
+0
+0
+6
+165
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-input.css
+0 2 8243124634848815462 13958 0 0
+/wp-content/cache/minify/000000/M9AvS8zJSMzJSdTPKtbPKixNLarUS8tJrSjOyUxJLQIA.js
+0 10 0 70810 0 0
+/sitemap_index.xml
+0 4 3903837157892896567 1876 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-media-320.min.js
+0 1 8459001867088587895 549 0 0
+/wp-content/plugins/post-types-order/css/cpt-archive-dd.css
+0 2 7147887026638712687 282 0 0
+/wp-content/plugins/gift-cards-for-woocommerce/assets/js/scripts.js
+0 2 3978139726216429568 40 0 0
+/wp-admin/options-permalink.php
+0 1 3275365297555729664 12167 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.stack.min.js
+0 6 0 3966 0 0
+/wp-content/themes/valhalla/images/yellow-sportscar.jpg
+0 66 0 11449746 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css
+0 7 0 7147 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.time.min.js
+0 6 0 11274 0 0
+/wp-content/plugins/wordpress-seo/images/banner-premium-seo.png
+0 1 0 17754 0 0
+/wp-content/uploads/2015/07/1500-Plus-Finishing-Material-MSDS.pdf
+0 6 0 204714 0 0
+/product/speedy-voc-gallon/
+0 5 0 51164 1 1
+/wp-content/uploads/2015/07/valhalla_036.jpg
+0 9 0 163368 0 0
+/wp-includes/js/tinymce/plugins/wptextpattern/plugin.min.js
+0 1 0 894 0 0
+/wp-content/cache/minify/000000/BcEBCoAwDAPAF2nwSaNm4LAtNBXx994deDMt3VlGDIktLGFWRjNOWD7R9W3iTevdr_gB.js
+0 3 0 2850 0 0
+/product/get-a-grip-gloves-size-l/
+0 7 0 61588 3 3
+/wp-content/cache/minify/000000/M9EvL9AtLcnM0cvNzAMA.js
+0 14 0 8580 0 0
+/wp-content/plugins/wordpress-seo/images/banner-website-review.png
+0 1 0 125835 0 0
+/wp-content/plugins/wordpress-seo/images/banner-news-seo.png
+0 1 0 16945 0 0
+/wp-content/uploads/2015/06/fine-grade-clay-bar_03.jpg
+0 13 0 325364 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/select2.min.js
+0 2 0 36950 0 0
+/wp-content/uploads/2015/07/car-wash-concentrate_03.jpg
+0 10 0 199900 0 0
+/wp-admin/themes.php
+0 2 0 26407 0 0
+/wp-content/uploads/2015/07/valhalla_0316.jpg
+0 11 0 254520 0 0
+/wp-content/plugins/wordpress-seo/css/help-center-340.min.css
+0 1 0 869 0 0
+/wp-includes/js/tinymce/langs/wp-langs-en.js
+0 1 0 5448 0 0
+/wp-content/uploads/2015/07/valhalla_0317.jpg
+0 8 0 211656 0 0
+/wp-content/cache/minify/000000/dcvBDYAgDADAhcSGMRzAAbRUA0KrLcS4vdH49XmP83CKoJRCigSTGVWDZLCocCUOYJHXTG5XCQ1rXyJ3_ueko5Febs6CW4sf-5fj8Mwb.js
+0 9 0 41698 0 0
+/wp-includes/js/tinymce/plugins/paste/plugin.min.js
+0 1 0 6518 0 0
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.png
+0 1 0 1189 0 0
+/wp-content/uploads/2015/07/motor-homes_02.jpg
+0 3 0 247914 0 0
+/wp-includes/js/customize-preview-nav-menus.min.js
+0 1 0 1419 0 0
+/product/gift-card
+0 3 0 26175 1 0
+/product-sitemap.xml
+0 1 0 1305 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/select2.css
+0 2 0 6582 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff
+0 1 0 11956 0 0
+/wp-includes/js/customize-preview.min.js
+0 1 0 940 0 0
+/wp-content/uploads/2015/07/valhalla_0312.jpg
+0 9 0 138960 0 0
+/wp-content/uploads/2015/07/Flint-Glaze-Wax-MSDS.pdf
+0 7 0 241633 0 0
+/wp-content/uploads/2015/06/details_03.jpg
+0 13 0 166894 0 0
+/wp-content/uploads/2015/07/valhalla_0311.jpg
+0 9 0 143748 0 0
+/services/additional-services/
+0 3 0 12425 3 3
+/wp-content/plugins/w3-total-cache/pub/img/w3tc-sprite-retina.png
+0 1 0 1506 0 0
+/services-sitemap.xml
+0 2 0 1390 0 0
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.png
+0 1 0 1108 0 0
+/wp-content/plugins/wordpress-seo/js/dist/select2/select2.min.js
+0 1 0 32735 0 0
+/wp-content/cache/minify/000000/pc1BCoAwDAXRC9mG3sQrlDZiheZrEpHeXnDlxpXbgcckuoCC3lkLUzZjN9qMFoU4S6Vca3CEktVjbzKlD7Aru495hYO242Qd8ZX-0CbtWd8.js
+0 9 0 75484 0 0
+/wp-includes/js/wp-embed.js
+0 1 0 1225 0 0
+/dealerships/
+0 19 0 133660 8 7
+/wp-content/plugins/wordpress-seo/css/yst_seo_score-330.min.css
+0 1 0 358 0 0
+/wp-content/themes/valhalla/images/header-bg.jpg
+0 75 0 6141510 0 0
+/wp-content/themes/valhalla/images/fancybox_overlay.png
+0 7 0 7021 0 0
+/wp-content/plugins/wordfence/js/tourTip.js
+0 7 0 17388 0 0
+/wp-content/uploads/2015/07/Speedy-VOC-MSDS.pdf
+0 7 0 232239 0 0
+/product-category/rubber-vinyl/
+0 2 374365070593 12895 2 2
+/wp-content/uploads/2015/06/valhalla-yellow.jpg
+0 1 8390032857336971264 164086 0 0
+/wp-includes/css/customize-preview.min.css
+0 1 7165897045451879987 103 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-global.css
+0 7 12452012070771306798 37457 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 6 4049068328897031734 4884 0 0
+/wp-content/cache/minify/000000/M9AvS8zJSMzJSdTPKtbPKixNLarUS0vMS65Myq8AAA.js
+0 12 1836016430 140815 0 0
+/wp-content/uploads/2015/07/1000-Plus-Finishing-Material-MSDS.pdf
+0 6 0 204714 0 0
+/product/1500-plus-finishing-material/
+0 7 0 51632 2 0
+/contact-us
+0 1 0 19705 1 0
+/wp-content/cache/minify/000000/fY5RDoJADEQvJFQTL1TKIAvbXW0rRE4v-o1-zrx5yVxorVWqKkxA7I5wmpwGqyVQehK2aAbjm6KEt5rK6UrrvYF26L_xTAvnkXPmjzg9nrBX6znJXHg5WHQss4chZPzjs8LTZsdU9i-wH3CvUs9hbw.js
+0 104 0 603891 0 0
+/wp-content/uploads/2015/07/addnlservices_02.jpg
+0 3 0 129087 0 0
+/wp-content/uploads/2015/06/dealerships_02-1024x370.jpg
+0 1 0 83775 0 0
+/wp-admin/load-scripts.php
+0 38 0 2024503 0 0
+/wp-admin/images/spinner.gif
+0 6 0 24972 0 0
+/wp-content/cache/minify/000000/Ky_QTUzJzczTzyrWL0gsLi7PL0rRLS4pSs1LL8nQzU0tSS3SA0oDAA.js
+0 1 0 452 0 0
+/wp-includes/images/spinner-2x.gif
+0 1 0 8536 0 0
+/wp-content/uploads/2015/07/detailers-professional-glass-cleaner_03.jpg
+0 12 0 205332 0 0
+/wp-content/uploads/2015/07/valhalla_034.jpg
+0 10 0 128310 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
+0 2 0 404 0 0
+/wp-content/plugins/woocommerce/assets/css/menu.css
+0 7 0 4802 0 0
+/wp-json/
+0 2 0 1960 2 0
+/shop/
+0 62 0 848709 22 7
+/wp-content/plugins/woocommerce/assets/css/admin.css
+0 7 0 127050 0 0
+/wp-content/plugins/wordpress-seo/css/admin-global-340.min.css
+0 7 0 1302 0 0
+/wp-content/themes/valhalla/images/protect.png
+0 70 0 152660 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
+0 2 0 1546 0 0
+/product/detailers-professional-glass-cleaner/
+0 5 0 36835 0 2
+/wp-content/plugins/wordpress-seo/css/snippet-330.min.css
+0 1 0 246 0 0
+/wp-includes/js/customize-preview-widgets.min.js
+0 1 8026098927956656128 671 0 0
+/wp-admin/post.php
+0 3 3832845857380630528 114461 0 0
+/wp-includes/js/underscore.min.js
+0 2 1952804398 10078 0 0
+/wp-content/plugins/w3-total-cache/pub/js/metadata.js
+0 2 3906079040727823666 3454 0 0
+/wp-content/plugins/woocommerce/assets/css/dashboard.css
+0 6 15970632897945350702 6960 0 0
+/wp-content/uploads/2015/06/referral_03.jpg
+0 18 3328219709483464494 2949498 0 0
+/wp-content/plugins/wordpress-seo/css/metabox-340.min.css
+0 1 3543826251748619571 6181 0 0
+/wp-content/plugins/wordpress-seo/css/kb-search-340.min.css
+0 1 0 902 0 0
+/sitemap/
+0 9 0 79125 3 2
+/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+0 1 0 2730 0 0
+/wp-includes/css/editor.min.css
+0 1 0 5393 0 0
+/wp-content/themes/valhalla/images/ExtremeDetailCenter_Logo.png
+0 85 0 203770 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+0 7 0 48419 0 0
+/wp-content/plugins/w3-total-cache/pub/img/W3TC_dashboard_logo_title.png
+0 2 0 3272 0 0
+/product/pure-metal/
+0 6 0 73138 2 1
+/wp-content/plugins/wordpress-seo/css/dashboard-330.min.css
+0 6 0 2646 0 0
+/product_cat-sitemap.xml
+0 1 0 645 0 0
+/wp-content/cache/minify/000000/jc_BDsIwDAPQHyIKfFII2ahI2qnOhvb3VHDZBWlX61mWr7yJP8VdWAGGF31V2S43fremLcK6Ggtgia84xOSytzXPWcQYgXazeqow0FymJJX-AE2t058OcnfD4CixuFGpSJm7BC_rfdw52l_yAQ.css
+0 111 0 1064274 0 0
+/standard-services/
+0 27 0 280622 10 7
+/product/2500-plus-finishing-material/
+0 5 0 37075 1 1
+/wp-content/uploads/2015/07/boats_02.jpg
+0 3 0 222393 0 0
+/wp-content/plugins/wordpress-seo/images/banner-video-seo.png
+0 1 0 18074 0 0
+/wp-content/uploads/2015/06/right-angle-detail-brush_03.jpg
+0 14 0 160020 0 0
+/wp-content/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js
+0 2 0 8852 0 0
+/wp-admin/
+0 6 0 91919 0 1
+/wp-content/uploads/2015/12/Hand-Size-Chart-180x180.jpg
+0 3 0 38283 0 0
+/wp-includes/js/tinymce/plugins/fullscreen/plugin.min.js
+0 1 0 649 0 0
+/wp-content/uploads/2015/11/valhalla-gift-card.png
+0 9 0 1358145 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-post-scraper-340.min.js
+0 1 3905797591403725056 87989 0 0
+/product/new-concept-gallon/
+0 4 7171939 29468 0 1
+/wp-admin/load-styles.php
+0 10 3347130489145358702 814991 0 0
+/testimonials/elvira-s/
+0 2 7958824813261225984 6323 0 1
+/wp-content/themes/valhalla/style.css
+0 89 3833180307342897409 346016 0 0
+/wp-content/uploads/2015/07/citrus-belt_03.jpg
+0 12 3904118607099868976 174552 0 0
+/wp-content/uploads/2015/07/New-Concept-MSDS.pdf
+0 6 3546357306108358192 196260 0 0
+/wp-content/plugins/w3-total-cache/pub/img/w3tc-sprite.png
+0 6 0 5082 0 0
+/wp-content/themes/valhalla/images/fancybox_sprite.png
+0 2 0 2724 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui-1.10.4.custom.min.css
+0 2 0 7446 0 0
+/cart/
+0 14 0 272670 8 7
+/wp-content/themes/valhalla/css/jquery.fancybox.css
+0 12 0 15290 0 0
+/wp-content/cache/minify/000000/dctBCoBQCEXRDfWT345EX1CkggptPxo0bHQn5066IyTMkALiKnTRWbRneMOVWHV0DOHs1Q5f5s9QuCC9fX3tAw.js
+0 1 0 19582 0 0
+/wp-content/plugins/wordpress-seo/css/yst_plugin_tools-330.min.css
+0 1 0 1847 0 0
+/wp-content/uploads/2015/07/Able5-180x180.jpg
+0 3 0 71916 0 0
+/wp-content/uploads/2015/07/valhalla_031.jpg
+0 10 0 161820 0 0
+/wp-content/plugins/w3-total-cache/pub/img/sidebar-background.png
+0 1 0 203 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-replacevar-plugin-330.min.js
+0 1 0 10448 0 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+0 7 0 12866 0 0
+/wp-content/themes/valhalla/images/valhalla-logo.png
+0 1 0 17017 0 0
+/product/topaz-wax/
+0 10 0 47060 5 7
+/wp-content/plugins/advanced-custom-fields-pro/assets/font/acf.woff
+0 1 0 4120 0 0
+/favicon.ico
+0 12 0 33636 0 0
+/wp-content/plugins/lazy-load-xt/js/jquery.lazyloadxt.srcset.min.js
+0 1 0 667 0 0
+/wp-content/uploads/2015/07/Leather-Perfect-MSDS.pdf
+0 6 0 203376 0 0
+/wp-content/cache/minify/000000/M9bPKixNLarUMdTPSayq1M3JT0zRrSjRzyqGSuiBhEGiFSV6qRUlRYl6uZl5RKkuLkouTi0BKQcA.js
+0 1 0 34843 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 2 0 530 0 0
+/wp-includes/js/tinymce/plugins/hr/plugin.min.js
+0 1 1836016430 191 0 0
+/product/buff-pad-cleaning-spur/
+0 6 32762621197841505 29806 1 2
+/wp-content/plugins/woocommerce/assets/images/select2.png
+0 2 0 1226 0 0
+/specials/
+0 29 3474581183778874473 195545 7 6
+/wp-content/plugins/wordpress-seo/css/toggle-switch-330.min.css
+0 1 8243124634865852773 689 0 0
+/wp-content/uploads/2015/07/Pure-Metal-MSDS.pdf
+0 6 7521981565278301747 257238 0 0
+/wp-admin/admin.php
+0 5 22348 99961 0 0
+/product/leather-perfect/
+0 5 121398028955233 36895 1 0
+/wp-content/themes/valhalla/images/fancybox_sprite@2x.png
+0 5 22000704 32765 0 0
+/wp-content/plugins/wordpress-seo/css/adminbar-340.min.css
+0 7 0 2751 0 0
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 1 0 5717 0 0
+/wp-json/oembed/1.0/embed
+0 21 0 52518 0 0
+/wp-includes/js/tinymce/plugins/lists/plugin.min.js
+0 1 0 2864 0 0
+/wp-content/uploads/2015/07/valhalla_0310.jpg
+0 8 0 185016 0 0
+/wp-content/cache/minify/000000/yygpKSi20tdPzEqs0EvPz0_PSU0syCzWS87PBYvp52QmFetnFZamFlWWZuob6hka6hlB-bqlmXq5mXl6WcUA.js
+0 109 0 6109149 0 0
+/wp-content/plugins/w3-total-cache/pub/js/widget.js
+0 1 0 1014 0 0
+/wp-content/plugins/wordpress-seo/images/banner-local-seo.png
+0 1 0 17293 0 0
+/wp-content/uploads/2015/07/2500-Plus-Finishing-Material-MSDS.pdf
+0 7 0 238833 0 0
+/product/metal-mania/
+0 8 0 37606 4 3
+/wp-content/themes/valhalla/css/print.css
+0 90 0 11227 0 0
+/wp-content/plugins/wordpress-seo/js/dist/select2/i18n/en.js
+0 1 0 430 0 0
+/wp-content/plugins/wp-optimize/wpo.png
+0 7 0 2583 0 0
+/wp-content/plugins/w3-total-cache/pub/img/open.png
+0 1 0 129 0 0
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.png
+0 1 0 1412 0 0
+/wp-content/cache/minify/000000/M9Qvz89Pzs_NTS1KTtVPLC5OLSnWzyrWTyvKzytJzUtBltbLzczTMcShIauwNLWoUjc5Pz87MxXK04PwQPoA.js
+0 104 0 76522 0 0
+/wp-content/themes/valhalla/js/jquery.slicknav.min.js
+0 2 0 4334 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js
+0 2 0 1710 0 0
+/wp-content/cache/minify/000000/M9Qvz89Pzs_NTS1KTtVPLC5OLSnWzyrWTyvKzytJzUvRT04sKtHLzczTMcShMquwNLWoUjcpJz85uzQTytUDc0M9QToB.js
+0 4 0 20968 0 0
+/product/new-wave-gallon/
+0 5 0 36965 0 1
+/wp-content/uploads/2015/07/cars-and-suvs_02-1024x279.jpg
+0 1 0 28273 0 0
+/product/car-wash-concentrate/
+0 6 126947128078959 37307 2 0
+/wp-content/cache/minify/000000/LchhCoAwCAbQC7Uk6EKb-xYFaqix60fQz_c2mmZsInAG1Qhk0BU03DShnbh6luH1EGjGKqcuO827QBr6z0c7PNgcX7w.js
+0 14 3690472300018139136 99753 0 0
+/wp-content/plugins/w3-total-cache/pub/css/widget.css
+0 1 0 1323 0 0
+/wp-content/uploads/2015/07/Detailers-Professional-Glass-Cleaner-MSDS.pdf
+0 6 87317927148337454 251112 0 0
+/wp-content/cache/minify/000000/jYxBDsMgDAQ_VIOiPqZny5gWFOLGdhXS1xekPKDX2Zm9x7p_WM_bElf8nrAKJugeq11DmHjS7oG7K4ZWtr9sUzL2Sz9EU-aNeLqYBgxYsT_Q6cU6hGfJDoSaDLIoHCIkrbGOAm382AyNtLzdfg.js
+0 3 8515870867751054954 119865 0 0
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.png
+0 1 8243124634848815462 1536 0 0
+/wp-content/uploads/2015/12/Hand-Size-Chart.jpg
+0 4 0 98604 0 0
+/wp-content/cache/minify/000000/BcENCoAwCAbQC2USdKHNtjBQw2_0d_reW_l75KpOBa_LbOrTwrv2QVJyA_VIuiMkzFpK4wK0AT7AkNRz4Ac.js
+0 1 0 232 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js
+0 3 0 2010 0 0
+/wp-content/themes/valhalla/images/polish.png
+0 71 0 64890 0 0
+/product/plastic-trim-restorer/
+0 6 0 58713 1 3
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.png
+0 1 0 1648 0 0
+/wp-admin/edit.php
+0 3 0 50141 0 0
+/shop/page/2/
+0 4 0 131054 1 0
+/wp-includes/js/tinymce/plugins/wpembed/plugin.min.js
+0 1 0 225 0 0
+/product/gift-card/
+0 9 0 83208 3 1
+/wp-content/plugins/w3-total-cache/pub/js/options.js
+0 2 0 23362 0 0
+/wp-content/plugins/w3-total-cache/readme.txt
+0 1 22455152 82418 0 0
+/wp-content/plugins/wordfence/css/wordfenceBox.css
+0 7 0 12796 0 0
+/wp-content/themes/valhalla/css/flexslider.css
+0 10 0 15910 0 0
+/wp-includes/css/dashicons.min.css
+0 1 0 28553 0 0
+/wp-content/plugins/wordfence/images/wordfence-logo-16x16.png
+0 7 0 11116 0 0
+/wp-includes/js/customize-base.min.js
+0 1 0 2103 0 0
+/wp-content/cache/minify/000000/jczRCYAwDEXRhUyLOFFIo1Ss0SRidXotOIC_9x3eEOf9YL26Pi54X7AIJqgeZ_uG0HKr1QNXVwwlr7-0KRn7x6c8OhBqMhhF4RQhKYWVOKK9zNqHkebN7QE.js
+0 108 0 3440472 0 0
+/wp-includes/js/tinymce/tinymce.min.js
+0 1 0 110792 0 0
+/wp-content/themes/valhalla/images/clean.png
+0 70 0 268464 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js
+0 1 0 2241 0 0
+/wp-content/themes/valhalla/js/backstretch.min.js
+0 2 0 3614 0 0
+/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js
+0 1 7018142236675616055 1689 0 0
+/wp-content/uploads/2015/06/guy_03.jpg
+0 5 7165897045451878712 104690 0 0
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.png
+0 1 3906641986403238144 811 0 0
+/wp-content/uploads/2015/07/Citrus-Belt-MSDS.pdf
+0 5 3904953153655551031 163150 0 0
+/wp-content/plugins/w3-total-cache/pub/js/lightbox.js
+0 2 3330749672971382327 6834 0 0
+/wp-content/themes/valhalla/js/jquery.validatr.js
+0 2 3414129205270047841 4084 0 0
+/services/motor-homes-trailers/
+0 1 7311082118407874094 6067 1 0
+/product/details/
+0 4 0 29392 0 0
+/wp-content/uploads/2015/07/valhalla_037.jpg
+0 11 0 156420 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-global-340.min.js
+0 7 0 12558 0 0
+/wp-content/uploads/2015/07/valhalla_0318.jpg
+0 8 0 122840 0 0
+/wp-content/plugins/wordpress-seo/css/featured-image-330.min.css
+0 1 0 143 0 0
+/wp-content/uploads/2015/07/a-foam_03.jpg
+0 13 0 197639 0 0
+/wp-content/uploads/2015/07/valhalla_033.jpg
+0 9 0 134523 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-admin-340.min.js
+0 1 0 65335 0 0
+/wp-content/plugins/wordpress-seo/css/toggle-switch/toggle-switch.css
+0 1 0 3266 0 0
+/wp-content/cache/minify/000000/M9bPKixNLarUMYYydHMz04sSS1L1cjPzAA.js
+0 8 0 286888 0 0
+/wp-admin/tools.php
+0 1 0 12464 0 0
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.png
+0 1 0 2100 0 0
+/wp-content/uploads/2015/12/Get-A-Grip-Gloves-600x421.jpg
+0 3 0 237243 0 0
+/wp-content/themes/valhalla/images/calendar.png
+0 78 0 64602 0 0
+/wp-includes/js/wp-util.min.js
+0 2 0 1158 0 0
+/wp-content/plugins/gift-cards-for-woocommerce/assets/css/styles.css
+0 8 0 800 0 0
+/wp-content/themes/storefront/screenshot.png
+0 1 0 171375 0 0
+/wp-content/plugins/lazy-load-xt/js/jquery.lazyloadxt.extra.min.js
+0 1 0 1498 0 0
+/wp-content/cache/minify/000000/hctBCoAgEEbhC6WDRwqdQEv_mjGk21fUopUtH4_PUQM8cmbxTKMqV6WkNAlK5RK-2-ZYBvcHFmg16zUaJHRJ2naWw3hgjvyWfep2Jw.js
+0 1 0 864 0 0
+/wp-content/plugins/wordpress-seo/images/Yoast_SEO_Icon.svg
+0 1 0 457 0 0
+/product/showroom/
+0 5 0 37090 1 1
+/wp-content/uploads/2015/07/Car-Wash-Concentrate-MSDS.pdf
+0 7 0 225596 0 0
+/wp-includes/js/tinymce/plugins/media/plugin.min.js
+0 1 0 3798 0 0
+/wp-content/cache/minify/000000/M9VPKi0pyc8r1svNzNMx1U9JLM7ITIbxywt0E1OADP3k4mL9nPz0zDyQMAA.css
+0 8 0 289144 0 0
+/services/cars-suvs/
+0 4 0 6936 4 4
+/wp-content/plugins/simple-instagram/public/assets/css/public.css
+0 8 0 3832 0 0
+/mobile-detailing/
+0 27 0 206285 12 7
+/product/flint-glaze-wax/
+0 12 0 62420 7 6
+/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js
+0 1 0 5149 0 0
+/wp-includes/js/jquery/jquery.js
+0 2 0 66570 0 0
+/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js
+0 1 0 649 0 0
+/wp-content/themes/valhalla/js/jquery.samesizr.js
+0 2 0 914 0 0
+/product/right-angle-detail-brush/
+0 6 0 44964 1 3
+/product/seal-b-gallon/
+0 10 0 39575 3 5
+/wp-includes/js/wp-embed.min.js
+0 2 0 1500 0 0
+/services/boats/
+0 1 0 6056 1 1
+/product/1000-plus-finishing-material-quart/
+0 7 0 37429 3 4
+/wp-content/uploads/2015/07/valhalla_038.jpg
+0 9 0 195696 0 0
+/wp-content/plugins/woocommerce/assets/images/select2-spinner.gif
+0 1 0 1849 0 0
+/wp-content/plugins/woocommerce/assets/js/admin/reports.min.js
+0 6 0 8136 0 0
+/wp-content/themes/valhalla/images/down-chevrons.png
+0 39 0 122322 0 0
+/wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js
+0 1 0 614 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js
+0 1 0 4822 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.min.js
+0 6 0 75036 0 0
+/product/3000-plus-finishing-material/
+0 6 0 37067 2 3
+/wp-content/uploads/2015/07/motorcycles_02-1024x263.jpg
+0 1 21991552 28073 0 0
+/wp-content/uploads/2015/07/3000-Plus-Finishing-Material-MSDS.pdf
+0 6 0 202302 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.resize.min.js
+0 6 0 3624 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 80 0 515292 0 0
+/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.png
+0 1 0 1638 0 0
+/wp-content/uploads/2015/06/Details-MSDS.pdf
+0 6 0 195288 0 0
+/product/1000-plus-finishing-material-gallon/
+0 9 0 52213 5 4
+/wp-content/cache/minify/000000/jc9RCsMwDAPQCy14u8mu4GVuG-bEIXI7cvuFfnUfhf6KJ5DutLEurMoUAYKm-Cm83R70NYuWs7QoxIA4dlGbuPfnYm7n6BAH5W6rX7PIYwliEymXCgPNafIQub0RJmvhpAPvKhgcKVeVkAqc58aZ6voan_8e7skP.css
+0 11 7164505053987499566 187703 0 0
+/wp-content/cache/minify/000000/M9Qvz89Pzs_NTS1KTtVPLC5OLSnWzyrWTyvKzytJzUvRT0xJ0S3J101OLCrRy83M0zHEoSGrsDS1qFI3KSc_Obs0E8rVA3NDPUE6AQ.js
+0 102 3615881646713222193 356254 0 0
+/wp-content/themes/valhalla/css/fonts/flexslider-icon.woff
+0 8 7310584038546681966 10144 0 0
+/product/citrus-belt/
+0 5 96194217181493 50926 1 0
+/wp-content/cache/minify/000000/BcFBCsAgDATAF9XFW78jZgsKSSAr-P3OdNzMme6sSQyJR9jCVxmHYRhmRelZ_Y3mK34.js
+0 3 0 2223 0 0
+/wp-includes/js/tinymce/skins/lightgray/content.min.css
+0 1 0 788 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/select2.png
+0 1 0 613 0 0
+/wp-content/uploads/2015/06/mobile-768x240.png
+0 4 0 508428 0 0
+/wp-content/themes/valhalla/editor-style.css
+0 1 0 43 0 0
+/wp-content/plugins/wordfence/images/logo.png
+0 6 0 63492 0 0
+/wp-content/uploads/2015/07/A-Foam-MSDS.pdf
+0 6 0 190518 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 6 0 91428 0 0
+/wp-content/plugins/wordpress-seo/css/inside-editor-331.min.css
+0 1 0 90 0 0
+/wp-content/uploads/2015/07/Hi-Line-MSDS.pdf
+0 6 0 199614 0 0
+/wp-content/plugins/wordpress-seo/css/wpseo-dismissible-330.min.css
+0 7 0 2863 0 0
+/wp-content/plugins/wordfence/css/activity-report-widget.css
+0 6 0 3408 0 0
+/wp-content/plugins/wordfence/images/flags/us.png
+0 6 0 3174 0 0
+/product-category/cleaning-compounds/
+0 4 0 25774 4 2
+/wp-content/uploads/2015/07/Topaz-Wax-MSDS.pdf
+0 6 0 200796 0 0
+/wp-content/plugins/tinymce-advanced/mce/table/plugin.min.js
+0 1 0 9804 0 0
+/wp-admin/images/wordpress-logo.svg
+0 8 0 6544 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/images/spinner.gif
+0 1 0 5240 0 0
+/my-account/
+0 5 0 35532 2 2
+/wp-content/plugins/tinymce-advanced/mce/advlist/plugin.min.js
+0 1 0 636 0 0
+/wp-content/uploads/2015/07/valhalla_03.jpg
+0 10 0 203370 0 0
+/wp-includes/js/tinymce/plugins/textcolor/plugin.min.js
+0 1 0 1669 0 0
+/wp-content/uploads/2015/07/valhalla_035.jpg
+0 11 0 198022 0 0
+/wp-content/uploads/2015/07/valhalla_032.jpg
+0 9 0 143541 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-flot/jquery.flot.pie.min.js
+0 6 0 17982 0 0
+/wp-content/plugins/post-types-order/js/cpt.js
+0 2 0 1290 0 0
+/product/get-a-grip-gloves-xl/
+0 6 0 45942 2 1
+/wp-includes/js/tinymce/plugins/wplink/plugin.min.js
+0 1 0 989 0 0
+/wp-content/plugins/tinymce-advanced/mce/emoticons/plugin.min.js
+0 1 0 590 0 0
+/
+0 422 0 2035526 246 138
+/wp-content/plugins/wordpress-seo/css/dist/select2/select2.min.css
+0 1 0 1977 0 0
+/wp-includes/js/tinymce/plugins/wpautoresize/plugin.min.js
+0 1 0 932 0 0
+/wp-content/plugins/wordpress-seo/images/banner-configuration-service.png
+0 1 0 20176 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js
+0 3 0 53649 0 0
+/wp-content/uploads/2015/07/cars-and-suvs_02.jpg
+0 6 0 436968 0 0
+/wp-content/plugins/w3-total-cache/pub/css/options.css
+0 2 0 4924 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+0 7 0 100184 0 0
+/wp-content/uploads/2015/07/Able5-600x600.jpg
+0 3 0 233583 0 0
+/contact-us/
+0 26 0 190206 7 2
+/wp-content/uploads/2015/07/Seal-B-MSDS.pdf
+0 6 0 207474 0 0
+/wp-includes/js/tinymce/plugins/charmap/plugin.min.js
+0 1 0 2846 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.css
+0 2 0 2670 0 0
+/product/fine-grade-clay-bar/
+0 5 0 36545 1 1
+/wp-content/plugins/woocommerce/assets/images/select2x2.png
+0 1 0 845 0 0
+/wp-content/uploads/2015/07/valhalla_039.jpg
+0 8 0 157784 0 0
+/wp-admin/images/spinner-2x.gif
+0 2 0 17072 0 0
+/wp-content/plugins/wordpress-seo/css/edit-page-330.min.css
+0 1 0 259 0 0
+/valhalla-admin
+0 9 0 15059 2 2
+/wp-content/cache/minify/000000/jY9RDoMwDEMvtKxM2wl2k1ACq9Y2KC5s3H4V8MHPJP4S-yWWGzdzfHGM7DzgEIN_Z54vN_dR9ZqSmBfHgBSsxEGmyItO5RyLVEPgTSSfOlgh63rJFdm8fXvqt5pD6At5tg7Uq9GfhyhLFFQcIY1RKGQUHoyTG6e2dj2ym7LnjiYAQXS1uEsht2x0fzTXOv4A.css
+0 3 0 32829 0 0
+/wp-content/uploads/2015/07/Plastic-Trim-Restorer-MSDS.pdf
+0 9 0 384768 0 0
+/wp-content/plugins/better-wp-security/lib/icon-fonts/fonts/ithemes-icons.woff
+0 7 0 17080 0 0
+/wp-content/themes/valhalla/css/slicknav.css
+0 6 0 5184 0 0
+/wp-content/plugins/advanced-custom-fields-pro/pro/assets/css/acf-pro-input.css
+0 2 0 5458 0 0
+/shop/page/3/
+0 1 0 12671 1 1
+/wp-content/uploads/2015/06/mobile.png
+0 7 0 1501269 0 0
+/product-category/waxes/
+0 1 0 12591 1 1
+/wp-content/themes/valhalla/js/jquery.centerr.js
+0 2 0 1484 0 0
+/wp-content/plugins/w3-total-cache/pub/css/lightbox.css
+0 2 0 4576 0 0
+/wp-content/uploads/2015/06/medium-grade-clay-bar_03.jpg
+0 15 0 468420 0 0
+/wp-admin/options-general.php
+0 17 0 320892 0 0
+/wp-content/plugins/post-types-order/css/cpt.css
+0 7 0 5278 0 0
+/wp-content/cache/minify/000000/BcGBCcAwCATAidKnI4kaaEAfVMj6vXtxSWWElzqk26dxGruY42kQszVcKjVPfPkD.js
+0 3 0 2316 0 0
+/product-category/metal-polish/
+0 1 0 12603 1 0
+/wp-content/themes/valhalla/handleForm.php
+0 1 0 27 0 0
+/wp-includes/js/tinymce/plugins/wpview/plugin.min.js
+0 1 0 3130 0 0
+/wp-content/uploads/2015/12/Get-A-Grip-Gloves.jpg
+0 14 0 2730028 0 0
+/wp-content/cache/minify/000000/jc_BDoMwDAPQH1qVsT_KssCqJS2qA4i_XyUuXJC4Ws-S_aSV7ctmTAIQLMuv8PoYaKtVqrs2UWJAA4dQU4nXNTjFyXivS9yz8L4C0lTLrUJHUx4jCbcP0lhbulocuyk6R_bZNOWC4Kmx07y8-9-zPZI_.css
+0 2 0 23124 0 0
+/wp-content/plugins/wordfence/readme.txt
+0 1 0 106455 0 0
+/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css
+0 4 0 7704 0 0
+/wp-content/uploads/2015/07/Able5-e1456335026361.jpg
+0 10 0 0 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-shortcode-plugin-340.min.js
+0 1 0 1388 0 0
+/wp-content/plugins/wordpress-seo/images/banner-yoast-seo-for-wordpress-training.png
+0 1 0 26974 0 0
+/ceramic-pro/
+0 20 0 126123 5 3
+/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+0 1 0 368 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 2 0 6300 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-metabox-340.min.js
+0 1 0 1433 0 0
+/product/medium-grade-clay-bar/
+0 5 0 51121 1 0
+/my-account/lost-password/
+0 4 4049067233680370998 28405 1 0
+/about-us/
+0 12 3832063224920225070 87883 3 0
+/robots.txt
+0 54 7521981565278301746 3684 0 0
+/wp-content/uploads/2015/07/motor-homes_02-1024x278.jpg
+0 1 21991696 31301 0 0
+/wp-content/uploads/2015/07/New-Wave-MSDS.pdf
+0 7 85912751288365362 277018 0 0
+/wp-admin/profile.php
+0 1 3330750768104223021 31952 0 0
+/wp-content/uploads/2015/07/motorcycles_02.jpg
+0 6 3689066218795315456 423456 0 0
+/testimonials/jordan-ali/
+0 3 7308332166812598272 12367 3 2
+/product/new-wave-quart/
+0 4 3543824052675685936 29540 0 0
+/wp-content/plugins/preserved-html-editor-markup-plus/admin.js
+0 7 0 36092 0 0
+/wp-content/cache/minify/000000/dcvbDYAgDEDRhYSGMRzAARSqokK1LSFu7yP--nluch1UIk8pIXuEXgRVYBEYmbJiDrDfrRIHI8qYJ51NQkW2KebG_czLUZBPM2zk1xI_2pdd-5wX.js
+0 1 0 3909 0 0
+/wp-content/plugins/wordfence/js/admin.ajaxWatcher.js
+0 7 0 39662 0 0
+/wp-content/uploads/2015/06/new-customers_03.jpg
+0 17 0 2578475 0 0
+/wp-content/plugins/post-types-order/images/menu-icon.png
+0 7 0 26845 0 0
+/wp-content/uploads/2015/07/boats_02-300x76.jpg
+0 1 22090960 5504 0 0
+/page-sitemap.xml
+0 1 0 832 0 0
+/news/
+0 10 0 80731 4 3
+/product/a-foam/
+0 10 0 80570 4 2
+/wp-content/uploads/2015/06/buff-pad-cleaning-spur_03.jpg
+0 13 0 172328 0 0
+/wp-content/cache/minify/000000/fY9JEoJADEUvBB3bpbcJ3VECPWAScDi9YOkOXf7hVf3v4VZrqDmTBAJUJVMYFM5Si1GJgDG2VtuAYu2Cwmhci8tcmgMsmHpMCTdguM4kD6eJw1hw2Wl0GEY1IQv9Hx4zKT9lPw20jpIf4WpxRJOmN5v0BIAD3t2l1ksinFjdevPtQeLuS80M3nnvjh_dzryNc4O-AA.js
+0 14 0 1178269 0 0
+/wp-cron.php
+0 228 0 5163 0 0
+/wp-content/uploads/2015/07/Metal-Mania-MSDS.pdf
+0 6 0 202458 0 0
+/wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js
+0 1 0 763 0 0
+/wp-admin/images/resize.gif
+0 1 0 70 0 0
+/product/hi-line/
+0 5 0 36535 1 2
+/wp-includes/js/tinymce/plugins/wpemoji/plugin.min.js
+0 1 0 730 0 0
+/wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js
+0 1 0 701 0 0
+/wp-content/uploads/2015/07/1000-plus-finishing-material_03.jpg
+0 9 0 123948 0 0
+/wp-admin/admin-ajax.php
+0 334 0 22145 0 0
+/wp-content/plugins/wordpress-seo/css/alerts-340.min.css
+0 1 0 643 0 0
+/wp-content/themes/valhalla/images/check.png
+0 70 0 71829 0 0
+/wp-content/plugins/better-wp-security/lib/icon-fonts/icon-fonts.css
+0 7 0 3927 0 0
+/wp-content/plugins/wp-optimize/css/wpo_admin.css
+0 7 0 11060 0 0
+/wp-admin/customize.php
+0 3 0 102200 0 0
+/wp-content/plugins/wordpress-seo/js/dist/wp-seo-featured-image-330.min.js
+0 1 0 1070 0 0
+/wp-content/cache/minify/000000/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.css
+0 2 0 55 0 0
+/wp-content/uploads/2015/06/mobile-1024x321.png
+0 1 0 196299 0 0
+/wp-includes/js/tinymce/themes/modern/theme.min.js
+0 1 0 3430 0 0
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
+0 3 0 9915 0 0
+/wp-content/themes/valhalla/images/black-car.jpg
+0 70 0 19111965 0 0
+/wp-content/uploads/2015/06/dealerships_02.jpg
+0 7 0 1760591 0 0
+# End Of Table - urls
+# -sites- (monthly)
+static-98-109-185-48.nwrknj.fios.verizon.net
+0 29 28 860822 1 1470390752
+/
+laubervilliers-656-1-106-210.w193-248.abo.wanadoo.fr
+0 1 0 6261 1 1470165358
+-
+msnbot-40-77-167-36.search.msn.com
+0 12 10 121253 2 1470225250
+/
+static-208-80-194-122.as13448.com
+0 3 3 60699 3 1470647084
+/
+195-154-146-225.rev.poneytelecom.eu
+0 2 2 13950 2 1470596963
+/
+pool-72-76-84-186.nwrknj.fios.verizon.net
+0 62 61 2048491 2 1470235859
+/
+baiduspider-180-76-15-9.crawl.baidu.com
+0 2 2 42106 2 1470710000
+/
+malta1844.startdedicated.de
+0 12 12 26971 3 1470284819
+/standard-services/
+ec2-54-184-56-73.us-west-2.compute.amazonaws.com
+0 3 3 148841 2 1470503330
+/shop/
+h4.1.143.40.ip.windstream.net
+0 3 3 89213 1 1470086188
+/
+31.13.102.108
+0 1 1 6975 1 1470260825
+/
+31.13.102.101
+0 1 1 6975 1 1470260801
+/
+msnbot-207-46-13-73.search.msn.com
+0 1 1 12838 0 0
+-
+crawl-66-249-66-175.googlebot.com
+0 1 1 7404 1 1470370601
+/product/car-wash-concentrate/
+msnbot-199-30-24-62.search.msn.com
+0 3 3 82006 0 0
+-
+scan07.sitelock.com
+0 2 2 188873 0 0
+-
+166.sub-70-208-64.myvzw.com
+0 33 32 277461 1 1470405493
+/
+173.252.90.230
+0 1 1 6975 1 1470250720
+/
+46.229.170.197
+0 2 2 40466 1 1470324052
+/
+c-69-142-125-250.hsd1.nj.comcast.net
+0 34 27 1144996 1 1470674770
+/
+pool-108-53-75-97.nwrknj.fios.verizon.net
+0 36 35 1627624 1 1470164940
+/
+74.e9.36a9.ip4.static.sl-reverse.com
+0 1 1 20233 1 1470156516
+/
+c-68-81-121-195.hsd1.pa.comcast.net
+0 14 13 242765 0 0
+-
+msnbot-207-46-13-181.search.msn.com
+0 6 5 125940 2 1470804730
+/
+msnbot-157-55-39-68.search.msn.com
+0 31 29 397585 6 1470231138
+/standard-services/
+msnbot-199-30-24-169.search.msn.com
+0 18 18 239073 0 0
+-
+c-73-160-119-246.hsd1.nj.comcast.net
+0 35 32 1101690 1 1470666232
+/standard-services/
+173.252.90.236
+0 1 1 6975 1 1470147902
+/
+msnbot-207-46-13-1.search.msn.com
+0 4 4 19102 0 0
+-
+173.252.90.247
+0 2 2 13950 2 1470254368
+/
+192.254.235.96
+0 376 376 9460 0 0
+-
+ec2-54-242-40-103.compute-1.amazonaws.com
+0 18 18 239073 0 0
+-
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 1 2710 0 0
+-
+msnbot-40-77-167-18.search.msn.com
+0 1 1 31228 0 0
+-
+baiduspider-180-76-15-156.crawl.baidu.com
+0 2 2 35769 0 0
+-
+baiduspider-180-76-15-7.crawl.baidu.com
+0 2 2 20874 0 0
+-
+msnbot-199-30-25-51.search.msn.com
+0 11 11 108217 1 1470607819
+/
+195-154-250-118.rev.poneytelecom.eu
+0 3 0 402 1 1470482619
+/
+google-proxy-66-249-83-234.google.com
+0 1 0 58 0 0
+-
+baiduspider-180-76-15-134.crawl.baidu.com
+0 3 3 111757 2 1470593066
+/product/pure-metal/
+bzq-82-80-249-143.dcenter.bezeqint.net
+0 1 1 14546 0 0
+-
+google-proxy-66-249-83-237.google.com
+0 1 0 6257 0 0
+-
+msnbot-157-55-39-91.search.msn.com
+0 6 5 126210 2 1470500168
+/product/1000-plus-finishing-material-gallon/
+31.13.102.105
+0 1 1 6975 1 1470170072
+/
+ec2-54-164-147-209.compute-1.amazonaws.com
+0 1 1 345017 0 0
+-
+google-proxy-66-102-8-131.google.com
+0 28 28 367204 1 1470734959
+/
+ec2-52-1-187-156.compute-1.amazonaws.com
+0 1 1 104967 0 0
+-
+ec2-52-87-253-92.compute-1.amazonaws.com
+0 1 1 6975 1 1470714521
+/
+abts-north-dynamic-016.148.177.122.airtelbroadband.in
+0 2 2 39938 1 1470408773
+/contact-us/
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 20233 1 1470789296
+/
+baiduspider-180-76-15-11.crawl.baidu.com
+0 5 4 286479 2 1470699704
+/
+91-139-144-107.stz.ddns.bulsat.com
+0 1 1 345017 0 0
+-
+baiduspider-180-76-15-154.crawl.baidu.com
+0 3 3 46283 2 1470651654
+/product/get-a-grip-gloves-size-l/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 2 1 2733 1 1470224535
+/
+li1368-216.members.linode.com
+0 4 4 80932 1 1470764296
+/
+spider-141-8-143-168.yandex.com
+0 37 37 257049 21 1470747241
+/shop/
+msnbot-157-55-12-87.search.msn.com
+0 1 1 287 1 1470056106
+/
+ec2-54-158-199-196.compute-1.amazonaws.com
+0 18 18 239073 0 0
+-
+msnbot-40-77-167-0.search.msn.com
+0 8 8 42372 2 1470254479
+/product/gift-card
+32.215.149.130
+0 41 41 855479 1 1470675920
+/
+173.252.90.238
+0 1 1 6975 1 1470246200
+/
+baiduspider-180-76-15-146.crawl.baidu.com
+0 4 4 125276 1 1470785617
+/
+ec2-54-172-196-3.compute-1.amazonaws.com
+0 18 18 239073 0 0
+-
+crawl-66-249-79-184.googlebot.com
+0 120 104 744070 55 1470810203
+/
+b110039.yse.yahoo.net
+0 4 4 14084 2 1470683879
+/
+24.sub-70-214-69.myvzw.com
+0 21 16 405238 1 1470403114
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 4 4 99219 1 1470365487
+/product/medium-grade-clay-bar/
+static.105.247.251.148.clients.your-server.de
+0 1 1 20233 1 1470638115
+/
+abts-north-dynamic-247.193.69.182.airtelbroadband.in
+0 2 2 39938 1 1470162996
+/contact-us/
+173.252.90.228
+0 1 1 6975 1 1470246202
+/
+crawl17.exabot.com
+0 4 4 24254 2 1470104683
+/standard-services/
+msnbot-157-55-39-239.search.msn.com
+0 1 1 6975 1 1470044539
+/
+bzq-82-80-249-214.dcenter.bezeqint.net
+0 1 1 6975 1 1470025740
+/
+172.58.184.218
+0 14 13 120636 1 1470046779
+/
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 1 77703 0 0
+-
+spider-100-43-90-11.yandex.com
+0 2 2 8792 1 1470504173
+/product/gift-card/
+baiduspider-180-76-15-140.crawl.baidu.com
+0 1 1 32710 0 0
+-
+ec2-50-112-86-26.us-west-2.compute.amazonaws.com
+0 1 1 6975 1 1470141571
+/
+pool-74-102-76-78.nwrknj.fios.verizon.net
+0 39 38 1486294 1 1470680547
+/
+usefultweaks.com
+0 3 0 402 1 1470737712
+/
+baiduspider-180-76-15-160.crawl.baidu.com
+0 2 1 33177 1 1470349328
+/
+msnbot-207-46-13-135.search.msn.com
+0 2 2 13220 1 1470607812
+/
+173.252.115.84
+0 1 1 6975 1 1470712251
+/
+1.186.48.58.dvois.com
+0 42 36 1068083 1 1470652319
+/
+173.252.90.249
+0 1 1 2485 0 0
+-
+google-proxy-66-102-8-191.google.com
+0 28 28 375311 1 1470734966
+/
+ec2-54-163-209-237.compute-1.amazonaws.com
+0 97 96 2196087 1 1470245634
+/my-account/lost-password/
+c-73-178-92-242.hsd1.nj.comcast.net
+0 2 2 71131 1 1470249985
+/
+86-122-237-138.rdsnet.ro
+0 1 1 6975 1 1470255691
+/
+baiduspider-180-76-15-5.crawl.baidu.com
+0 1 1 34119 0 0
+-
+c-73-194-13-113.hsd1.nj.comcast.net
+0 21 20 819339 1 1470060717
+/
+173.252.90.240
+0 1 1 6975 1 1470070697
+/
+173.252.90.235
+0 1 1 2245 0 0
+-
+crawl-66-249-66-178.googlebot.com
+0 1 1 287 1 1470371171
+/product/car-wash-concentrate/
+154.118.35.57
+0 27 21 267232 1 1470155369
+/
+msnbot-207-46-13-153.search.msn.com
+0 1 1 7377 1 1470116517
+/product/1000-plus-finishing-material-gallon/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 1 1 33717 0 0
+-
+msnbot-207-46-13-50.search.msn.com
+0 7 7 101754 2 1470062753
+/product/get-a-grip-gloves-xl/
+ec2-52-201-159-209.compute-1.amazonaws.com
+0 6 6 12470 0 0
+-
+msnbot-40-77-167-19.search.msn.com
+0 4 4 112576 0 0
+-
+baiduspider-180-76-15-24.crawl.baidu.com
+0 2 2 5067 0 0
+-
+msnbot-40-77-167-88.search.msn.com
+0 5 5 51524 2 1470070192
+/shop/
+baiduspider-180-76-15-27.crawl.baidu.com
+0 2 2 53502 1 1470046110
+/
+173.252.90.242
+0 1 1 6975 1 1470463050
+/
+pool-98-116-57-200.nycmny.fios.verizon.net
+0 1 1 13256 0 0
+-
+msnbot-157-55-39-46.search.msn.com
+0 2 2 11400 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 2 2 36454 0 0
+-
+baiduspider-180-76-15-12.crawl.baidu.com
+0 2 2 102482 0 0
+-
+cpe-71-70-199-159.nc.res.rr.com
+0 38 37 1306532 1 1470606381
+/
+crawl-66-249-79-134.googlebot.com
+0 2 1 89 1 1470719029
+-
+baiduspider-180-76-15-10.crawl.baidu.com
+0 2 1 93426 2 1470462567
+/shop/page/2/
+rate-limited-proxy-72-14-199-68.google.com
+0 1 1 6975 1 1470744561
+/
+37.26.149.229
+0 1 1 26457 0 0
+-
+ec2-107-22-19-223.compute-1.amazonaws.com
+0 1 1 20233 1 1470194034
+/
+google-proxy-66-102-8-128.google.com
+0 36 36 353661 2 1470734965
+/
+pool-74-105-35-220.nwrknj.fios.verizon.net
+0 13 4 997 2 1470768574
+/
+filbi.pro
+0 11 11 342642 2 1470667925
+/cart/
+msnbot-131-253-27-162.search.msn.com
+0 2 2 14918 1 1470172045
+/contact-us/
+static-208-80-194-120.as13448.com
+0 1 1 20233 1 1470216469
+/
+baiduspider-180-76-15-32.crawl.baidu.com
+0 1 1 42752 0 0
+-
+38.18.103.1
+0 1 1 7468 0 0
+-
+104.236.37.210
+0 12 12 102096 1 1470462870
+/cart/
+rrcs-184-74-144-186.nys.biz.rr.com
+0 22 21 819359 1 1470387943
+/
+c-69-141-245-42.hsd1.nj.comcast.net
+0 92 91 2955381 1 1470217651
+/
+109.171.226.5.reverse.hostcorp.org
+0 1 1 20233 1 1470638112
+/
+static-208-80-193-33.as13448.com
+0 2 2 40466 2 1470735425
+/
+c-73-226-18-42.hsd1.nj.comcast.net
+0 51 43 995329 1 1470326021
+/
+crawl-66-249-79-130.googlebot.com
+0 1 0 20 1 1470376140
+-
+malta2970.startdedicated.de
+0 11 11 42039 3 1470276576
+/about-us/
+31.13.102.97
+0 1 1 6975 1 1470435329
+/
+208.68.22.50
+0 21 20 819339 1 1470754970
+/
+msnbot-157-55-2-155.search.msn.com
+0 1 1 287 1 1470187463
+/
+baiduspider-180-76-15-142.crawl.baidu.com
+0 2 2 54352 1 1470388074
+/
+baiduspider-180-76-15-34.crawl.baidu.com
+0 3 3 56846 1 1470438303
+/product/a-foam/
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 1541 0 0
+-
+vpn-213-109-129-11.link-kremen.net
+0 32 31 667871 2 1470202631
+/shop/
+173.252.90.232
+0 1 1 873 0 0
+-
+50-80-138-246.client.mchsi.com
+0 19 18 273382 1 1470212478
+/
+static-96-234-56-32.nwrknj.fios.verizon.net
+0 23 21 819417 1 1470082181
+/
+baiduspider-180-76-15-138.crawl.baidu.com
+0 3 3 65113 0 0
+-
+173.252.90.244
+0 2 2 13950 2 1470512300
+/
+pool-74-105-65-251.nwrknj.fios.verizon.net
+0 22 21 819359 1 1470055843
+/
+msnbot-40-77-167-50.search.msn.com
+0 6 6 125481 0 0
+-
+173.252.90.239
+0 1 1 6975 1 1470512300
+/
+msnbot-207-46-13-113.search.msn.com
+0 11 10 29008 2 1470130601
+-
+ec2-52-200-99-88.compute-1.amazonaws.com
+0 6 5 2876 0 0
+-
+msnbot-40-77-167-73.search.msn.com
+0 2 2 10595 1 1470272814
+/product/1500-plus-finishing-material/
+static-208-80-194-27.as13448.com
+0 1 1 20233 1 1470389483
+/
+1.187.63.84
+0 4 1 7468 0 0
+-
+baiduspider-180-76-15-23.crawl.baidu.com
+0 2 2 38031 1 1470136467
+/
+crawl-66-249-79-129.googlebot.com
+0 113 95 850748 46 1470808386
+/
+ec2-54-162-17-55.compute-1.amazonaws.com
+0 18 18 239073 0 0
+-
+ool-4b63aa6c.static.optonline.net
+0 37 34 610314 2 1470158836
+/
+msnbot-157-55-39-220.search.msn.com
+0 5 5 39694 1 1470811393
+/ceramic-pro/
+msnbot-157-55-39-235.search.msn.com
+0 3 3 26373 1 1470804566
+/product/new-wave-gallon/
+baiduspider-180-76-15-136.crawl.baidu.com
+0 1 1 21861 1 1470425662
+/product/pure-metal/
+66-87-117-97.pools.spcsdns.net
+0 1 0 58 0 0
+-
+msnbot-157-55-39-212.search.msn.com
+0 4 3 14230 1 1470788078
+/ceramic-pro/
+baiduspider-220-181-108-104.crawl.baidu.com
+0 1 1 19705 1 1470700055
+/contact-us/
+static-208-80-194-123.as13448.com
+0 2 2 40466 2 1470128123
+/
+192.185.1.20
+0 19 18 812077 0 0
+-
+www.whois.sc
+0 1 1 6975 1 1470157447
+/
+173.227.74.5
+0 19 18 812077 0 0
+-
+173.252.90.245
+0 5 5 34875 5 1470640269
+/
+msnbot-157-55-39-158.search.msn.com
+0 14 13 69376 7 1470668806
+/product/leather-perfect/
+70-91-24-193-busname-nj.panjde.hfc.comcastbusiness.net
+0 181 126 2326947 12 1470812614
+/valhalla-admin
+baiduspider-180-76-15-139.crawl.baidu.com
+0 2 2 75698 2 1470493894
+/product/a-foam/
+173.252.90.233
+0 1 1 6975 1 1470651534
+/
+87.sub-70-208-69.myvzw.com
+0 39 33 941986 3 1470385404
+/
+180.150.230.16
+0 1 0 226 1 1470228992
+/
+baiduspider-180-76-15-152.crawl.baidu.com
+0 1 1 21658 1 1470254911
+/product/citrus-belt/
+ool-60395e6a.static.optonline.net
+0 1369 1292 28875983 12 1470744897
+/
+baiduspider-123-125-71-20.crawl.baidu.com
+0 1 1 18081 1 1470264844
+/news/
+baiduspider-180-76-15-28.crawl.baidu.com
+0 2 2 34482 0 0
+-
+baiduspider-220-181-108-185.crawl.baidu.com
+0 1 1 980 1 1470110776
+/wp-json/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 4 4 87963 0 0
+-
+ec2-52-201-117-188.compute-1.amazonaws.com
+0 4 3 9848 0 0
+-
+ool-18b90371.dyn.optonline.net
+0 7 2 43487 1 1470140957
+/standard-services/
+baiduspider-220-181-108-109.crawl.baidu.com
+0 1 1 19736 1 1470594565
+/sitemap/
+msnbot-40-77-167-21.search.msn.com
+0 1 1 20337 0 0
+-
+bzq-82-80-230-228.cablep.bezeqint.net
+0 234 233 6219737 14 1470025829
+/my-account/lost-password/
+179.81-167-167.customer.lyse.net
+0 1 1 7013 1 1470660164
+/
+173.252.115.91
+0 1 1 6975 1 1470798249
+/
+msnbot-40-77-167-104.search.msn.com
+0 3 3 12857 0 0
+-
+ec2-54-159-86-189.compute-1.amazonaws.com
+0 1 1 20233 1 1470672825
+/
+104.132.20.82
+0 26 25 829739 1 1470303578
+/
+baiduspider-180-76-15-13.crawl.baidu.com
+0 1 1 17798 0 0
+-
+38.125.30.2
+0 21 20 819339 1 1470747045
+/
+msnbot-207-46-13-12.search.msn.com
+0 2 1 87 1 1470628972
+/
+baiduspider-180-76-15-137.crawl.baidu.com
+0 2 2 42683 0 0
+-
+ool-44c04ded.dyn.optonline.net
+0 69 68 2559787 2 1470727774
+/
+scan1.wordfence.com
+0 17 17 343961 17 1470770985
+/
+baiduspider-180-76-15-16.crawl.baidu.com
+0 1 1 2697 0 0
+-
+145.sub-70-208-72.myvzw.com
+0 18 18 812019 0 0
+-
+baiduspider-180-76-15-162.crawl.baidu.com
+0 1 1 2115 0 0
+-
+msnbot-157-55-39-156.search.msn.com
+0 6 5 143861 1 1470026939
+/
+173.252.90.234
+0 1 1 6975 1 1470254369
+/
+173.252.90.243
+0 1 1 1041 0 0
+-
+dynamic22-11.netcelerate.net
+0 1 1 19705 1 1470419084
+/contact-us
+ool-4577cdaa.dyn.optonline.net
+0 139 132 3076107 3 1470724159
+/shop/page/2/
+44.sub-70-208-78.myvzw.com
+0 44 44 1724506 1 1470306942
+/
+2.49.27.85
+0 1 1 164086 0 0
+-
+baiduspider-180-76-15-155.crawl.baidu.com
+0 2 2 4437 0 0
+-
+ec2-52-1-79-10.compute-1.amazonaws.com
+0 1 1 219353 0 0
+-
+crawl-66-249-79-138.googlebot.com
+0 1 1 69 0 0
+-
+crawl-66-249-79-133.googlebot.com
+0 91 78 521674 45 1470811451
+/
+msnbot-131-253-25-210.search.msn.com
+0 1 1 6245 0 0
+-
+174.127.188.37
+0 1 1 20233 1 1470131340
+/
+msnbot-157-55-39-144.search.msn.com
+0 2 1 40376 1 1470652700
+/
+173.252.90.231
+0 2 2 13950 2 1470760874
+/
+c-71-58-41-142.hsd1.nj.comcast.net
+0 2 2 307 1 1470412310
+/
+pool-108-5-150-44.nwrknj.fios.verizon.net
+0 15 14 704821 1 1470433677
+/contact-us/
+baiduspider-180-76-15-159.crawl.baidu.com
+0 1 1 20233 1 1470457524
+/
+msnbot-157-55-39-70.search.msn.com
+0 4 3 26203 3 1470514851
+/testimonials/jordan-ali/
+99-45-93-54.lightspeed.knvltn.sbcglobal.net
+0 18 18 399892 0 0
+-
+62-210-88-186.rev.poneytelecom.eu
+0 14 0 87712 0 0
+-
+baiduspider-180-76-15-29.crawl.baidu.com
+0 2 2 55574 1 1470561777
+/mobile-detailing/
+baiduspider-220-181-108-170.crawl.baidu.com
+0 1 1 980 1 1470632608
+/wp-json/
+117.242.188.33
+0 32 26 1860369 1 1470791484
+/
+baiduspider-220-181-108-123.crawl.baidu.com
+0 1 1 19138 1 1470487628
+/specials/
+rate-limited-proxy-72-14-199-64.google.com
+0 1 1 7013 1 1470744564
+/
+66.220.146.180
+0 1 1 2485 0 0
+-
+173.252.90.248
+0 4 4 18825 2 1470170051
+/
+pool-100-1-62-151.nwrknj.fios.verizon.net
+0 24 24 829394 1 1470469356
+/
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 1 2484 0 0
+-
+172.58.152.227
+0 2 2 35113 0 0
+-
+msnbot-207-46-13-132.search.msn.com
+0 2 1 6309 1 1470677247
+-
+baiduspider-180-76-15-20.crawl.baidu.com
+0 3 2 45630 2 1470425657
+/
+msnbot-40-77-167-38.search.msn.com
+0 12 11 74986 5 1470483542
+/product-category/metal-polish/
+46.161.9.16
+0 1 1 20233 1 1470390327
+/
+msnbot-207-46-13-48.search.msn.com
+0 8 7 78962 1 1470380911
+/contact-us/
+93.159.230.89
+0 13 13 176992 0 0
+-
+pool-173-63-30-162.nwrknj.fios.verizon.net
+0 2 2 307 1 1470325863
+/
+baiduspider-180-76-15-144.crawl.baidu.com
+0 2 2 270135 1 1470116654
+/product/gift-card/
+mobile-107-77-225-36.mobile.att.net
+0 21 20 238945 1 1470506709
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-207-46-13-181.search.msn.com
+0 6 5 125940 2 1470804730
+/
+msnbot-199-30-24-169.search.msn.com
+0 18 18 239073 0 0
+-
+192.254.235.96
+0 6 6 120 0 0
+-
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 20233 1 1470789296
+/
+crawl-66-249-79-184.googlebot.com
+0 9 5 46523 8 1470810203
+/
+38.18.103.1
+0 1 1 7468 0 0
+-
+malta2970.startdedicated.de
+0 2 2 5573 0 0
+-
+crawl-66-249-79-129.googlebot.com
+0 10 5 45018 5 1470808386
+/
+msnbot-157-55-39-220.search.msn.com
+0 5 5 39694 1 1470811393
+/ceramic-pro/
+msnbot-157-55-39-235.search.msn.com
+0 3 3 26373 1 1470804566
+/product/new-wave-gallon/
+msnbot-157-55-39-212.search.msn.com
+0 3 3 7956 1 1470788078
+/ceramic-pro/
+70-91-24-193-busname-nj.panjde.hfc.comcastbusiness.net
+0 14 7 77421 1 1470812614
+/valhalla-admin
+baiduspider-180-76-15-163.crawl.baidu.com
+0 1 1 42752 0 0
+-
+173.252.115.91
+0 1 1 6975 1 1470798249
+/
+crawl-66-249-79-133.googlebot.com
+0 6 6 8410 6 1470811451
+/
+117.242.188.33
+0 32 26 1860369 1 1470791484
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://valhalladetailing.com/not_found
+0 16
+https://valhalladetailing.com/product/get-a-grip-gloves-size-l/
+0 1
+https://valhalladetailing.com/wp-admin/post.php
+0 126
+https://valhalladetailing.com/product/new-concept-gallon/
+0 1
+https://valhalladetailing.com/valhalla-admin
+0 11
+https://valhalladetailing.com/product/hi-line/
+0 1
+https://valhalladetailing.com/product-category/rubber-vinyl/
+0 1
+https://valhalladetailing.com/product/fine-grade-clay-bar/
+0 1
+https://valhalladetailing.com/wp-admin/
+0 241
+http://valhalladetailing.com/ceramic-pro
+0 14
+https://www.facebook.com
+0 1
+https://valhalladetailing.com/wp-admin/customize.php
+0 56
+http://www.yelp.com/biz_redir
+0 1
+https://valhalladetailing.com/product/topaz-wax/
+0 6
+https://valhalladetailing.com/standard-services/
+0 77
+https://valhalladetailing.com/product/3000-plus-finishing-material/
+0 2
+http://www.detailboss.nyc.usrfiles.com/html/1335a7_f0ccc9226ad5f5a26cb9f7a475d8e054.html
+0 3
+https://valhalladetailing.com/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 1
+https://valhalladetailing.com/product/1000-plus-finishing-material-gallon/
+0 3
+https://plus.google.com/
+0 1
+https://www.google.bg/
+0 1
+http://valhalladetailing.com/
+0 544
+https://valhalladetailing.com/wp-content/plugins/w3-total-cache/pub/css/widget.css
+0 1
+http://extremedetailcenter.com/not_found
+0 1
+https://valhalladetailing.com/
+0 929
+https://valhalladetailing.com/product/seal-b-gallon/
+0 8
+https://valhalladetailing.com/wp-content/themes/valhalla/css/jquery.fancybox.css
+0 8
+https://valhalladetailing.com/services/additional-services/
+0 1
+https://valhalladetailing.com/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/select2.css
+0 1
+https://valhalladetailing.com/wp-content/plugins/w3-total-cache/pub/css/options.css
+0 3
+https://valhalladetailing.com/product/1000-plus-finishing-material-quart/
+0 3
+https://valhalladetailing.com/testimonials/jordan-ali/
+0 1
+https://valhalladetailing.com/wp-content/plugins/better-wp-security/lib/icon-fonts/icon-fonts.css
+0 7
+https://www.google.com/
+0 17
+- (Direct Request)
+0 1465
+https://valhalladetailing.com/product/gift-card/
+0 1
+https://valhalladetailing.com/product/plastic-trim-restorer/
+0 1
+https://valhalladetailing.com/wp-admin/options-permalink.php
+0 22
+https://valhalladetailing.com/wp-content/cache/minify/000000/M9VPKi0pyc8r1svNzNMx1U9JLM7ITIbxywt0E1OADP3k4mL9nPz0zDyQMAA.css
+0 8
+https://valhalladetailing.com/cart/
+0 11
+http://valhalladetailing.com/standard-services
+0 17
+https://valhalladetailing.com/wp-admin/load-styles.php
+0 9
+https://valhalladetailing.com/product/2500-plus-finishing-material/
+0 1
+https://valhalladetailing.com/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-global.css
+0 2
+https://valhalladetailing.com/wp-admin/options-general.php
+0 131
+https://valhalladetailing.com/product/details/
+0 1
+https://valhalladetailing.com/product/citrus-belt/
+0 1
+https://valhalladetailing.com/product/pure-metal/
+0 1
+https://valhalladetailing.com/wp-admin/themes.php
+0 5
+https://valhalladetailing.com/product/detailers-professional-glass-cleaner/
+0 1
+http://www.valhalladetailing.com/
+0 22
+https://valhalladetailing.com/product/right-angle-detail-brush/
+0 1
+https://valhalladetailing.com/sitemap/
+0 4
+https://valhalladetailing.com/product/1500-plus-finishing-material/
+0 5
+https://valhalladetailing.com/mobile-detailing/
+0 38
+https://valhalladetailing.com/wp-admin/edit.php
+0 21
+https://valhalladetailing.com/product/a-foam/
+0 29
+https://valhalladetailing.com/product/new-wave-quart/
+0 1
+https://valhalladetailing.com/product/showroom/
+0 1
+https://valhalladetailing.com/product/flint-glaze-wax/
+0 30
+https://valhalladetailing.com/product/gift-card
+0 18
+https://valhalladetailing.com/testimonials/elvira-s/
+0 1
+https://valhalladetailing.com/product/car-wash-concentrate/
+0 2
+https://www.google.co.il/
+0 1
+https://valhalladetailing.com/product-category/cleaning-compounds/
+0 2
+http://m.yelp.com/redir
+0 1
+https://valhalladetailing.com/specials/
+0 60
+https://valhalladetailing.com/contact-us/
+0 33
+http://whois.domaintools.com/valhalladetailing.com
+0 1
+https://valhalladetailing.com/wp-content/themes/valhalla/style.css
+0 47
+https://valhalladetailing.com/product/get-a-grip-gloves-xl/
+0 8
+https://valhalladetailing.com/wp-content/plugins/woocommerce/assets/css/menu.css
+0 2
+https://www.google.com.ua/
+0 1
+https://valhalladetailing.com/wp-admin/admin.php
+0 53
+http://search.yahoo.com/search
+0 1
+https://valhalladetailing.com/wp-content/themes/valhalla/css/flexslider.css
+0 7
+https://valhalladetailing.com/dealerships/
+0 26
+https://valhalladetailing.com/wp-content/plugins/woocommerce/assets/css/admin.css
+0 6
+https://valhalladetailing.com/services/cars-suvs/
+0 3
+https://valhalladetailing.com/product/medium-grade-clay-bar/
+0 1
+https://valhalladetailing.com/product/new-wave-gallon/
+0 1
+https://valhalladetailing.com/my-account/
+0 2
+https://valhalladetailing.com/ceramic-pro/
+0 21
+https://valhalladetailing.com/product/buff-pad-cleaning-spur/
+0 3
+https://valhalladetailing.com/product/metal-mania/
+0 5
+https://valhalladetailing.com/news/
+0 2
+https://valhalladetailing.com/product/leather-perfect/
+0 1
+https://valhalladetailing.com/shop/
+0 350
+https://valhalladetailing.com/wp-admin/tools.php
+0 1
+http://valhalladetailing.com/valhalla-admin
+0 22
+https://valhalladetailing.com/about-us/
+0 31
+https://valhalladetailing.com/product/speedy-voc-gallon/
+0 1
+https://valhalladetailing.com
+0 12
+http://extremedetailcenter.com/valhalla-admin
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 5.1; rv:2.0b13pre) Gecko/20110223 Firefox/4.0b13pre
+0 1
+curl/7.35.0
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4
+0 13
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 533
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; seoscanners.net/1; +spider@seoscanners.net)
+0 23
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3
+Mozilla/5.0 (X11; Linux i686; rv:34.0; P1BzHUwpBlzrKl8RAGnsqgpWavfFskxR3gY9gbB6bEY=) Gecko/20100101 Firefox/34.0
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 4
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 5
+WWW-Mechanize/1.73
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11
+0 3
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 17
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 90
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.71 (KHTML, like Gecko) Version/7.0 Safari/537.71
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.7) Gecko/20100713 Firefox/3.6.7
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.105
+0 25
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2a1pre) Gecko/20090428 Firefox/3.6a1pre
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.23) Gecko/20110920 Firefox/3.6.23
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 92
+WordPress/4.4.4; https://valhalladetailing.com
+0 374
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 35
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Saf
+0 24
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 6
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 89
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.86 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120427 Firefox/15.0a1
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 4
+WordPress/4.4.4; https://extremedetailcenter.com
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 26
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.68 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 80
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+0 1
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 3
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 287
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 144
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G34
+0 24
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.3) Gecko/20100101 Firefox/27.3
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux i686; B62UzLTBMoGH/ENTVEgFW2s8s4+Kj54eH4QXOGcvTzg=) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.
+0 19
+Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-G530F Build/LRX22G)
+0 1
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 42
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+0 1
+btcrawler
+0 16
+Python-urllib/1.17
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 5
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 33
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34
+0 54
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G34 Safari/601.1
+0 41
+Googlebot-Image/1.0
+0 6
+Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 27
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 5
+Mozilla/5.0 (Linux; U; Android 4.3; en-us; Z730 Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safar
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/27.0.1453 Safari/53
+0 36
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 3
+Mozilla/5.0 (Linux; Android 6.0; LG-H960 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 201
+Microsoft Office Excel 2013
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+0 43
+Safari/11601.6.17 CFNetwork/760.5.1 Darwin/15.5.0 (x86_64)
+0 5
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 128
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0
+0 4
+Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+0 37
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko)
+0 1
+Mozilla/6.0 (compatible)
+0 6
+mfibot/1.1 (http://www.mfisoft.ru/analyst/; 
+0 11
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 33
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MOB30Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 32
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 
+0 21
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 22
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; SAMSUNG SPH-L720T Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 
+0 1
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:26.0) Gecko/20100101 Firefox/26.0
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) 
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 4
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MOB30P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:26.0) Gecko/20100101 Firefox/26.0
+0 4
+Mozilla/5.0 (Windows NT 6.0; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3
+ZoomInformation Bot
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 5
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 265
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 8
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 39
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; Touch; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CL
+0 35
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; TeeRaidBot; +https://teeraid.com/bot/)
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+0 20
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E233 Safa
+0 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/7.0.1 Safari/537.73.11
+0 6
+Mozilla/5.0 (X11; CrOS x86_64 8172.60.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/31.0.1650.63 Chrome/31.0.1650.63 Safar
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 492
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 32
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 17
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 15
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; 
+0 22
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 4
+rogerbot/1.1 (http://moz.com/help/guides/search-overview/crawl-diagnostics#more-help, rogerbot-crawler+pr2-crawler-18@moz.com
+0 97
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0; en-US) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/11.0.678.0 Safari/534.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/17.0.128207670 Mobile/13F
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.41 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 2
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+0 5
+rogerbot/1.1 (http://moz.com/help/pro/what-is-rogerbot-, rogerbot-crawler+vanguard@moz.com)
+0 3
+Screaming Frog SEO Spider/5.1
+0 143
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; ms-office)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 94
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G34 Saf
+0 46
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 8
+Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 2
+Mozilla/5.0 (compatible)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Saf
+0 1
+# End Of Table - agents
+# -search strings- 
+valhalafoam
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

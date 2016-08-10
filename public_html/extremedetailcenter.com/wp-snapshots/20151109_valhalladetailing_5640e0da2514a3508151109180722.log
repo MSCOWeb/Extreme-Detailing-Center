@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-11-09 18:07:49
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.24
+WORDPRESS:	4.2.5
+PHP INFO:	5.4.45 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (256M default) 
+MEMORY STACK: 34MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:22 | filtered:0 | create:22 
+FILTERED: [] 
+SQL CREATED: 20151109_valhalladetailing_5640e0da2514a3508151109180722_database.sql 
+SQL FILE SIZE: 1.48MB 
+SQL FILE TIME: 2015-11-09 18:07:49 
+SQL RUNTIME: 0.50 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home4/valhalla/public_html 
+ARCHIVE FILE: 20151109_valhalladetailing_5640e0da2514a3508151109180722_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	61.92MB 
+STATS:	Dirs 430 | Files 3,117 
+SQL ADDED: 20151109_valhalladetailing_5640e0da2514a3508151109180722_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3547
+    [filename] => /home4/valhalla/public_html/wp-snapshots/tmp/20151109_valhalladetailing_5640e0da2514a3508151109180722_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 26.9MB 
+ARCHIVE RUNTIME: 64.33 sec. 
+MEMORY STACK: 35.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home4/valhalla/public_html/wp-snapshots/tmp/20151109_valhalladetailing_5640e0da2514a3508151109180722_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.48MB 
+Installer File: 314.55KB 
+Archive File: 26.9MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 66.10 sec.
+PEAK PHP MEMORY USED: 37.25MB
+DONE PROCESSING => 20151109_valhalladetailing 2015-11-09 18:08:55
+ 

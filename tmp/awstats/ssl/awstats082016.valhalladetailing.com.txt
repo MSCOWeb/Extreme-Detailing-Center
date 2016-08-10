@@ -1,0 +1,595 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201608 will be lost/reset.
+# Last config file used to build this data file was /home4/valhalla/tmp/awstats/ssl/awstats.valhalladetailing.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2707                
+POS_VISITOR 11713               
+POS_DAY 15051               
+POS_DOMAIN 3547                
+POS_LOGIN 3951                
+POS_ROBOT 4106                
+POS_WORMS 4766                
+POS_EMAILSENDER 4897                
+POS_EMAILRECEIVER 5040                
+POS_SESSION 15383               
+POS_SIDER 15593               
+POS_FILETYPES 5175                
+POS_DOWNLOADS 5469                
+POS_OS 6923                
+POS_BROWSER 7253                
+POS_SCREENSIZE 8727                
+POS_UNKNOWNREFERER 8801                
+POS_UNKNOWNREFERERBROWSER 9266                
+POS_ORIGIN 9619                
+POS_SEREFERRALS 9760                
+POS_PAGEREFS 9927                
+POS_SEARCHWORDS 10166               
+POS_KEYWORDS 10332               
+POS_MISC 2370                
+POS_ERRORS 10405               
+POS_CLUSTER 3807                
+POS_SIDER_404 10550               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160810070336 592 151113 14449803751318
+FirstTime 20160801011527
+LastTime 20160810070334
+LastUpdate 20160810071954 592 0 592 0 0
+TotalVisits 221                 
+TotalUnique 66                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 87                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 27 29 48530 16 47 455279
+1 14 59 2255077 15 22 152080
+2 6 7 2605 27 31 213496
+3 17 17 47769 11 15 133004
+4 93 252 6261839 20 27 179575
+5 33 60 797958 20 34 634755
+6 17 58 1256743 23 32 371417
+7 22 87 2641728 10 25 105602
+8 48 155 2874722 15 55 377830
+9 107 383 10631034 11 35 493803
+10 104 335 7852559 18 44 238031
+11 160 452 9417339 60 97 753386
+12 31 105 3323073 16 46 412873
+13 79 226 4114782 20 40 568585
+14 144 407 7100875 71 186 3907931
+15 35 115 2732153 8 14 129413
+16 67 258 4739502 22 44 227405
+17 30 79 1316677 75 148 2778873
+18 38 127 2286053 20 42 323055
+19 42 66 1675663 27 47 572703
+20 31 83 2470647 20 52 297574
+21 22 58 2011377 14 36 417017
+22 11 35 1165294 11 33 351129
+23 9 9 180 25 33 324351
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 1086 3075 66096508
+il 76 236 6267695
+ng 6 26 267174
+in 6 71 2930024
+ua 5 31 667813
+nl 2 2 40466
+fr 2 2 13950
+es 1 1 20233
+no 1 1 7013
+ru 1 14 197225
+ro 1 1 6975
+ae 0 1 164086
+bg 0 1 345017
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 277 1345465 20160810064411 11
+spider 228 6075117 20160810044146 1
+bot[\s_+:,\.\;\/\\-] 207 2463309 20160810070000 19
+crawl 113 2369986 20160808172421 8
+bingpreview 37 451033 20160810002726 0
+php 33 195354 20160809164114 0
+scanner 23 69010 20160810043807 12
+no_user_agent 8 133764 20160810030409 0
+msnbot\-media 8 57972 20160806161608 0
+googlebot\-image 4 494541 20160808134246 0
+slurp 4 14084 20160808191759 2
+robot 4 24254 20160802022443 1
+[\s_+:,\.\;\/\\-]bot 3 89213 20160801211629 0
+curl 1 20233 20160808063515 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 416 1842161 0 0
+png 540 4095050 0 0
+pdf 60 2104929 0 0
+woff 24 143484 0 0
+php 647 3637474 0 0
+html 504 3050816 0 0
+xml 1 469 0 0
+js 732 11295255 0 0
+jpg 499 50665496 0 0
+Unknown 11 32509 0 0
+gif 18 149167 0 0
+svg 10 7369 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 22
+/wp-content/uploads/2015/07/Plastic-Trim-Restorer-MSDS.pdf 9 0 384768
+/wp-content/uploads/2015/07/Flint-Glaze-Wax-MSDS.pdf 7 0 241633
+/wp-content/uploads/2015/07/2500-Plus-Finishing-Material-MSDS.pdf 7 0 238833
+/wp-content/uploads/2015/07/Car-Wash-Concentrate-MSDS.pdf 7 0 225596
+/wp-content/uploads/2015/07/New-Wave-MSDS.pdf 7 0 277018
+/wp-content/uploads/2015/07/Speedy-VOC-MSDS.pdf 7 0 232239
+/wp-content/uploads/2015/07/Topaz-Wax-MSDS.pdf 6 0 200796
+/wp-content/uploads/2015/07/Metal-Mania-MSDS.pdf 6 0 202458
+/wp-content/uploads/2015/07/Detailers-Professional-Glass-Cleaner-MSDS.pdf 6 0 251112
+/wp-content/uploads/2015/06/Details-MSDS.pdf 6 0 195288
+/wp-content/uploads/2015/07/A-Foam-MSDS.pdf 6 0 190518
+/wp-content/uploads/2015/07/Hi-Line-MSDS.pdf 6 0 199614
+/wp-content/uploads/2015/07/1000-Plus-Finishing-Material-MSDS.pdf 6 0 204714
+/wp-content/uploads/2015/07/1500-Plus-Finishing-Material-MSDS.pdf 6 0 204714
+/wp-content/uploads/2015/07/3000-Plus-Finishing-Material-MSDS.pdf 6 0 202302
+/wp-content/uploads/2015/07/Pure-Metal-MSDS.pdf 6 0 257238
+/wp-content/uploads/2015/07/New-Concept-MSDS.pdf 6 0 196260
+/wp-content/uploads/2015/07/Seal-B-MSDS.pdf 6 0 207474
+/wp-content/uploads/2015/07/Leather-Perfect-MSDS.pdf 6 0 203376
+/wp-content/uploads/2015/07/Citrus-Belt-MSDS.pdf 5 0 163150
+//wp-content/plugins/w3-total-cache/readme.txt 1 0 82418
+//wp-content/plugins/wordfence/readme.txt 1 0 106455
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+linuxandroid 261 65
+winxp 16 9
+winlong 39 1
+macosx6 28 8
+ios_iphone 114 23
+winunknown 1 1
+win8 8 0
+macosx9 52 31
+ios_ipad 78 11
+macosx7 16 7
+unix 35 11
+winnt 1357 427
+linuxubuntu 1 0
+linux 238 23
+win7 293 77
+macosx 424 70
+win8.1 67 14
+Unknown 415 404
+macosx8 19 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 76
+safari7.0.3 1 1
+firefox28.0 4 2
+msie6.0 1 1
+chrome52.0.2743.116 208 48
+chrome12.0.742.100 2 2
+firefox3.6 1 1
+chrome32.0.1700.72 3 2
+chrome34.0.1847.137 1 1
+firefox26.0 35 10
+chrome40.0.2214.111 6 1
+firefox4.0 1 1
+chrome31.0.1650.57 16 5
+firefox34.0 18 0
+chrome31.0.1650.63 51 19
+safari9.1.2 170 32
+safari7.0.1 6 1
+msie8.0 13 0
+chrome51.0.2704.81 222 65
+firefox43.0 30 4
+msie7.0 32 7
+safari9.1.1 41 5
+chrome27.0.1453 72 0
+chrome50.0.2661.86 2 2
+chrome32.0.1700.68 2 0
+chrome33.0.1750.152 17 17
+firefox48.0 1 0
+opera12.16 5 2
+chrome34.0.1847.131 2 2
+chrome48.0.2564.82 18 0
+firefox21.0 1 1
+firefox29.0 5 3
+firefox38.0 38 3
+firefox7.0.1 1 1
+firefox3.6.23 1 1
+firefox47.0 675 219
+chrome51.0.2704.103 332 56
+chrome35.0.1916.114 1 1
+safari6.0.5 5 3
+firefox33.0 3 1
+firefox25.0 20 5
+mozilla 35 27
+chrome46.0.2486.0 23 3
+safari6.1.1 9 3
+safari5.1.9 19 3
+firefox36.0 4 2
+safari6.1 1 0
+safari 55 0
+safari7.0 3 1
+firefox15.0 1 1
+android 3 0
+chrome12.0.742.91 4 1
+chrome28.0.1500.95 1 1
+chrome32.0.1700.41 2 1
+firefox24.0 6 2
+firefox31.0 2 2
+iphone 24 5
+safari8.0 37 8
+msie9.0 21 1
+Unknown 382 379
+firefox27.0 2 1
+chrome14.0.835.202 1 1
+firefox3.6.7 1 1
+chrome11.0.696.68 1 1
+safari9.0.3 13 0
+chrome41.0.2227.0 4 1
+chrome28.0.1500.71 19 1
+chrome41.0.2272.104 1 0
+chrome52.0.2743.82 551 179
+msie11.0 13 5
+safari9.0 130 21
+chrome51.0.2704.106 14 3
+chrome35.0.1916.153 5 1
+msie10.0 9 4
+firefox3.6.18 1 1
+firefox27.3 1 1
+firefox3.6.13 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Python-urllib/1.17 20160808123339
+WordPress/4.4.4;_https://extremedetailcenter.com 20160809102156
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20160809120924
+Mozilla/5.0_(compatible) 20160801043053
+WordPress/4.4.4;_https://valhalladetailing.com 20160810062322
+Mozilla/6.0_(compatible) 20160801043101
+Go-http-client/1.1 20160803202131
+WWW-Mechanize/1.73 20160802123931
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Python-urllib/1.17 20160808123339
+WordPress/4.4.4;_https://extremedetailcenter.com 20160809102156
+Microsoft_Office_Excel_2013 20160801140118
+Go-http-client/1.1 20160803202131
+WWW-Mechanize/1.73 20160802123931
+WordPress/4.4.4;_https://valhalladetailing.com 20160810062322
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 470 584
+From1 0 0
+From2 19 22
+From3 3 3
+From4 695 2853
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 18 21
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.yelp.com/biz_redir 1 1
+https://www.facebook.com 1 1
+http://m.yelp.com/redir 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+valhalafoam 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+valhalafoam 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 6 804
+302 35 680
+206 2 31389
+406 1 226
+301 14 180
+404 165 548917
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 23
+/1000-plus-finishing-material-gallon 1 -
+/apple-touch-icon-precomposed.png 2 -
+/img/slides/6g-slider-custom-01.jpg 1 -
+/ 29 -
+/premium-services/ 1 -
+/apple-touch-icon.png 2 -
+/blog/wordpress/wp-admin/setup-config.php 2 -
+/wordpress/wordpress/wp-admin/setup-config.php 2 -
+/wp/wp-admin/setup-config.php 2 -
+/news/wp-admin/setup-config.php 2 -
+/wp-content/uploads/2015/07/plastic-trim-restorer-msds.pdf 3 -
+/.well-known/apple-app-site-association 7 -
+/.well-known/assetlinks.json 7 -
+/wp-content/themes/valhalla/images/favicon.png 78 -
+/shared/trap/ 1 -
+/blog/wp-admin/setup-config.php 2 -
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/not_found 10 https://valhalladetailing.com/wp-admin/
+/wordpress/wp-admin/setup-config.php 2 -
+/backup/wp-admin/setup-config.php 2 -
+/apple-app-site-association 6 -
+/shared/photoGallery/server.php 1 -
+/admin/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 87
+96.57.94.106 380 1158 25247100 20160809121457
+192.254.235.96 376 376 9460 20160810062322 20160810062322 /wp-cron.php
+82.80.230.228 75 233 6219717 20160801043029
+69.119.205.170 27 136 3073226 20160809062919
+70.91.24.193 25 166 2292059 20160810070334 20160810065944 /valhalla-admin
+69.141.245.42 22 91 2955323 20160803094731
+69.46.36.7 17 17 343961 20160809192945
+73.226.18.42 17 51 995329 20160804155341
+68.192.77.237 15 68 2559729 20160809072934
+71.70.199.159 12 37 1306474 20160807214621
+104.236.37.210 12 12 102096 20160806055430
+108.53.75.97 11 35 1627566 20160802190900
+74.102.76.78 11 38 1486236 20160808182227
+70.208.64.166 10 32 277403 20160805135813
+75.99.170.108 10 35 610198 20160802172716
+70.208.78.44 9 44 1724506 20160804103542
+72.76.84.186 9 61 2048433 20160803145059
+70.208.69.87 9 37 941870 20160805082324
+66.102.8.128 9 36 353661 20160809092925
+172.58.184.218 7 13 120578 20160801101939
+154.118.35.57 6 26 267174 20160802162929
+98.109.185.48 6 28 860764 20160805095234
+69.142.125.250 6 32 1144880 20160808164610
+73.160.119.246 6 31 1098713 20160808142352
+104.132.20.82 6 25 829681 20160804093938
+98.116.57.200 0 1 13256 
+54.164.147.209 0 1 345017 
+195.154.146.225 2 2 13950 20160807190923
+208.68.22.50 2 20 819281 20160809150250
+173.227.74.5 0 18 812019 
+74.105.35.220 4 11 881 20160809184934
+208.80.194.123 2 2 40466 20160802085523
+99.45.93.54 0 18 399892 
+86.122.237.138 1 1 6975 20160803202131
+96.234.56.32 3 21 819301 20160801200941
+54.162.17.55 0 18 239073 
+70.214.69.24 4 21 405238 20160805131834
+54.158.199.196 0 18 239073 
+68.81.121.195 0 13 242707 
+50.112.86.26 1 1 6975 20160802123931
+46.229.170.197 2 2 40466 20160804152052
+107.77.225.36 3 20 238887 20160806180509
+213.109.129.11 5 31 667813 20160803053711
+82.80.249.214 1 1 6975 20160801042900
+24.185.3.113 2 2 18434 20160802122917
+208.80.192.33 2 2 40466 20160809093705
+117.242.188.33 3 29 1857450 20160810011124
+1.187.63.84 0 4 7468 
+66.102.8.191 5 28 375311 20160809092926
+54.242.40.103 0 18 239073 
+107.22.19.223 1 1 20233 20160803031354
+54.159.86.189 1 1 20233 20160808161345
+208.80.194.27 1 1 20233 20160805093123
+52.1.187.156 0 1 104967 
+2.49.27.85 0 1 164086 
+93.159.230.89 0 13 176992 
+208.80.194.120 1 1 20233 20160803092749
+174.127.188.37 1 1 20233 20160802094900
+54.172.196.3 0 18 239073 
+208.80.194.122 3 3 60699 20160808090444
+192.185.1.20 0 18 812019 
+184.74.144.186 3 21 819301 20160805090543
+50.80.138.246 3 18 273324 20160803082118
+81.167.167.179 1 1 7013 20160808124244
+173.63.30.162 2 2 307 20160804155103
+1.186.48.58 3 38 1065106 20160808103159
+71.58.41.142 2 2 307 20160805155150
+91.139.144.107 0 1 345017 
+108.5.150.44 3 14 704763 20160805214757
+52.1.79.10 0 1 219353 
+100.1.62.151 5 24 829394 20160806074236
+73.178.92.242 1 2 71131 20160803184625
+74.105.65.251 3 21 819301 20160801125043
+32.215.149.130 3 41 855479 20160808170520
+46.161.9.16 1 1 20233 20160805094527
+82.80.249.143 0 1 14546 
+70.208.72.145 0 18 812019 
+73.194.13.113 2 20 819281 20160801141157
+72.14.199.64 1 1 7013 20160809120924
+72.14.199.68 1 1 6975 20160809120921
+52.87.253.92 1 1 6975 20160809034841
+38.125.30.2 2 20 819281 20160809125045
+172.58.152.227 0 2 35113 
+37.26.149.229 0 1 26457 
+66.102.8.131 6 28 367204 20160809092919
+38.18.103.1 0 1 7468 
+5.226.171.109 1 1 20233 20160808063512
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20160801 300 898 18821239 25
+20160802 108 304 5733488 22
+20160803 134 535 13817798 20
+20160804 90 218 5207032 25
+20160805 76 179 3324176 24
+20160806 71 204 3936218 21
+20160807 45 70 1374867 16
+20160808 140 546 14596028 27
+20160809 211 460 8273735 33
+20160810 12 48 1939598 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 24
+5mn-15mn 7
+15mn-30mn 6
+2mn-5mn 6
+30s-2mn 20
+0s-30s 146
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 68
+/wp-admin/admin-ajax.php 334 22145 9 13
+/ 282 1229534 88 92
+/wp-cron.php 228 5163 107 103
+/shop/ 45 534306 2 1
+/wp-admin/load-scripts.php 38 2024503 0 0
+/contact-us/ 17 90250 3 1
+/wp-admin/options-general.php 17 320892 0 1
+/specials/ 16 98042 0 0
+/standard-services/ 15 120395 1 2
+/mobile-detailing/ 14 78730 3 0
+/ceramic-pro/ 13 77737 1 0
+/wp-admin/load-styles.php 10 814991 0 0
+/valhalla-admin 9 15059 2 1
+/dealerships/ 8 51961 1 0
+/wp-content/themes/valhalla/css/fonts/flexslider-icon.woff 8 10144 0 1
+/wp-content/plugins/better-wp-security/lib/icon-fonts/fonts/ithemes-icons.woff 7 17080 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 7 100184 0 0
+/about-us/ 7 44363 1 0
+/wp-admin/ 6 91919 1 0
+/wp-admin/admin.php 5 99961 0 0
+/product/gift-card/ 4 17737 0 0
+/cart/ 4 72696 0 1
+/product/a-foam/ 4 22220 1 0
+/sitemap/ 3 19683 0 0
+/product/flint-glaze-wax/ 3 22977 1 0
+/product/leather-perfect/ 2 14758 0 0
+/product/hi-line/ 2 14614 0 0
+/my-account/lost-password/ 1 7101 0 1
+/product/details/ 2 14696 0 0
+/product/citrus-belt/ 2 14634 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 11956 0 0
+/wp-admin/tools.php 1 12464 0 0
+/shop/page/2/ 3 37628 0 1
+/wp-admin/post.php 3 114461 0 0
+/wp-content/themes/valhalla/handleForm.php 1 27 0 0
+/product/showroom/ 2 14836 0 0
+/product/right-angle-detail-brush/ 2 14988 0 0
+/product/plastic-trim-restorer/ 2 14736 0 0
+/product/detailers-professional-glass-cleaner/ 2 14734 0 0
+/product/buff-pad-cleaning-spur/ 2 14616 0 0
+/product/1000-plus-finishing-material-quart/ 2 14742 0 0
+/wp-admin/customize.php 3 102200 0 0
+/product/pure-metal/ 2 14708 0 0
+/product/seal-b-gallon/ 2 15256 0 0
+/product/get-a-grip-gloves-xl/ 2 15314 0 0
+/product/fine-grade-clay-bar/ 2 14618 0 0
+/my-account/ 1 7107 0 0
+/product/new-wave-quart/ 2 14770 0 0
+/product/1000-plus-finishing-material-gallon/ 2 14754 0 0
+/product/topaz-wax/ 2 15304 0 0
+/product/gift-card 2 17450 0 0
+/product/new-wave-gallon/ 2 14786 0 0
+/product/3000-plus-finishing-material/ 2 14712 0 0
+/wp-content/plugins/advanced-custom-fields-pro/assets/font/acf.woff 1 4120 0 0
+/wp-admin/options-permalink.php 1 12167 0 0
+/wp-admin/profile.php 1 31952 0 0
+/sitemap_index.xml 1 469 0 1
+/product/1500-plus-finishing-material/ 3 22128 0 0
+/product/metal-mania/ 2 14698 0 0
+/product/new-concept-gallon/ 2 14734 0 0
+/product/speedy-voc-gallon/ 2 14714 0 0
+/wp-admin/edit.php 3 50141 0 0
+/news/ 3 18978 0 0
+/product/get-a-grip-gloves-size-l/ 2 15318 0 0
+/wp-admin/themes.php 2 26407 0 0
+/product/car-wash-concentrate/ 2 14808 0 0
+/product/2500-plus-finishing-material/ 2 14830 0 0
+/product/medium-grade-clay-bar/ 2 14646 0 0
+END_SIDER

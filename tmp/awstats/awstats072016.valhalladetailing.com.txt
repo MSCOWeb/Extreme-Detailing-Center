@@ -1,0 +1,686 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201607 will be lost/reset.
+# Last config file used to build this data file was /home4/valhalla/tmp/awstats/awstats.valhalladetailing.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2698                
+POS_VISITOR 17765               
+POS_DAY 22655               
+POS_DOMAIN 3507                
+POS_LOGIN 3954                
+POS_ROBOT 4109                
+POS_WORMS 4718                
+POS_EMAILSENDER 4849                
+POS_EMAILRECEIVER 4992                
+POS_SESSION 23431               
+POS_SIDER 23638               
+POS_FILETYPES 5127                
+POS_DOWNLOADS 5349                
+POS_OS 5597                
+POS_BROWSER 5907                
+POS_SCREENSIZE 7530                
+POS_UNKNOWNREFERER 7604                
+POS_UNKNOWNREFERERBROWSER 8137                
+POS_ORIGIN 8545                
+POS_SEREFERRALS 8686                
+POS_PAGEREFS 8849                
+POS_SEARCHWORDS 9616                
+POS_KEYWORDS 9858                
+POS_MISC 2361                
+POS_ERRORS 10022               
+POS_CLUSTER 3810                
+POS_SIDER_404 10176               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160801012950 38 7091 10415155362491
+FirstTime 20160701023304
+LastTime 20160731233917
+LastUpdate 20160801071146 38 0 37 0 0
+TotalVisits 175                 
+TotalUnique 111                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 129                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 22 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 14 130702 34 58 406071
+1 7 29 267680 23 34 183264
+2 22 30 351479 16 21 195852
+3 2 2 44325 18 24 115699
+4 7 15 210587 36 76 859846
+5 3 11 123381 39 45 227143
+6 2 2 44325 31 43 247261
+7 6 45 456361 53 78 292903
+8 25 60 980448 58 69 297208
+9 49 123 1028067 39 52 285170
+10 89 216 1540701 59 73 239221
+11 43 111 1682600 58 91 226137
+12 29 97 1033407 22 58 217974
+13 18 26 177317 58 72 93078
+14 49 82 613162 58 79 202930
+15 29 50 1065322 124 170 930681
+16 51 73 581178 136 265 1704813
+17 9 19 190708 128 144 3544460
+18 17 41 462845 40 47 317643
+19 2 2 29175 32 52 283967
+20 5 21 225071 30 38 309803
+21 5 13 152997 24 31 339091
+22 5 32 284147 27 37 242166
+23 7 13 195693 36 46 365838
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 441 1011 10546415
+ru 10 40 478880
+gb 6 8 157630
+de 5 5 108869
+bd 4 4 22162
+fr 4 4 73459
+ph 3 11 101697
+in 3 3 66477
+ca 3 3 7321
+ua 2 2 22167
+pl 2 2 44332
+md 1 1 22159
+ro 1 1 6975
+ie 1 1 22159
+nl 1 1 22166
+il 0 24 97883
+cn 0 6 70927
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+crawl 167 4287751 20160729152908 8
+bot[\s_+:,\.\;\/\\-] 166 631999 20160731212712 121
+googlebot 162 1134426 20160731192325 54
+spider 111 2135557 20160731224952 19
+unknown 33 2223 20160730113636 33
+no_user_agent 15 217194 20160728222144 0
+bingpreview 14 83422 20160728051250 0
+ruby\/ 6 132961 20160721012836 0
+scanner 6 66253 20160720150642 3
+slurp 4 268 20160720181738 4
+robot 3 205 20160731070933 3
+[\s_+:,\.\;\/\\-]bot 2 184799 20160727205352 0
+php 2 44318 20160718114831 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 225 4170305 0 0
+png 16 22884 0 0
+txt 2 39860 0 0
+php 6 6 0 0
+html 471 4450740 0 0
+js 378 943981 0 0
+jpg 17 2211778 0 0
+Unknown 10 31203 0 0
+svg 2 921 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/wp-content/uploads/2015/07/Metal-Mania-MSDS.pdf 8 0 269944
+/wp-content/uploads/2015/07/Speedy-VOC-MSDS.pdf 7 0 232239
+/license.txt 2 0 39860
+/wp-content/uploads/2015/07/Pure-Metal-MSDS.pdf 1 0 42873
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+linuxandroid 143 71
+macosx6 10 2
+winlong 12 3
+winxp 52 15
+ios_iphone 66 26
+symbian 1 0
+macosx9 1 0
+win8 9 7
+ios_ipad 29 11
+macosx7 1 0
+unix 1 1
+winnt 300 134
+java 2 2
+linux 147 67
+win7 94 53
+macosx 197 66
+win8.1 27 12
+Unknown 32 16
+macosx8 3 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 82
+msie6.0 3 3
+firefox28.0 7 2
+chrome44.0.2403.125 1 1
+chrome40.0.2214.115 2 2
+chrome20.0.1092.0 1 1
+chrome32.0.1700.72 1 0
+chrome34.0.1847.137 4 4
+firefox44.0 48 15
+firefox26.0 4 0
+chrome28.0.1500.94 1 1
+chrome5.0.375.99 2 2
+chrome40.0.2214.111 1 0
+chrome31.0.1650.57 2 0
+chrome31.0.1650.63 4 0
+safari5.0.2 12 4
+chrome51.0.2704.81 60 12
+msie8.0 34 4
+chrome24.0.1290.1 1 1
+msie7.0 2 2
+chrome27.0.1453.93 2 2
+firefox23.0 1 1
+safari9.1.1 9 2
+chrome37.0.2062.120 9 9
+chrome27.0.1453 159 98
+netscape 3 3
+chrome32.0.1700.68 1 0
+opera12.16 1 0
+chrome34.0.1847.131 7 2
+firefox21.0 5 5
+chrome18.0.1025.46 1 1
+chrome14.0.803.0 1 1
+chrome49.0.2623.75 5 5
+firefox47.0 189 65
+chrome51.0.2704.103 181 77
+safari6.0.5 1 0
+firefox33.0 1 0
+mozilla 1 1
+firefox25.0 1 0
+chrome32.0.1700.76 12 4
+chrome42.0.2311.135 2 2
+chrome46.0.2486.0 24 8
+chrome46.0.2490.86 1 1
+chrome48.0.2564.103 1 1
+safari6.1.1 1 0
+firefox36.0 1 1
+safari 45 5
+firefox16.0.1 1 1
+chrome37.0.2062.124 1 1
+firefox15.0 2 2
+chrome38.0.2125.104 1 1
+chrome24.0.1309.0 1 1
+android 6 6
+chrome28.0.1500.95 1 1
+firefox24.0 1 0
+iphone 18 2
+chrome18.6.872.0 1 1
+firefox6.0.2 6 0
+chrome15.0.861.0 1 1
+chrome10.0.648.204 9 9
+msie9.0 14 5
+safari10.3.2.858 21 5
+firefox27.0 1 0
+Unknown 11 11
+opera11.01 1 1
+chrome14.0.792.0 1 1
+chrome6.0.475.1 1 1
+safari9.1 3 3
+chrome36.0.1985.67 4 4
+firefox3.6.16 1 0
+msie5.5 2 2
+nokia 1 0
+msie11.0 26 8
+chrome52.0.2743.82 35 22
+safari9.0 66 32
+firefox39.0 1 1
+chrome48.0.2564.109 1 1
+chrome51.0.2704.106 21 5
+msie10.0 8 7
+firefox3.6.12 1 1
+firefox21.0.0 1 1
+chrome19.0.1084.36 1 1
+chrome48.0.2564.97 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla 20160705183057
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.858_Mobile_Safari/537.35_ 20160718120227
+Python-urllib/2.7 20160714081206
+Mozilla-1.1 20160707135449
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20160725230739
+Scrapy/1.1.0_(_http://scrapy.org) 20160703102815
+eContext/1.0_(Content_Classification_Engine) 20160705210630
+Validator.nu/LV_http://validator.w3.org/services 20160726162402
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Validator.nu/LV_http://validator.w3.org/services 20160726162402
+Apache-HttpClient/4.5.2_(Java/1.8.0_91) 20160707115347
+Python-urllib/2.7 20160714081206
+Cyberduck/5.0.3.20504_(Mac_OS_X/10.11.5)_(x86_64) 20160719085009
+Scrapy/1.1.0_(_http://scrapy.org) 20160703102815
+eContext/1.0_(Content_Classification_Engine) 20160705210630
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 235 272
+From1 2 2
+From2 8 8
+From3 30 108
+From4 212 737
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 4 4
+yahoo 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://www.detailboss.nyc.usrfiles.com/html/1335a7_f0ccc9226ad5f5a26cb9f7a475d8e054.html 8 59
+http://pizza-tycoon.com 4 4
+http://m.facebook.com 4 4
+http://localhost:63342/htdocs/index-https.html 3 11
+http://burger-imperia.com 3 3
+https://www.facebook.com 2 2
+http://pizza-tycoon.com 2 2
+http://www.ligiabarao.com/valhalla 1 1
+http://gfiquwerutijfmn474859378tug9keofmi49.com 1 1
+http://www.letnicky.com 1 1
+http://l.facebook.com/l.php 1 1
+http://www.overheadrestore.com.usrfiles.com/html/1335a7_f0ccc9226ad5f5a26cb9f7a475d8e054.html 0 11
+http://static.usrfiles.com/html/1335a7_f0ccc9226ad5f5a26cb9f7a475d8e054.html 0 8
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+valhalla+mobile+detailing 1
+valhalladetailing.com 1
+free+auto+estimate+west+long+branch 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 10
+mobile 1
+estimate 1
+free 1
+long 1
+valhalladetailing.com 1
+west 1
+branch 1
+valhalla 1
+detailing 1
+auto 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 123 755482
+302 17 40
+500 4 76916
+406 20 4467
+404 189 2305296
+301 637 3413
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 102
+/wp-content/themes/profoblog20/functions/jquery-ui/thumbs.php 1 http://valhalladetailing.com/wp-content/themes/profoblog20/functions/jquery-ui/thumbs.php
+/ 12 -
+/sitemap.xml 4 -
+/wp-content/plugins/w3-total-cache/lib/Microsoft/Http/Client/userlog.php 1 http://valhalladetailing.com/wp-content/plugins/w3-total-cache/lib/Microsoft/Http/Client/userlog.php
+/blog/wp-content/themes/GTD/inc/p2.js 1 -
+/blog/wp-content/themes/medianews-theme/scripts/admin/custom.js 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+/admin.php 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/default/ini.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/skins/default/ini.php
+/sitemap.txt 4 -
+/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ini.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ini.php
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/blog/wp-content/plugins/arforms/js/colpick.js 1 -
+/wp-admin/user/system.php 1 http://valhalladetailing.com/wp-admin/user/system.php
+/not_found 10 -
+/wp-content/themes/license.php 1 valhalladetailing.com/wp-content/themes/license.php
+/wp-content/themes/profoblog20/functions/colorpicker/thumbs.php 1 http://valhalladetailing.com/wp-content/themes/profoblog20/functions/colorpicker/thumbs.php
+/wp-content/plugins/premium-seo-pack/aa-framework/shortcodes/js/tinymce.popup.js 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/themes/profoblog20/js/helpers/thumbs.php 1 http://valhalladetailing.com/wp-content/themes/profoblog20/js/helpers/thumbs.php
+/wp-content/uploads/2015/06/free-standard-detail_03.jpg 46 -
+/src= 1 http://valhalladetailing.com/
+/tmp/sfx.php 1 -
+/img/slides/6g-slider-custom-01.jpg 1 -
+/wp-content/plugins/form-lightbox/admin/css/style.css 1 -
+/wp-content/themes/twentyfourteen/genericons/font/thumbs.php 1 http://valhalladetailing.com/wp-content/themes/twentyfourteen/genericons/font/thumbs.php
+/mobile/ 1 -
+/wp-content/plugins/peepso-core/assets/css/style.css 1 -
+/wp-content/plugins/WVideoWizard/js/easyTooltip.js 1 -
+/wp-content/b374k-2.8.php 1 http://valhalladetailing.com/wp-content/b374k-2.8.php
+/wp-content/themes/twentyten/404.php 1 valhalladetailing.com/wp-content/themes/twentyten/404.php
+/blog/wp-content/plugins/contus-hd-flv-player/selectuser.js 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/themes/profoblog20/functions/jquery-ui/css/ui-lightness/thumbs.php 1 http://valhalladetailing.com/wp-content/themes/profoblog20/functions/jquery-ui/css/ui-lightness/thumbs.php
+/blog/wp-content/plugins/mailcwp/js/mailcwp-admin.js 1 -
+/wp-content/plugins/user-role-editor/css/ure-admin.css 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/ini.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/ini.php
+/wp-includes/js/crop/sys.php 1 http://valhalladetailing.com/wp-includes/js/crop/sys.php
+/wp-content/languages/themes/sys.php 1 http://valhalladetailing.com/wp-content/languages/themes/sys.php
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-content/plugins/premium-seo-pack-light-version/aa-framework/shortcodes/js/tinymce.popup.js 1 -
+/wp-content/themes/twentyeleven/404.php 1 valhalladetailing.com/wp-content/themes/twentyeleven/404.php
+/blog/wp-content/plugins/1-flash-gallery/js/uploadify/jquery.uploadify.v2.1.4.min.js 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-content/plugins/wordpress-social-stream/css/dcwss_admin.css 1 -
+/wp-content/plugins/Tevolution-FieldsMonetization/style.css 1 -
+/wp-includes/js/tinymce/themes/advanced/thumbs.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/thumbs.php
+/1000-plus-finishing-material-gallon 9 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/wp-includes/js/system.php 1 http://valhalladetailing.com/wp-includes/js/system.php
+/wp-content/plugins/advanced-access-manager/media/css/datatables.min.css 1 -
+/LiveSearchSiteAuth.xml 1 -
+/wp-content/plugins/afc-plug-system/menu_pages/highslide/highslide-html.js 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/plugins/profile-builder/assets/css/rtl.css 1 -
+/wp-includes/class.wp-date.php 1 -
+/blog/wp-content/plugins/userpro/scripts/scripts.min.js 1 -
+/bingsiteauth.xml 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-content/themes/corporate/404.php 1 valhalladetailing.com/wp-content/themes/corporate/404.php
+/language/en-GB/en-GB.xml 6 -
+/wp-content/plugins/advanced-access-manager/media/js/configpress.js 1 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/plugins/form-lightbox/colorbox/style-1/colorbox.css 1 -
+/blog/wp-content/plugins/wp-admin-icons/includes/icons-scripts.js 1 -
+/BingSiteAuth.xml 1 -
+/wp-content/plugins/ab-testimonials/css/testimonials_shortcode.css 1 -
+/wp-content/themes/twentytwelve/404.php 1 valhalladetailing.com/wp-content/themes/twentytwelve/404.php
+/wp-content/plugins/wp-symposium/server/php/BwmQzfwAhScTqN.php 1 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/thumbs.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/thumbs.php
+/wp-content/plugins/custom-contact-forms/css/custom-contact-forms.css 1 -
+/wp-content/plugins/woocommerce/dummy_data.xml 2 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/ExtremeDetailCenter_Logo.png 1 http://valhalladetailing.com/
+/license.php 2 -
+/wp-content/themes/purevision/sliders/swfobject.js 1 -
+/blog/wp-content/plugins/evarisk/include/js/uploadify/jquery.uploadify.js 1 -
+/wp-content/plugins/abc3000/assets/css/styles.css 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-includes/js/jcrop/sys.php 1 http://valhalladetailing.com/wp-includes/js/jcrop/sys.php
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/blog/wp-content/plugins/font-uploader/fontFunctions/fu_script.js 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/blog/wp-content/themes/framework/library/js/checkout_cart_2.js 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/o2k7/thumbs.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/skins/o2k7/thumbs.php
+/admin 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp 1 -
+/wp-content/themes/Newspaper/style.css 1 -
+/wp-content/plugins/whatsmyrank-devenc/js/json/json2.js 1 -
+/blog/wp-content/themes/ultimatum/js/cufon-yui.js 1 -
+/wp-content/themes/profoblog20/functions/jquery-ui/css/ui-lightness/ini.php 1 http://valhalladetailing.com/wp-content/themes/profoblog20/functions/jquery-ui/css/ui-lightness/ini.php
+/wp-content/plugins/InstaBuilder/js/admin.js 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/default/thumbs.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/skins/default/thumbs.php
+/wp.php 1 -
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/ini.php 1 http://valhalladetailing.com/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/ini.php
+/wp-content/themes/uncode/style.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 129
+96.57.94.106 194 451 5274982 20160727155550
+66.249.88.40 20 31 266392 20160726162143
+66.249.88.51 17 30 253103 20160726162403
+66.249.88.62 16 27 160706 20160726162403
+209.128.119.37 15 15 241425 20160730023757
+66.102.8.142 15 21 146728 20160727152757
+66.102.8.139 13 17 104028 20160727154843
+66.102.8.145 12 18 84188 20160727152759
+69.119.205.170 7 31 305091 20160721210600
+107.77.70.61 7 15 146476 20160705180815
+70.208.76.92 7 17 161567 20160721175115
+168.235.205.179 6 6 21252 20160728101724
+66.249.83.206 5 6 51553 20160726143114
+73.150.101.250 4 12 123849 20160709112103
+100.1.97.155 4 4 7302 20160729133627
+43.224.119.234 4 4 22162 20160717023509
+209.128.119.41 3 3 20925 20160731233917
+172.254.11.130 3 11 101697 20160722100244
+50.182.78.33 3 11 101690 20160708072248
+208.185.23.206 3 11 101697 20160723120200
+173.63.200.126 3 11 101690 20160705144743
+70.68.240.24 3 3 7321 20160729001620
+69.74.229.220 3 11 101697 20160721102100
+96.234.56.32 3 11 101690 20160718114835
+104.41.148.92 3 3 66477 20160705021426
+54.145.124.197 1 9 79531 20160714200447
+188.143.232.37 1 1 20233 20160728124953
+64.113.32.29 1 1 22159 20160702180047
+204.79.180.145 0 1 44040 
+68.231.0.22 2 10 101690 20160705143632
+71.0.65.54 2 10 79063 20160719092642
+220.181.108.179 0 1 1263 
+54.152.205.222 1 1 22159 20160713200933
+13.92.87.210 1 1 22159 20160704063941
+128.30.52.134 2 2 27672 20160726162402
+104.207.150.177 1 1 22159 20160701080048
+176.9.98.12 1 1 20233 20160730103934
+54.87.119.119 1 9 79531 20160716071106
+31.131.4.167 1 1 22159 20160707092020
+192.195.80.10 1 1 22159 20160701084006
+54.159.109.237 2 10 101690 20160701025106
+5.149.254.109 1 1 22159 20160703023337
+204.79.180.226 1 1 22159 20160708120811
+131.253.24.2 2 2 14077 20160727154056
+104.236.69.58 1 1 22159 20160718221421
+206.41.169.55 1 1 22166 20160725174437
+45.55.133.236 2 2 7262 20160728085121
+79.137.180.252 1 1 22159 20160711144139
+54.144.29.2 2 2 7262 20160729023821
+54.166.172.75 2 10 101690 20160719040013
+54.92.151.110 1 1 22159 20160701023304
+5.101.221.41 1 1 22159 20160710181503
+69.162.141.35 1 1 22159 20160719224741
+185.93.187.53 1 1 1 20160703164353
+80.94.31.136 2 2 44332 20160721044647
+209.99.130.23 1 1 20233 20160728180551
+204.79.180.51 0 1 9171 
+54.242.254.215 1 1 22159 20160705210630
+209.99.130.242 1 1 22159 20160711115446
+37.59.42.55 1 1 6975 20160731080552
+66.102.8.148 0 5 57538 
+144.76.231.194 2 2 44318 20160705002253
+220.181.108.176 0 1 9171 
+8.28.16.254 1 1 22159 20160713025408
+54.145.142.246 1 9 79531 20160721012844
+204.79.180.30 0 1 1769 
+45.55.133.247 2 7 37388 20160712013022
+108.226.121.245 1 9 79063 20160717200456
+209.95.191.64 1 1 22159 20160702143632
+206.41.177.57 1 1 22159 20160706184059
+195.154.146.225 2 2 44325 20160722023449
+107.77.106.21 3 11 101697 20160720162142
+45.55.133.248 2 7 37388 20160703090817
+109.86.71.186 1 1 22166 20160722014025
+93.159.230.90 2 32 347836 20160719225737
+24.188.135.9 1 1 20233 20160730183047
+195.154.90.122 1 1 22159 20160701115009
+204.79.180.52 0 1 13895 
+43.254.29.138 1 1 22159 20160707135449
+204.79.180.39 0 1 2281 
+62.212.73.49 1 1 22166 20160723232307
+82.80.230.228 0 24 97883 
+188.138.9.49 1 1 22159 20160714081206
+66.249.83.214 2 3 38346 20160727102027
+65.19.167.132 1 1 6975 20160730231745
+54.162.104.188 1 9 79531 20160718123142
+54.162.36.85 1 1 22159 20160701023323
+104.131.32.83 1 1 22159 20160709113007
+115.112.64.154 2 2 44318 20160705183057
+66.87.116.136 1 1 468 20160720163008
+54.161.94.140 1 1 6975 20160729022048
+76.218.121.63 1 9 79063 20160721003832
+220.181.108.178 0 1 13895 
+24.102.115.116 0 8 79063 
+100.12.214.78 3 19 158126 20160718154800
+45.32.130.87 1 1 22159 20160718224502
+203.82.34.74 3 11 101697 20160726130017
+104.199.184.166 1 1 22159 20160707115347
+185.100.86.100 1 1 6975 20160730175447
+204.79.180.136 0 1 277 
+45.55.238.190 1 1 6975 20160728085623
+208.86.199.236 1 1 22159 20160708234553
+206.41.171.153 1 1 20233 20160730155559
+5.149.255.126 3 5 106337 20160711051427
+62.138.0.25 1 1 22159 20160711051523
+73.71.225.161 0 8 79063 
+216.19.214.50 1 1 22159 20160717072619
+62.17.146.151 1 1 22159 20160703102815
+31.131.249.213 2 2 2 20160716024443
+220.181.108.154 0 1 2281 
+72.14.199.110 1 1 22166 20160725230739
+91.236.120.14 1 1 22159 20160713122703
+128.30.52.73 2 2 27672 20160726162402
+54.158.238.148 1 1 6975 20160729022041
+220.181.108.162 0 1 277 
+204.79.180.44 0 1 1263 
+66.249.83.226 1 1 22168 20160725120123
+163.172.38.175 2 2 29134 20160731103411
+188.143.232.62 1 1 22166 20160725061627
+208.68.21.28 1 1 22159 20160713025621
+91.77.22.209 1 1 22166 20160724184452
+104.155.228.75 1 1 22159 20160703105148
+220.181.108.177 0 1 44040 
+54.197.8.14 1 1 20233 20160729042130
+216.19.208.16 1 1 22166 20160720221829
+204.79.180.53 0 1 6367 
+70.209.49.55 1 9 79063 20160721052525
+54.234.88.141 1 9 79531 20160711092808
+66.102.8.160 2 5 44152 20160702012102
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20160701 7 15 212485 6
+20160702 4 12 146008 3
+20160703 6 11 103866 5
+20160704 3 11 101222 2
+20160705 28 83 926585 12
+20160706 11 32 315056 3
+20160707 5 5 110795 5
+20160708 7 24 289319 5
+20160709 2 2 44318 2
+20160710 1 7 93086 1
+20160711 5 13 168167 5
+20160712 19 48 409872 4
+20160713 4 4 88636 4
+20160714 2 10 101690 2
+20160715 1 13 98456 1
+20160716 3 11 79533 2
+20160717 6 22 202447 3
+20160718 47 159 979594 7
+20160719 14 45 466402 6
+20160720 38 77 1629209 7
+20160721 23 97 951573 10
+20160722 6 14 168195 4
+20160723 5 13 146029 3
+20160724 2 2 44332 2
+20160725 34 103 847874 10
+20160726 99 169 1402641 19
+20160727 68 88 1474841 17
+20160728 13 13 89905 7
+20160729 13 13 63043 7
+20160730 7 7 88599 7
+20160731 4 4 27900 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 8
+2mn-5mn 4
+30s-2mn 3
+15mn-30mn 8
+0s-30s 145
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 469 4449985 168 167
+/valhalla-admin 7 23253 2 3
+/wp-admin/admin-ajax.php 6 6 2 3
+/premium-services/ 1 468 1 1
+/ceramic-pro 1 7014 1 0
+/wp 1 468 1 0
+/not_found 1 468 0 0
+/ceramic-pro/ 1 287 0 1
+END_SIDER

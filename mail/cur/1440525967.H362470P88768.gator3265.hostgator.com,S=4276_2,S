@@ -1,0 +1,102 @@
+Return-path: <>
+Envelope-to: valhalla@gator3265.hostgator.com
+Delivery-date: Tue, 25 Aug 2015 13:06:07 -0500
+Received: from gateway26.websitewelcome.com ([192.185.3.61]:33141)
+	by gator3265.hostgator.com with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	id 1ZUIbn-000N48-6X
+	for valhalla@gator3265.hostgator.com; Tue, 25 Aug 2015 13:06:07 -0500
+Received: by gateway26.websitewelcome.com (Postfix)
+	id 78E046EDF4537; Tue, 25 Aug 2015 13:06:01 -0500 (CDT)
+Date: Tue, 25 Aug 2015 13:06:01 -0500 (CDT)
+From: MAILER-DAEMON@gateway26.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: valhalla@gator3265.hostgator.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="968C86E1C87F0.1440525961/gateway26.websitewelcome.com"
+Message-Id: <20150825180601.78E046EDF4537@gateway26.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--968C86E1C87F0.1440525961/gateway26.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway26.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<map0987@yahoo.com>: delivery temporarily suspended: lost connection with
+    mta7.am0.yahoodns.net[63.250.192.46] while sending RCPT TO
+
+--968C86E1C87F0.1440525961/gateway26.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway26.websitewelcome.com
+X-Postfix-Queue-ID: 968C86E1C87F0
+X-Postfix-Sender: rfc822; valhalla@gator3265.hostgator.com
+Arrival-Date: Tue, 25 Aug 2015 10:45:04 -0500 (CDT)
+
+Final-Recipient: rfc822; map0987@yahoo.com
+Action: failed
+Status: 4.4.2
+Diagnostic-Code: X-Postfix; delivery temporarily suspended: lost connection
+    with mta7.am0.yahoodns.net[63.250.192.46] while sending RCPT TO
+
+--968C86E1C87F0.1440525961/gateway26.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <valhalla@gator3265.hostgator.com>
+Received: by gateway26.websitewelcome.com (Postfix, from userid 1000)
+	id 968C86E1C87F0; Tue, 25 Aug 2015 10:45:04 -0500 (CDT)
+Received: from gator3265.hostgator.com (gator3265.hostgator.com [198.57.247.229])
+	by gateway26.websitewelcome.com (Postfix) with ESMTP id 72A046E1CA1BB
+	for <map0987@yahoo.com>; Tue, 25 Aug 2015 10:45:04 -0500 (CDT)
+Received: from valhalla by gator3265.hostgator.com with local (Exim 4.85)
+	(envelope-from <valhalla@gator3265.hostgator.com>)
+	id 1ZUGPH-000AmC-SX
+	for map0987@yahoo.com; Tue, 25 Aug 2015 10:45:03 -0500
+To: map0987@yahoo.com
+Subject: Thank You From Valhalla Detailing
+X-PHP-Script: valhalladetailing.com/wp-content/themes/valhalla/handleForm.php for 69.142.95.176
+From: info@valhalladetailing.com
+Message-Id: <E1ZUGPH-000AmC-SX@gator3265.hostgator.com>
+Date: Tue, 25 Aug 2015 10:45:03 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3265.hostgator.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [34222 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - gator3265.hostgator.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Exim-ID: 1ZUGPH-000AmC-SX
+X-Source: /opt/php54/bin/php-cgi
+X-Source-Args: /usr/bin/php /home4/valhalla/public_html/wp-content/themes/valhalla/handleForm.php 
+X-Source-Dir: valhalladetailing.com:/public_html/wp-content/themes/valhalla
+X-Source-Sender: 
+X-Source-Auth: valhalla
+X-Email-Count: 2
+X-Source-Cap: dmFsaGFsbGE7dmFsaGFsbGE7Z2F0b3IzMjY1Lmhvc3RnYXRvci5jb20=
+
+Thanks for scheduling an appointment with us! We look forward to taking care of your detailing needs.
+
+One of our Customer Service professionals will be contacting you shortly to confirm your appointment.
+
+Please feel free to call us at (908) 623-7676 for immediate assistance during regular business hours.
+
+Sincerely,
+Guy DiTommaso
+
+--968C86E1C87F0.1440525961/gateway26.websitewelcome.com--

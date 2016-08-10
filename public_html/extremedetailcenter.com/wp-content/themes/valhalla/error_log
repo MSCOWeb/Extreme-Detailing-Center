@@ -1,0 +1,2 @@
+[11-Jun-2016 08:28:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/valhalla/public_html/wp-content/themes/valhalla/404.php on line 1
+[12-Jul-2016 10:20:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/valhalla/public_html/wp-content/themes/valhalla/index.php on line 1

@@ -1,0 +1,1202 @@
+# Webalizer V2.23-05 Incremental Data - 08/10/2016 07:03:34
+2016 8 10 7 3 34
+646 320 207 21 27 163 2155678 454 296 0
+15 3 47 1 10
+85 46 217908 40 68 43
+101 27 481300 38 44 34
+72 47 205518 30 58 31
+33 17 158344 25 27 22
+27 15 89952 20 21 20
+101 26 279423 41 46 39
+25 17 96912 18 17 17
+105 60 283419 38 90 38
+62 42 271618 22 53 32
+35 23 71284 15 30 20
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 12 79062 15
+36 16 139275 22
+6 4 34496 4
+17 6 48854 11
+16 6 27549 15
+16 10 86096 14
+11 5 25571 7
+17 12 32942 11
+33 20 67803 30
+32 17 64451 30
+61 40 221784 49
+57 42 93531 46
+32 21 110506 26
+17 9 72711 16
+34 21 115188 26
+15 7 98302 12
+19 10 97432 17
+38 17 190955 32
+19 10 63642 14
+101 13 400570 21
+15 7 23772 13
+18 8 34332 13
+5 0 19149 3
+12 7 7705 7
+0
+0
+0
+320
+0
+0
+0
+0
+0
+0
+0
+178
+9
+0
+1
+0
+0
+0
+0
+0
+67
+62
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/sitemap_index.xml
+0 2 8243124634848815462 938 0 0
+/valhalladetailing.com/
+0 1 3978139726216429568 239 1 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css
+0 1 0 1021 0 0
+/not_found
+0 1 7306085860425742390 287 0 0
+/shop/
+0 3 7021783819086146865 37956 3 1
+/standard-services
+0 5 3904952049865668656 46085 3 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+0 1 0 6917 0 0
+/standard-services/
+0 3 499917925998 18721 2 0
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+0 1 35181840 1838 0 0
+/favicon.ico
+0 18 21972 47651 0 0
+/premium-services/
+0 1 8243124634848815462 287 2 0
+/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js
+0 1 35181392 670 0 0
+/ceramic-pro
+0 3 3256158799881514288 21042 1 1
+/wp-content/cache/minify/000000/M9Qvz89Pzs_NTS1KTtVPLC5OLSnWzyrWTyvKzytJzUvRT0xJ0S3J101OLCrRy83M0zHEoSGrsDS1qFI3KSc_Obs0E8rVA3NDPUE6AQ.js
+0 1 0 3924 0 0
+/
+0 217 0 1155406 254 102
+/valhalla-admin
+0 6 0 11424 2 2
+/shop/feed/
+0 1 0 4963 1 0
+/ceramic-pro/
+0 1 0 287 0 0
+/robots.txt
+0 51 0 3485 0 0
+/news/
+0 2 0 12652 2 2
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
+0 1 35181728 3305 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-79-177.googlebot.com
+0 9 6 14248 7 1470802299
+/
+laubervilliers-656-1-106-210.w193-248.abo.wanadoo.fr
+0 47 2 360775 1 1470165352
+-
+msnbot-40-77-167-36.search.msn.com
+0 2 0 40 2 1470182689
+/
+123.125.68.185
+0 1 1 69 0 0
+-
+baiduspider-123-125-71-17.crawl.baidu.com
+0 1 0 0 1 1470039944
+-
+173.252.90.229
+0 2 0 40 2 1470651528
+/
+ec2-52-38-87-153.us-west-2.compute.amazonaws.com
+0 2 0 17006 1 1470061238
+/
+ec2-54-184-56-73.us-west-2.compute.amazonaws.com
+0 1 1 20233 1 1470413499
+/
+91.223.89.100
+0 10 0 56331 0 0
+-
+h4.1.143.40.ip.windstream.net
+0 1 0 0 1 1470086185
+/
+31.13.102.101
+0 1 0 20 1 1470347972
+/
+google-proxy-66-249-83-199.google.com
+0 2 0 40 1 1470521900
+/
+ec2-54-163-186-187.compute-1.amazonaws.com
+0 1 1 6975 1 1470061920
+/
+google-proxy-66-249-83-206.google.com
+0 1 1 6975 1 1470674553
+/
+58.221.29.57
+0 2 0 0 1 1470249150
+/
+166.sub-70-208-64.myvzw.com
+0 1 0 20 1 1470405072
+/
+baiduspider-220-181-108-84.crawl.baidu.com
+0 1 1 6975 1 1470080490
+/
+baiduspider-123-125-71-44.crawl.baidu.com
+0 1 0 0 1 1470039952
+-
+173.252.90.230
+0 2 0 40 2 1470250873
+/
+dr-riviera.w3.org
+0 1 1 6975 1 1470745298
+/
+46.229.170.197
+0 2 0 0 1 1470324051
+/
+c-69-142-125-250.hsd1.nj.comcast.net
+0 1 0 20 1 1470673555
+/
+dynamic22-4.netcelerate.net
+0 2 2 40466 1 1470765582
+/
+188.143.232.72
+0 1 0 121 1 1470739679
+/
+c-68-81-121-195.hsd1.pa.comcast.net
+0 3 3 7321 1 1470311757
+/
+208.115.113.91
+0 2 1 67 1 1470793028
+/
+msnbot-157-55-39-68.search.msn.com
+0 4 1 127 3 1470211474
+/
+msnbot-199-30-24-169.search.msn.com
+0 2 2 307 1 1470788847
+/
+c-73-160-119-246.hsd1.nj.comcast.net
+0 4 4 10085 1 1470666202
+/
+173.252.90.236
+0 1 0 20 1 1470320132
+/
+baiduspider-123-125-71-76.crawl.baidu.com
+0 1 1 69 0 0
+-
+msnbot-207-46-13-1.search.msn.com
+0 2 2 7044 1 1470304556
+/
+ec2-54-242-40-103.compute-1.amazonaws.com
+0 2 2 7262 1 1470477187
+/
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 0 20 1 1470699701
+/
+ec2-107-23-14-203.compute-1.amazonaws.com
+0 2 0 17584 1 1470618299
+-
+baiduspider-180-76-15-161.crawl.baidu.com
+0 1 0 20 1 1470388073
+/
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 0 12839 0 0
+-
+baiduspider-220-181-108-110.crawl.baidu.com
+0 1 1 6975 1 1470358705
+/
+31.13.102.126
+0 1 0 20 1 1470170070
+/
+ec2-54-197-18-249.compute-1.amazonaws.com
+0 2 0 17584 1 1470461512
+-
+31.13.102.116
+0 1 0 20 1 1470260823
+/
+google-proxy-66-102-8-142.google.com
+0 3 3 14237 1 1470041518
+/
+216-176-181-245.reverse.wowrack.com
+0 1 1 6975 1 1470067462
+/
+ns337883.ip-46-105-118.eu
+0 1 1 6975 1 1470587016
+/
+msnbot-157-55-39-91.search.msn.com
+0 1 0 20 1 1470484654
+/
+msnbot-207-46-13-88.search.msn.com
+0 1 0 20 1 1470014994
+-
+ec2-52-87-253-92.compute-1.amazonaws.com
+0 1 0 20 1 1470714518
+/
+abts-north-dynamic-016.148.177.122.airtelbroadband.in
+0 1 0 0 1 1470408766
+/
+baiduspider-180-76-15-158.crawl.baidu.com
+0 1 1 69 0 0
+-
+baiduspider-180-76-15-11.crawl.baidu.com
+0 2 2 13950 2 1470687738
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 69 0 0
+-
+baiduspider-180-76-15-145.crawl.baidu.com
+0 2 0 12516 2 1470649646
+/
+li1368-216.members.linode.com
+0 8 4 80932 1 1470764294
+/
+spider-141-8-143-168.yandex.com
+0 7 7 21193 3 1470681434
+/
+ec2-54-158-199-196.compute-1.amazonaws.com
+0 2 2 7262 1 1470478320
+/
+msnbot-157-55-39-247.search.msn.com
+0 1 0 20 1 1470756581
+-
+b110326.yse.yahoo.net
+0 2 1 87 1 1470683866
+/
+ec2-54-172-218-133.compute-1.amazonaws.com
+0 1 1 20233 1 1470282196
+/
+msnbot-40-77-167-0.search.msn.com
+0 4 2 7084 2 1470211490
+/
+mail.creative-penny.com
+0 2 0 226 0 0
+-
+hosted-by.leaseweb.com
+0 1 0 226 0 0
+-
+13.67.60.58
+0 1 0 6257 0 0
+-
+173.252.90.241
+0 1 0 20 1 1470246198
+/
+173-234-249-40.ipvnow.com
+0 1 1 6975 1 1470099089
+/
+ec2-54-172-196-3.compute-1.amazonaws.com
+0 3 3 7282 1 1470659621
+/
+31.13.102.104
+0 1 0 20 1 1470435327
+/
+b110039.yse.yahoo.net
+0 2 2 134 0 0
+-
+abts-north-dynamic-247.193.69.182.airtelbroadband.in
+0 1 0 0 1 1470162991
+/
+173.252.90.228
+0 1 0 20 1 1470246201
+/
+123.125.68.170
+0 1 1 69 0 0
+-
+bzq-82-80-249-214.dcenter.bezeqint.net
+0 1 0 20 1 1470025737
+-
+baiduspider-180-76-15-140.crawl.baidu.com
+0 1 0 20 1 1470136459
+/
+ec2-50-112-86-26.us-west-2.compute.amazonaws.com
+0 1 0 20 1 1470141570
+/
+photon024.ahrefs.com
+0 3 0 519 0 0
+-
+45.32.130.173.vultr.com
+0 1 1 20233 1 1470194026
+/
+baiduspider-180-76-15-160.crawl.baidu.com
+0 1 1 69 0 0
+-
+104.236.188.63
+0 1 1 6975 1 1470502619
+/
+1.186.48.58.dvois.com
+0 15 7 29660 1 1470652304
+/
+dr-marvin.w3.org
+0 5 5 34875 1 1470745589
+/
+173.252.90.249
+0 2 0 40 2 1470254367
+/
+ec2-54-163-209-237.compute-1.amazonaws.com
+0 2 2 7044 1 1470244155
+/
+ool-4573ce42.dyn.optonline.net
+0 1 0 6242 1 1470219746
+/premium-services/
+86-122-237-138.rdsnet.ro
+0 1 0 20 1 1470255685
+/
+baiduspider-180-76-15-5.crawl.baidu.com
+0 1 1 4963 1 1470552373
+/shop/feed/
+c-73-194-13-113.hsd1.nj.comcast.net
+0 1 0 20 1 1470060714
+/
+173.252.90.240
+0 1 0 20 1 1470147902
+/
+173.252.90.235
+0 2 0 40 2 1470640426
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 0 6232 1 1470491885
+-
+0.tor.exit.babylon.network
+0 1 1 6975 1 1470097557
+/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 3 2 25234 3 1470757250
+/shop/
+msnbot-40-77-167-88.search.msn.com
+0 2 1 87 1 1470052384
+/
+baiduspider-180-76-15-150.crawl.baidu.com
+0 1 1 9217 1 1470168761
+/standard-services/
+crawl-66-249-79-174.googlebot.com
+0 27 22 65457 14 1470799310
+/
+baiduspider-180-76-15-135.crawl.baidu.com
+0 1 1 239 1 1470475133
+/valhalladetailing.com/
+173.252.90.242
+0 2 0 40 2 1470512298
+/
+199.201.66.3
+0 2 2 27208 1 1470045835
+/
+dr-wolfe.w3.org
+0 1 1 6975 1 1470745193
+/
+5.149.255.126
+0 1 0 17758 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 1 9217 1 1470582921
+/standard-services/
+31.13.102.117
+0 1 0 20 1 1470260798
+/
+cpe-71-70-199-159.nc.res.rr.com
+0 1 0 20 1 1470606281
+/
+ec2-107-22-19-223.compute-1.amazonaws.com
+0 1 0 0 1 1470194031
+/
+pool-74-105-35-220.nwrknj.fios.verizon.net
+0 4 0 80 1 1470160449
+/
+filbi.pro
+0 1 1 20233 1 1470663432
+/
+202.46.52.108
+0 1 1 12652 1 1470681710
+/shop/
+baiduspider-180-76-15-32.crawl.baidu.com
+0 3 0 6297 3 1470789295
+/
+38.18.103.1
+0 2 2 13950 1 1470806446
+/
+104.236.37.210
+0 3 3 14019 1 1470462864
+/
+rrcs-184-74-144-186.nys.biz.rr.com
+0 1 0 20 1 1470387940
+/
+crawl-66-249-79-143.googlebot.com
+0 14 2 3112 9 1470800051
+/
+225.25.57.37.triolan.net
+0 1 0 6253 0 0
+-
+109.171.226.5.reverse.hostcorp.org
+0 1 0 0 1 1470638106
+/
+216.19.220.186
+0 1 1 20233 1 1470534017
+/
+baiduspider-180-76-15-34.crawl.baidu.com
+0 1 1 6975 1 1470316286
+/
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 6975 1 1470442474
+/
+220.181.51.110
+0 1 1 69 0 0
+-
+static-96-234-56-32.nwrknj.fios.verizon.net
+0 1 0 20 1 1470082178
+/
+msnbot-40-77-167-50.search.msn.com
+0 2 0 40 2 1470627395
+/
+pool-74-105-65-251.nwrknj.fios.verizon.net
+0 1 0 20 1 1470055840
+/
+173.252.90.239
+0 2 0 40 2 1470463049
+/
+msnbot-207-46-13-113.search.msn.com
+0 2 0 40 1 1470159895
+/
+ec2-52-200-99-88.compute-1.amazonaws.com
+0 2 2 7044 1 1470518898
+/
+91.213.126.16
+0 1 0 17572 0 0
+-
+ec2-52-42-136-103.us-west-2.compute.amazonaws.com
+0 2 0 17584 1 1470324484
+-
+msnbot-40-77-167-64.search.msn.com
+0 1 1 6975 1 1470269686
+/
+baiduspider-180-76-15-22.crawl.baidu.com
+0 2 1 16763 0 0
+-
+crawl-66-249-79-171.googlebot.com
+0 12 9 17209 8 1470803086
+/
+226.176.57.37.triolan.net
+0 34 0 4114 1 1470512043
+/
+ec2-54-162-17-55.compute-1.amazonaws.com
+0 2 2 7262 1 1470477187
+/
+ool-4b63aa6c.static.optonline.net
+0 1 0 20 1 1470158762
+/
+msnbot-157-55-39-235.search.msn.com
+0 3 3 14017 2 1470788831
+/
+66-87-117-97.pools.spcsdns.net
+0 1 1 287 1 1470026923
+/premium-services/
+google-proxy-66-102-8-139.google.com
+0 4 4 14524 2 1470062842
+/
+192.185.1.20
+0 3 3 7282 2 1470648057
+/
+173.252.90.237
+0 1 0 20 1 1470254368
+/
+www.whois.sc
+0 2 1 87 1 1470157446
+/
+173.252.90.246
+0 2 0 40 2 1470560848
+/
+baiduspider-220-181-108-113.crawl.baidu.com
+0 1 1 6975 1 1470462955
+/
+173.227.74.5
+0 3 3 7282 1 1470132444
+/
+msnbot-157-55-39-158.search.msn.com
+0 5 2 414 3 1470645618
+/
+krustofski.w3.org
+0 1 1 6975 1 1470745299
+/
+70-91-24-193-busname-nj.panjde.hfc.comcastbusiness.net
+0 14 3 4947 9 1470812613
+/
+mx83.buisnesspole.com
+0 4 0 484 0 0
+-
+87.sub-70-208-69.myvzw.com
+0 1 0 20 1 1470324217
+/
+205.237.93.127
+0 1 1 20233 1 1470330841
+/
+ec2-52-91-4-122.compute-1.amazonaws.com
+0 2 0 17584 1 1470236616
+-
+baiduspider-180-76-15-152.crawl.baidu.com
+0 2 1 18909 2 1470458548
+/
+ool-60395e6a.static.optonline.net
+0 89 77 226053 15 1470738202
+/
+ec2-54-213-164-2.us-west-2.compute.amazonaws.com
+0 2 0 17584 1 1470154076
+-
+104.143.5.185
+0 1 1 6975 1 1470154595
+/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 2 1 6325 1 1470464575
+/
+ec2-52-201-117-188.compute-1.amazonaws.com
+0 2 2 7044 1 1470677058
+/
+msnbot-40-77-167-92.search.msn.com
+0 4 4 14084 2 1470603895
+/
+google-proxy-66-102-8-145.google.com
+0 1 1 287 1 1470062842
+/
+198.240.102.143
+0 1 1 20233 1 1470103291
+/
+baiduspider-180-76-15-157.crawl.baidu.com
+0 2 1 12578 2 1470456538
+/
+baiduspider-180-76-15-14.crawl.baidu.com
+0 1 1 69 0 0
+-
+bzq-82-80-230-228.cablep.bezeqint.net
+0 1 0 20 1 1470025741
+-
+msnbot-131-253-38-67.search.msn.com
+0 1 1 6975 1 1470293823
+/
+spider-100-43-85-10.yandex.com
+0 1 1 6975 1 1470319802
+/
+179.81-167-167.customer.lyse.net
+0 5 3 27186 1 1470660168
+-
+crawl-66-249-79-147.googlebot.com
+0 14 4 456 8 1470802386
+/
+hostby.gto-projects.biz
+0 1 0 18200 0 0
+-
+199.46.148.146.bc.googleusercontent.com
+0 1 1 20233 1 1470788122
+/
+msnbot-157-55-39-198.search.msn.com
+0 6 3 16760 1 1470645618
+/ceramic-pro
+ec2-54-159-86-189.compute-1.amazonaws.com
+0 1 0 0 1 1470672824
+/
+msnbot-207-46-13-78.search.msn.com
+0 2 2 7042 1 1470100177
+/
+104.132.20.82
+0 1 0 20 1 1470303537
+/
+38.125.30.2
+0 1 0 20 1 1470747043
+/
+crawl-94-199-151-22.wotbox.com
+0 2 1 89 1 1470170975
+/
+baiduspider-180-76-15-137.crawl.baidu.com
+0 1 1 6975 1 1470810600
+/
+mobile-166-137-252-085.mycingular.net
+0 2 0 40 1 1470506697
+/
+ool-44c04ded.dyn.optonline.net
+0 1 0 20 1 1470727725
+/
+111.206.36.138
+0 1 1 69 0 0
+-
+crawl-66-249-79-151.googlebot.com
+0 11 2 318 8 1470810201
+/
+145.sub-70-208-72.myvzw.com
+0 3 3 7282 1 1470213581
+/
+msnbot-157-55-39-156.search.msn.com
+0 3 0 60 2 1470026935
+-
+85.233.76.49
+0 1 0 17617 0 0
+-
+173.252.90.243
+0 1 0 20 1 1470070692
+/
+dynamic22-11.netcelerate.net
+0 1 1 20233 1 1470325729
+/
+44.sub-70-208-78.myvzw.com
+0 1 0 20 1 1470306900
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 0 20 1 1470457522
+/
+google-proxy-66-249-83-195.google.com
+0 2 0 40 1 1470046750
+/
+baiduspider-180-76-15-153.crawl.baidu.com
+0 1 0 6257 1 1470460557
+/
+msnbot-131-253-25-210.search.msn.com
+0 1 1 287 1 1470318528
+/
+174.127.188.37
+0 1 0 0 1 1470131338
+/
+178-137-160-45-broadband.kyivstar.net
+0 3 0 363 1 1470520444
+/
+165.ip-51-255-162.eu
+0 1 0 226 0 0
+-
+msnbot-157-55-39-144.search.msn.com
+0 1 0 20 1 1470652698
+/
+173.252.90.231
+0 1 0 20 1 1470760872
+/
+pool-108-5-150-44.nwrknj.fios.verizon.net
+0 1 0 20 1 1470433671
+/
+msnbot-157-55-39-70.search.msn.com
+0 4 4 14086 2 1470513669
+/
+99-45-93-54.lightspeed.knvltn.sbcglobal.net
+0 6 6 21564 1 1470186634
+/standard-services/
+baiduspider-220-181-108-170.crawl.baidu.com
+0 1 1 6975 1 1470656038
+/
+117.242.188.33
+0 7 7 10145 1 1470791444
+/
+baiduspider-220-181-108-123.crawl.baidu.com
+0 1 1 6975 1 1470547756
+/
+123.125.68.152
+0 1 1 69 0 0
+-
+45.32.131.61.vultr.com
+0 1 1 20233 1 1470394051
+/
+93.100.131.49.pool.sknt.ru
+0 3 1 20233 2 1470628613
+/
+173.252.90.248
+0 2 0 40 2 1470640265
+/
+pool-100-1-62-151.nwrknj.fios.verizon.net
+0 1 0 20 1 1470469303
+/
+209-128-119-041.bayarea.net
+0 12 12 83700 12 1470769553
+/
+msnbot-207-46-13-132.search.msn.com
+0 5 2 14010 2 1470677247
+/
+msnbot-40-77-167-38.search.msn.com
+0 1 1 9217 1 1470502387
+/standard-services
+46.161.9.16
+0 1 0 0 1 1470390322
+/
+93.159.230.89
+0 1 1 6975 1 1470216213
+/
+195.22.127.139
+0 1 0 17587 1 1470504432
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-79-177.googlebot.com
+0 1 0 20 1 1470802299
+/
+208.115.113.91
+0 2 1 67 1 1470793028
+/
+msnbot-199-30-24-169.search.msn.com
+0 2 2 307 1 1470788847
+/
+crawl-66-249-79-174.googlebot.com
+0 1 1 287 1 1470799310
+/
+baiduspider-180-76-15-32.crawl.baidu.com
+0 1 0 20 1 1470789295
+/
+38.18.103.1
+0 2 2 13950 1 1470806446
+/
+crawl-66-249-79-143.googlebot.com
+0 3 0 60 2 1470800051
+/
+crawl-66-249-79-171.googlebot.com
+0 2 2 7262 2 1470803086
+/
+msnbot-157-55-39-235.search.msn.com
+0 2 2 7042 1 1470788831
+/
+70-91-24-193-busname-nj.panjde.hfc.comcastbusiness.net
+0 3 3 4727 1 1470812613
+/
+crawl-66-249-79-147.googlebot.com
+0 3 1 109 2 1470802386
+/
+199.46.148.146.bc.googleusercontent.com
+0 1 1 20233 1 1470788122
+/
+baiduspider-180-76-15-137.crawl.baidu.com
+0 1 1 6975 1 1470810600
+/
+crawl-66-249-79-151.googlebot.com
+0 4 0 80 3 1470810201
+/
+117.242.188.33
+0 7 7 10145 1 1470791444
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://valhalladetailing.com/not_found
+0 3
+http://valhalladetailing.com/ceramic-pro
+0 2
+https://www.facebook.com
+0 1
+http://www.yelp.com/biz_redir
+0 1
+http://www.google.com/url
+0 2
+http://lm.facebook.com/l.php
+0 1
+http://pizza-tycoon.com/
+0 1
+http://www.brownbook.net/businesses/
+0 1
+http://valhalladetailing.com/wp-content/plugins/revslider/js/admin.js
+0 1
+http://urlopener.blogspot.in/
+0 1
+https://plus.google.com/
+0 1
+http://valhalladetailing.com/
+0 81
+https://google.com
+0 2
+https://www.google.com/
+0 12
+- (Direct Request)
+0 502
+http://valhalladetailing.com/standard-services
+0 3
+http://valhalladetailing.com/wp-post.php
+0 1
+https://www.bing.com/
+0 1
+https://www.google.com
+0 1
+http://m.yelp.com/redir
+0 1
+http://whois.domaintools.com/valhalladetailing.com
+0 1
+http://www.valhalladetailing.com/index.php
+0 1
+http://valhalladetailing.com
+0 4
+http://valhalladetailing.com/premium-services/
+0 1
+http://valdesbeefmaster.com/update/123wso123.php
+0 10
+http://valhalladetailing.com/valhalla-admin
+0 9
+http://extremedetailcenter.com/valhalla-admin
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:2.0b13pre) Gecko/20110223 Firefox/4.0b13pre
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.810.0 Safari/535.1
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 50
+Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:34.0; P1BzHUwpBlzrKl8RAGnsqgpWavfFskxR3gY9gbB6bEY=) Gecko/20100101 Firefox/34.0
+0 3
+Mechanize/2.7.2 Ruby/2.1.3p242 (http://github.com/sparklemotion/mechanize/)
+0 3
+WWW-Mechanize/1.73
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 1
+Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.65 Safari/535.11
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/11.0.654.0 Safari/534.17
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Ubuntu/11.04 Chromium/14.0.803.0 Chrome/14.0.803.0 Safari
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2a1pre) Gecko/20090428 Firefox/3.6a1pre
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 38
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G925P Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.86 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120427 Firefox/15.0a1
+0 1
+Validator.nu/LV http://validator.w3.org/services
+0 5
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+python-requests/2.9.1
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 1
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 76
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.1 Safari/535.1
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 50
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G34
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+0 3
+Mozilla/5.0 (X11; Linux i686; B62UzLTBMoGH/ENTVEgFW2s8s4+Kj54eH4QXOGcvTzg=) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.
+0 3
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.2
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.18 (KHTML, like Gecko) Chrome/11.0.661.0 Safari/534.18
+0 1
+btcrawler
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.23 (KHTML, like Gecko) Chrome/11.0.686.3 Safari/534.23
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.861.0 Safari/535.2
+0 1
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.698.0 Safari/534.24
+0 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.66 Safari/535.11
+0 1
+Googlebot-Image/1.0
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/10.0.649.0 Safari/534.17
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+0 1
+Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+0 1
+Mozilla/5.0 ArchLinux (X11; U; Linux x86_64; en-US) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30
+0 2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Saf
+0 1
+Wotbox/2.01 (+http://www.wotbox.com/bot/)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; RankvalBot/1.0; +https://rankval.com)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/27.0.1453 Safari/53
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Ubuntu/10.04 Chromium/11.0.696.0 Chrome/11.0.696.0 Saf
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 10
+Microsoft Office Excel 2013
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.872.0 Safari/535.2 UNTRUSTED/1.0 3gpp-gba UNTR
+0 1
+mfibot/1.1 (http://www.mfisoft.ru/analyst/; 
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 28
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+0 1
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/11.0.696.50
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 39
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MOB30Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.648.133 Chrome/10.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; SAMSUNG SPH-L720T Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.809.0 Safari/535.1
+0 1
+GuzzleHttp/6.2.1 curl/7.47.0 PHP/7.0.8-0ubuntu0.16.04.2
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) 
+0 4
+Python-urllib/2.7
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.66 Safari/535.11
+0 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 10
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 4
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MOB30P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 2
+ZoomInformation Bot
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 22
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru-RU) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; Touch; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CL
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; TeeRaidBot; +https://teeraid.com/bot/)
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7xs5D9rRDFpg2g
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.813.0 Safari/535.1
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E233 Safa
+0 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.127 Safari/53
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+0 10
+=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 3
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.648.0 Chrome/10.0.6
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 7
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.66 Safari/535.11
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safa
+0 1
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.45 Safari/535.19
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 5
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; 
+0 2
+rogerbot/1.1 (http://moz.com/help/guides/search-overview/crawl-diagnostics#more-help, rogerbot-crawler+pr2-crawler-18@moz.com
+0 2
+Python-urllib/2.6
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0; en-US) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/11.0.678.0 Safari/534.
+0 2
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.32 Safari/535.1
+0 1
+rogerbot/1.2 (http://moz.com/help/pro/what-is-rogerbot-, rogerbot-crawler+aardwolf-testing-crawler-01@moz.com)
+0 2
+Mozilla/5.0 (Windows  U  Windows NT 5.1  ru  rv:1.9.2.8) Gecko/20100722 MRA 5.7 (build 03796) Firefox/3.6.8
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.15 (KHTML, like Gecko) Chrome/10.0.613.0 Safari/534.15
+0 1
+Mozilla/5.0 (X11; U; FreeBSD i386; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/11.0.682.0 Safari/534.21
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.65 Safari/535.11
+0 1
+rogerbot/1.1 (http://moz.com/help/pro/what-is-rogerbot-, rogerbot-crawler+vanguard@moz.com)
+0 1
+Screaming Frog SEO Spider/5.1
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; ms-office)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 2
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.9.168 Version/11.50
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.151 Safari/535.19
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G34 Saf
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Saf
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/5.1; +http://ahrefs.com/robot/)
+0 3
+W3C_Validator/1.3 http://validator.w3.org/services
+0 3
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.14 Safari/534.24
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.50
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

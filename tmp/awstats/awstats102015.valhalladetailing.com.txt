@@ -1,0 +1,1457 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201510 will be lost/reset.
+# Last config file used to build this data file was /home4/valhalla/tmp/awstats/awstats.valhalladetailing.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2702                
+POS_VISITOR 23823               
+POS_DAY 44971               
+POS_DOMAIN 3625                
+POS_LOGIN 4339                
+POS_ROBOT 4494                
+POS_WORMS 5110                
+POS_EMAILSENDER 5241                
+POS_EMAILRECEIVER 5384                
+POS_SESSION 45893               
+POS_SIDER 46106               
+POS_FILETYPES 5519                
+POS_DOWNLOADS 5840                
+POS_OS 7243                
+POS_BROWSER 7643                
+POS_SCREENSIZE 10009               
+POS_UNKNOWNREFERER 10083               
+POS_UNKNOWNREFERERBROWSER 10937               
+POS_ORIGIN 11467               
+POS_SEREFERRALS 11618               
+POS_PAGEREFS 11816               
+POS_SEARCHWORDS 12851               
+POS_KEYWORDS 14629               
+POS_MISC 2365                
+POS_ERRORS 15690               
+POS_CLUSTER 4195                
+POS_SIDER_404 15862               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151101000908 975 320376 5907128722897
+FirstTime 20151001022249
+LastTime 20151031235539
+LastUpdate 20151101091051 975 0 974 0 0
+TotalVisits 996                 
+TotalUnique 474                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 546                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 71 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 36 213 4199710 37 47 89207
+1 38 243 5944701 16 48 400474
+2 46 252 4561705 22 34 98190
+3 58 153 1830711 869 904 560728
+4 48 216 2756423 47 53 235804
+5 68 440 7556024 57 71 281653
+6 102 729 13544025 56 77 307473
+7 65 541 10544447 33 58 212971
+8 108 798 17609822 72 127 1071240
+9 193 1095 25404612 93 127 149112
+10 171 1156 27835635 45 97 522892
+11 160 690 15057041 50 130 826759
+12 161 855 18289067 52 384 4769856
+13 190 1209 26570759 60 183 1448877
+14 200 1150 28863772 96 140 143834
+15 104 767 17741129 49 83 365131
+16 138 1011 21780064 63 212 1470250
+17 97 654 13304826 56 204 1698675
+18 75 551 11001586 66 240 2419281
+19 127 1095 20985922 40 229 2174903
+20 142 1092 22426307 43 193 1467243
+21 84 703 14921127 32 158 1246846
+22 87 573 12066372 38 101 699186
+23 141 705 14358988 38 138 1638606
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+us 2178 14918 307698444
+zz 92 139 4237810
+ie 88 98 1921550
+il 59 164 5620459
+ru 46 112 1866243
+de 46 127 3634230
+br 36 572 15050290
+cn 23 75 1191717
+nl 8 8 140538
+za 6 62 1937818
+ca 6 13 272261
+ua 5 5 71787
+es 4 60 1898618
+my 4 81 1613251
+mx 4 59 1897740
+gb 4 4 59088
+pt 3 55 1212403
+in 3 44 970188
+co 3 57 1333032
+it 3 31 968028
+ar 3 30 968240
+cr 2 29 949114
+mz 2 29 950244
+th 2 30 949783
+nz 2 30 949243
+eg 1 18 235969
+fr 1 1 19724
+ro 1 1 19126
+sg 1 25 278627
+id 1 12 197845
+lt 1 1 20873
+lu 1 1 20492
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 963 10232106 20151031235538 91
+php 407 5771172 20151031030857 0
+googlebot 54 1404 20151031173233 54
+no_user_agent 36 700555 20151030130612 0
+crawl 33 654137 20151027105519 8
+google[_+\s]web[_+\s]preview 30 375956 20151015115241 0
+unknown 22 572 20151029212118 22
+spider 11 19350 20151030110858 10
+[\s_+:,\.\;\/\\-]bot 5 130 20151028122013 5
+slurp 4 104 20151021060600 4
+robot 4 52 20151021224349 2
+curl 1 19743 20151016131802 0
+netcraft 1 19014 20151009225833 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 18 139932 0 0
+css 3130 32198254 0 0
+png 2575 11852993 0 0
+ttf 6 62688 0 0
+pdf 48 1688155 0 0
+woff 42 145496 0 0
+php 976 1036162 0 0
+html 1596 36829078 0 0
+js 5316 63923513 0 0
+jpg 3170 211108177 0 0
+Unknown 1 2692 0 0
+svg 11 150548 0 0
+gif 2 17087 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 21
+/wp-content/uploads/2015/07/Flint-Glaze-Wax-MSDS.pdf 4 0 138076
+/wp-content/uploads/2015/07/Seal-B-MSDS.pdf 4 0 138316
+/wp-content/uploads/2015/07/Topaz-Wax-MSDS.pdf 3 0 100398
+/wp-content/uploads/2015/07/Metal-Mania-MSDS.pdf 3 0 101229
+/wp-content/uploads/2015/07/2500-Plus-Finishing-Material-MSDS.pdf 3 0 102357
+/wp-content/uploads/2015/07/Detailers-Professional-Glass-Cleaner-MSDS.pdf 3 0 125556
+/wp-content/uploads/2015/07/Citrus-Belt-MSDS.pdf 3 0 97890
+/wp-content/uploads/2015/07/New-Wave-MSDS.pdf 3 0 118722
+/wp-content/uploads/2015/07/A-Foam-MSDS.pdf 3 0 95259
+/wp-content/uploads/2015/07/1500-Plus-Finishing-Material-MSDS.pdf 3 0 102357
+/wp-content/uploads/2015/07/1000-Plus-Finishing-Material-MSDS.pdf 3 0 102357
+/wp-content/uploads/2015/07/Pure-Metal-MSDS.pdf 3 0 128619
+/wp-content/uploads/2015/07/New-Concept-MSDS.pdf 3 0 98130
+/wp-content/uploads/2015/07/Leather-Perfect-MSDS.pdf 3 0 101688
+/wp-content/uploads/2015/07/Plastic-Trim-Restorer-MSDS.pdf 3 0 128256
+/wp-content/uploads/2015/07/Super-Fast-Solvent-MSDS.pdf 3 0 101178
+/wp-content/uploads/2015/06/Details-MSDS.pdf 2 0 65096
+/wp-content/uploads/2015/07/Car-Wash-Concentrate-MSDS.pdf 2 0 64456
+/wp-content/uploads/2015/07/Speedy-VOC-MSDS.pdf 2 0 66354
+/wp-content/uploads/2015/07/Hi-Line-MSDS.pdf 2 0 66538
+/wp-content/uploads/2015/07/3000-Plus-Finishing-Material-MSDS.pdf 2 0 67434
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+linuxandroid 2491 225
+macosx6 498 39
+winxp 462 109
+winlong 232 42
+ios_iphone 2801 259
+linuxfedora 1 1
+win2003 1 1
+macosx9 264 28
+win8 91 10
+bsdopenbsd 1 1
+ios_ipad 922 124
+macosx7 42 9
+unix 120 15
+winnt 1301 240
+java 4 4
+macosx5 96 6
+linux 142 30
+win7 4116 576
+macosx 1269 126
+winme 95 42
+win8.1 1307 212
+Unknown 620 534
+macosx8 15 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 115
+msie6.0 126 73
+firefox28.0 3 1
+chrome44.0.2403.125 80 13
+opera32.0.1948.25 1 1
+chrome40.0.2214.115 10 10
+chrome32.0.1700.72 9 3
+chrome34.0.1847.137 2 2
+firefox26.0 27 10
+chrome5.0.375.99 1 1
+chrome28.0.1500.94 131 13
+chrome40.0.2214.111 5 2
+firefox3.0.14 1 1
+chrome39.0.2171.95 4 4
+chrome29.0.1547.62 30 2
+chrome31.0.1650.57 8 2
+safari5.0 83 5
+chrome31.0.1650.63 28 12
+firefox34.0 61 6
+safari7.0.1 6 3
+msie11 2 0
+msie8.0 288 51
+firefox23.0 45 4
+chrome37.0.2062.120 5 5
+firefox41.0 1433 107
+chrome44.0.2403.156 54 10
+safari7.0.5 29 2
+chrome45.0.2454.95 52 6
+chrome31.0.1650.59 37 3
+chrome45.0.2454.98 66 5
+opera32.0.1948.69 31 3
+opera12.16 5 2
+chrome32.0.1700.68 2 1
+chrome45.0.2454.99 57 5
+firefox40.0 2 2
+firefox21.0 1 1
+lg\- 32 3
+firefox29.0 8 5
+firefox10.0.1 1 1
+chrome46.0.2490.71 990 163
+firefox38.0 57 4
+firefox12.0 1 1
+chrome32.0.1700.107 91 7
+chrome46.0.2490.80 454 99
+firefox33.0 1 0
+chrome36.0.1985.143 1048 68
+mozilla 168 18
+firefox25.0 16 5
+chrome44.0.2403.157 51 5
+chrome42.0.2311.135 167 14
+firefox3.6.3 1 1
+chrome45.0.2454.84 29 2
+safari6.1.1 5 2
+safari5.1.9 185 16
+chrome44.0.2403.133 57 3
+firefox36.0 10 2
+safari6.1 3 1
+safari 273 19
+firefox15.0.1 97 7
+safari7.0 111 10
+chrome34.0.1847.76 394 44
+firefox5.0 4 4
+android 205 16
+chrome12.0.742.91 4 3
+chrome32.0.1700.41 1 1
+chrome38.0.2125.101 8 1
+firefox31.0 2 1
+chrome46.0.2490.76 474 40
+chrome33.0.0.0 58 4
+iphone 394 35
+firefox6.0.2 4 4
+chrome20.0.1132.47 1 1
+chrome45.0.2454.93 72 6
+firefox16.0 67 67
+chrome43.0.2357.93 29 2
+safari7.1.3 73 6
+safari8.0 1083 101
+chrome33.0.1750.146 2 2
+msie9.0 131 9
+safari10.3.2.858 29 2
+firefox27.0 2 0
+chrome30.0.1599.101 41 3
+Unknown 565 531
+chrome6.0.428.0 1 1
+chrome10.0.648.127 3 3
+chrome30.0.0.0 74 7
+chrome39.0.2171.93 32 3
+safari8.0.8 92 7
+safari8.0.5 1 1
+safari9.0.1 37 8
+samsung 61 5
+chrome44.0.2403.155 41 3
+chrome41.0.2227.0 1 0
+msie5.5 4 4
+chrome41.0.2272.104 223 22
+safari5.1.7 30 2
+chrome43.0.2357.130 30 2
+chrome38.0.2125.102 320 29
+chrome44.0.2403.107 30 2
+chrome19.0.1063.0 1 1
+chrome45.0.2454.94 472 41
+msie11.0 1471 287
+safari9.0 2123 255
+chrome18.0.1025.133 1 1
+chrome45.0.2454.101 1249 190
+firefox39.0 92 7
+firefox1.0 1 1
+chrome35.0.1916.153 83 5
+msie10.0 80 10
+chrome30.0.1599.103 33 3
+safari4.0.4 1 1
+safari5.1 56 4
+firefox3.6.12 13 13
+firefox27.3 3 3
+firefox3.6.8 7 7
+firefox3.6.13 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+visionutils/0.2 20151030130530
+facebookexternalhit/1.1 20151031030852
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.858_Mobile_Safari/537.35_ 20151001165058
+Google_Analytics_Snippet_Validator 20151012122009
+Mozilla/5.0_(compatible) 20151026230729
+python-requests/2.8.1 20151019142301
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20151004044333
+Jakarta_Commons-HttpClient/3.1 20151010235527
+Google_favicon 20151015115234
+Scrapy/0.24.6_(_http://scrapy.org) 20151012104016
+Mozilla/6.0_(compatible) 20151026234133
+Mozilla/4.0_(compatible;) 20151007124646
+Mozilla/4.0_(compatible;_Synapse) 20151023052859
+WordPress/4.2.5;_http://valhalladetailing.com 20151031235539
+NerdyBot 20151006103726
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+visionutils/0.2 20151030130530
+facebookexternalhit/1.1 20151031030852
+Apache-HttpClient/4.3.5_(java_1.5) 20151027010308
+Google_Analytics_Snippet_Validator 20151012122009
+python-requests/2.8.1 20151019142301
+Google_favicon 20151015115234
+Jakarta_Commons-HttpClient/3.1 20151010235527
+Scrapy/0.24.6_(_http://scrapy.org) 20151012104016
+WordPress/4.2.5;_http://valhalladetailing.com 20151031235539
+NerdyBot 20151006103726
+Java/1.6.0_17 20151009162044
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1139 1336
+From1 1 1
+From2 203 203
+From3 148 148
+From4 1148 15203
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 181 181
+baidu 5 5
+aol 10 10
+bing 3 3
+yahoo 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 25
+http://www.googleadservices.com/pagead/aclk 36 36
+http://rankings-analytics.com/try.php 26 26
+http://m.facebook.com 22 22
+http://buttons-for-website.com 11 11
+http://success-seo.com/try.php 9 9
+http://dp.g.doubleclick.net/apps/domainpark/domainpark.cgi 7 7
+http://m.facebook.com 6 6
+http://www.facebook.com/l.php 3 3
+http://lm.facebook.com/l.php 3 3
+https://www.facebook.com 3 3
+https://m.facebook.com 3 3
+https://m.facebook.com 3 3
+http://pizza-imperia.com 2 2
+http://justprofit.xyz 2 2
+http://l.facebook.com/lsr.php 2 2
+http://www.weburlopener.com 1 1
+http://hundejo.com 1 1
+http://dp.g.doubleclick.net/static/caf/slave.html 1 1
+http://www.amazon.com/s/ref=nb_sb_noss 1 1
+http://www.amazon.com/s/ref=sr_1_11_hso_sc_smartcategory_3 1 1
+http://l.facebook.com/l.php 1 1
+http://pizza-tycoon.com 1 1
+http://www.yelp.com/search 1 1
+http://us.wow.com/search 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 50
+autodetailingnj%7cautodetailingwestlongbranchnj07764 5
+valhalla+detailing 4
+best+way+to+clean+a+car+engine 4
+detailing+car+interior 3
+valhalla+west+long+branch 2
+car+wash+and+detailing+in+long+island+city+queens+and+long+island 1
+mobile+auto+detailing+in+nj 1
+elbow+grease+mobile+detailing+car+wash+wall+nj 1
+valhalla+detailing+west+long+branch+nj 1
+car+detailing+nj+within+freehold+nj 1
+automotive+detailer+in+princeton+nj 1
+auto+detaling+in+burlington+nj.08016+ariera 1
+detailing+car 1
+auto+detailer+manheim 1
+auto+detailing+near+hicksville+ny 1
+car+detailers+in+08723+area 1
+auto+detailing+mercer+county+nj 1
+detailing+a+car 1
+steam+cleaning+a+car+engine 1
+car+detail+cost+within+cherry+hill+nj 1
+car+detailing+kits 1
+revive+auto+detailing+rockville+centre+ny 1
+jersey+city+new+jersey+windshield+chip+repair 1
+interior+auto+detailing+in+ct 1
+middletown+car+wash+red+bank+nj 1
+auto+car+spas+in+staten+island 1
+auto+detailer+jobs+in+10003 1
+convenient+detailing 1
+auto+window+tint+cost 1
+car+steam+cleaning 1
+auto+detailing+yardley+pa 1
+newark+nj+auto+detailing 1
+air+brush+detailing+for+cars 1
+valhalladetailing.com 1
+posh+car+wash 1
+detailing+for+car+near+old+bridge 1
+who+steam+cleans+car+engines+in+brooklyn+ny 1
+car+detailing+jackson+nj 1
+automotive+automobile+detailer+jobs+new+jersey 1
+auto+polishing 1
+detailers 1
+how+much+is+it+to+get+your+car+details 1
+cars+detail+fluid 1
+cost+of+buffing+car+scratch 1
+car+wash+ronkonkoma+ny+united+states 1
+car+detailing+edison+nj 1
+auto+window+tinting+within+new+york+ny 1
+engine+detailing+brush 1
+car+detailed+cleaning+in+monmouth+county+nj 1
+auto+detailing+services+trenton 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 109
+car 28
+detailing 28
+auto 15
+nj 13
+in 10
+valhalla 7
+a 6
+engine 6
+wash 5
+to 5
+long 5
+autodetailingnj%7cautodetailingwestlongbranchnj07764 5
+ny 5
+way 4
+interior 4
+clean 4
+detailer 4
+best 4
+island 3
+new 3
+cost 3
+west 3
+branch 3
+steam 3
+within 3
+automotive 2
+staten 1
+windshield 1
+brooklyn 1
+cars 2
+who 1
+grease 1
+nj.08016 1
+princeton 1
+details 1
+rockville 1
+old 1
+bank 1
+08723 1
+your 1
+kits 1
+ariera 1
+county 2
+automobile 1
+and 2
+jackson 1
+cleans 1
+cherry 1
+of 1
+area 1
+wall 1
+detaling 1
+hicksville 1
+queens 1
+is 1
+mobile 2
+ct 1
+manheim 1
+freehold 1
+much 1
+tinting 1
+it 1
+services 1
+repair 1
+detailers 2
+buffing 1
+detail 2
+edison 1
+spas 1
+hill 1
+newark 1
+posh 1
+yardley 1
+tint 1
+jobs 2
+fluid 1
+red 1
+centre 1
+how 1
+for 2
+near 2
+york 1
+chip 1
+united 1
+jersey 3
+polishing 1
+engines 1
+detailed 1
+window 2
+states 1
+brush 2
+elbow 1
+mercer 1
+scratch 1
+pa 1
+city 2
+ronkonkoma 1
+get 1
+revive 1
+valhalladetailing.com 1
+10003 1
+middletown 1
+monmouth 1
+convenient 1
+bridge 1
+burlington 1
+cleaning 3
+air 1
+trenton 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 13 236600
+302 14 0
+206 115 1346191
+500 27 486969
+406 133 30058
+301 1515 317
+404 579 4207381
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 158
+/wp-content/themes/profitstheme/thumb.php 1 -
+/ 17 -
+/shared/templates/6g02/js/js.php 1 http://valhalladetailing.com/shared/templates/6g02/js/js.php
+/blogs/wp-admin/setup-config.php 1 -
+/wp-content/upload.php 1 -
+/wp-content/themes/LondonLive/thumb.php 2 -
+/wp-content/plugins/fcchat/default.png 1 -
+/admin.php 4 -
+/wp-content/themes/busybee/timthumb.php 1 -
+/contact 13 -
+/contact/ 13 -
+/wp-content/themes/inspire/timthumb.php 1 -
+/wp-content/themes/rockstar/timthumb.php 2 -
+/wp-content/themes/valhalla/images/favicon.png 333 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/blog/wp-admin/setup-config.php 2 -
+/wp-content/themes/sealight/thumb.php 1 -
+/wp-content/themes/BusinessCard/timthumb.php 1 -
+/wp-content/themes/gazette/timthumb.php 1 -
+/blog 1 http://VALHALLADETAILING.COM/blog
+/wp-content/themes/TheStyle/thumb.php 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/dzs-videogallery/ajax.php 1 -
+/wp-content/themes/headlines/thumb.php 1 -
+/wp-content/themes/Nova/timthumb.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/Contact-Us.html 13 -
+/wp-content/themes/Modest/timthumb.php 1 -
+/wp-content/themes/delegate/timthumb.php 1 -
+/wp-content/themes/typebased/timthumb.php 1 -
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js%253Fver 1 http://valhalladetailing.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js%253Fver
+/wp-content/themes/coda/thumb.php 1 -
+/apple-touch-icon-76x76-precomposed.png 1 -
+/valhalla-admin%20instead%20of%20the%20traditional%20/wp-admin 1 -
+/wp-content/themes/coda/timthumb.php 1 -
+/wp-content/themes/coffeebreak/timthumb.php 1 -
+/apple-touch-icon-152x152.png 3 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/administrator/ 5 -
+/wp-content/themes/Nova/thumb.php 1 -
+/apple-touch-icon-152x152-precomposed.png 3 -
+/wp-content/themes/welcome_inn/thumb.php 1 -
+/wp-content/themes/delegate/thumb.php 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-content/themes/mainstream/timthumb.php 1 -
+/wp-content/themes/eStore/thumb.php 1 -
+/wp-content/themes/Avenue/thumb.php 1 -
+/wp-content/themes/simplicity/timthumb.php 1 -
+/wp-content/themes/gazette/thumb.php 1 -
+/wp-content/themes/TheStyle/timthumb.php 1 -
+/wp-content/themes/deliciousmagazine/timthumb.php 1 -
+/manager/media 1 -
+/news/wp-admin/setup-config.php 1 -
+/wp-content/themes/sealight/timthumb.php 2 -
+/wp-content/themes/welcome_inn/timthumb.php 1 -
+/wp-content/themes/headlines/timthumb.php 1 -
+/wp-content/themes/Polished/thumb.php 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js%3Fver 1 http://valhalladetailing.com/wp-includes/js/jquery/jquery-migrate.min.js%3Fver
+/wp-content/themes/nextelement/timthumb.php 1 -
+/wp-content/themes/cityguide/thumb.php 1 -
+/wp-content/themes/LondonLive/timthumb.php 2 -
+/wp-content/themes/freshnews/thumb.php 2 -
+/js/mage/cookies.js 1 http://valhalladetailing.com
+/wp-content/themes/Minimal/timthumb.php 1 -
+/wp-content/uploads/_input_1_test.php5 1 -
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js%3Fver 1 http://valhalladetailing.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js%3Fver
+/wp-content/themes/nextelement/thumb.php 1 -
+/wp-content/themes/continuum/thumb.php 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp/wp-admin/setup-config.php 1 -
+/wp-content/uploads/_input_1_test.php 3 -
+/wp-content/themes/optimize/thumb.php 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-content/themes/backstage/thumb.php 2 -
+/wp-content/themes/Minimal/thumb.php 1 -
+/wp-content/themes/TheCorporation/thumb.php 1 -
+/bitrix/admin/ 1 http://valhalladetailing.com/bitrix/admin/
+/wp-content/themes/spectrum/thumb.php 1 -
+/wp-content/themes/TheSource/thumb.php 1 -
+/wp-content/plugins/dzs-zoomsounds/ajax.php 1 -
+/shared/templates/6g02/js/js.php%3Fr 1 http://www.valhalladetailing.com/shared/templates/6g02/js/js.php%3Fr
+/wp-content/themes/aperture/thumb.php 1 -
+/wp-content/themes/Avenue/timthumb.php 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/wp-content/themes/crisp/thumb.php 1 -
+/wp-content/themes/biznizz/thumb.php 1 -
+/wp-content/themes/overeasy/thumb.php 1 -
+/wp-content/themes/Chameleon/timthumb.php 1 -
+/wp-content/themes/ecobiz/thumb.php 1 -
+/805407b5cffee708index.php 1 http://valhalladetailing.com/805407b5cffee708index.php
+/not_found 4 -
+/wp-content/themes/optimize/timthumb.php 1 -
+/browserconfig.xml 1 -
+/img/slides/6g-slider-custom-01.jpg 3 -
+/wp-content/themes/TheProfessional/timthumb.php 1 -
+/wp-content/themes/rockstar/thumb.php 2 -
+/misc/druplicon.png 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-content/themes/typebased/thumb.php 1 -
+/apple-touch-icon-76x76.png 1 -
+/wp-content/themes/TheSource/timthumb.php 1 -
+/apple-touch-icon-120x120.png 1 -
+/805407b5cffee708 1 http://valhalladetailing.com/805407b5cffee708
+/wp-content/themes/coffeebreak/thumb.php 1 -
+/wp-content/themes/profitstheme/timthumb.php 1 -
+/wp-content/themes/biznizz/timthumb.php 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/wp-content/themes/inspire/thumb.php 1 -
+/wp-content/themes/Polished/timthumb.php 1 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/wp-content/themes/busybee/thumb.php 1 -
+/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js%3Fver 1 http://valhalladetailing.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js%3Fver
+/wordpress/wp-admin/setup-config.php 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-content/themes/TheProfessional/thumb.php 1 -
+/wp-content/themes/OptimizePress/thumb.php 1 -
+/wp-content/themes/crisp/timthumb.php 1 -
+/admin/ 1 http://valhalladetailing.com/admin/
+/wp-content/plugins/user-photo/admin.css 1 -
+/wp-content/themes/continuum/timthumb.php 1 -
+/apple-touch-icon.png 7 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/themes/DeepFocus/thumb.php 1 -
+/wp-content/themes/snapshot/timthumb.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-content/themes/spectrum/timthumb.php 1 -
+/wp-content/themes/cityguide/timthumb.php 1 -
+/images/joomla_logo_black.jpg 1 -
+/wp-content/themes/mainstream/thumb.php 1 -
+/wp-content/themes/InStyle/timthumb.php 1 -
+/wp-content/themes/snapshot/thumb.php 1 -
+/wp-content/themes/eStore/timthumb.php 1 -
+/wp-content/themes/OptimizePress/timthumb.php 1 -
+/wp-content/themes/Chameleon/thumb.php 1 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/plugins/woocommerce/dummy_data.xml 2 -
+/wp-content/plugins/gravityforms/css/formsmain.css 1 -
+/wp-content/themes/InStyle/thumb.php 1 -
+/wp-content/themes/deliciousmagazine/thumb.php 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/apple-touch-icon-precomposed.png 1 -
+/test/wp-admin/setup-config.php 1 -
+/wp-content/themes/TheCorporation/timthumb.php 1 -
+/wpn-rss.php 1 http://valhalladetailing.com/wpn-rss.php
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/themes/freshnews/timthumb.php 2 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-content/themes/aperture/timthumb.php 1 -
+/wp-content/themes/ecobiz/timthumb.php 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-content/themes/backstage/timthumb.php 2 -
+/wp-content/themes/DeepFocus/timthumb.php 1 -
+/wp-content/themes/overeasy/timthumb.php 1 -
+/wp-content/plugins/wp-firewall/wp_head_info.php 1 -
+/wp-content/themes/Modest/thumb.php 1 -
+/wp-content/themes/BusinessCard/thumb.php 1 -
+/wp-content/themes/simplicity/thumb.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 546
+192.254.235.96 502 502 0 20151031235539
+96.57.94.106 207 839 22707898 20151030130509
+185.24.233.76 80 80 1550932 20151020102158
+70.91.24.193 80 344 8476045 20151030151526
+65.189.199.10 77 77 2662340 20151011015145
+104.207.159.158 71 71 2673149 20151029140127
+82.80.230.228 59 164 5620459 20151026230731
+91.109.19.34 42 95 2645024 20151012130143
+69.142.244.229 38 198 5648470 20151031001544
+100.37.230.190 33 167 3343967 20151030173718
+188.143.232.62 28 28 719940 20151026111901
+72.82.142.28 23 331 4937869 20151026090752
+74.105.96.137 18 102 1812809 20151022134613
+65.51.107.209 16 88 2802770 20151008133935
+75.147.111.233 15 82 1742304 20151022094504
+125.114.111.198 13 13 324646 20151006035840
+47.16.163.50 13 83 1258582 20151013121033
+75.127.151.46 12 74 1790100 20151019111051
+75.228.6.226 11 56 1178026 20151030235613
+108.29.31.11 11 58 362888 20151020000133
+8.28.16.254 11 11 156312 20151030133917
+192.241.218.246 10 74 1070547 20151030122246
+174.44.183.109 10 54 2392402 20151005102316
+192.241.233.251 10 49 522503 20151030111007
+75.127.242.146 10 165 2584093 20151002081028
+98.109.40.177 3 31 395358 20151015070510
+23.123.70.122 4 35 419754 20151019203316
+73.194.15.222 7 49 1096946 20151019225445
+108.53.107.196 8 49 1067768 20151008100346
+64.12.116.15 0 2 191904 
+69.142.206.12 5 66 2187244 20151011191321
+162.242.135.149 1 1 19126 20151003221551
+172.56.35.240 4 42 993268 20151024010831
+50.182.19.96 3 32 359305 20151029160208
+74.102.63.108 2 30 377427 20151029162633
+108.176.23.3 2 30 949664 20151021062534
+108.30.158.80 5 63 1729870 20151003201826
+66.195.234.90 5 51 1767592 20151009080440
+71.172.225.125 1 24 250645 20151031145024
+50.14.26.32 4 34 451285 20151027175205
+68.194.105.127 6 67 1050625 20151030202203
+220.255.1.86 0 2 41265 
+186.15.215.213 2 29 949114 20151018175721
+70.209.20.210 2 30 333273 20151028085000
+70.192.73.95 2 29 318627 20151029194415
+96.250.253.206 2 30 332683 20151025231957
+75.69.200.62 1 1 321 20151031172219
+107.77.76.107 1 20 115078 20151007090406
+71.172.148.239 5 47 2040573 20151015160712
+66.102.6.229 1 9 58419 20151008033137
+185.53.78.144 2 2 38804 20151014080835
+172.56.22.156 2 30 331490 20151011192939
+71.230.90.165 6 96 2056672 20151004195314
+69.141.217.190 1 24 250645 20151031203506
+189.132.162.65 2 30 948626 20151004155215
+201.252.74.128 2 29 948497 20151004093219
+31.13.112.122 0 1 17111 
+181.128.100.206 1 27 383789 20151004162349
+97.85.141.203 2 30 949783 20151022201720
+173.252.81.118 1 1 21847 20151030222226
+223.30.157.10 3 44 970188 20151009072255
+70.199.76.72 3 41 463622 20151013141458
+100.8.154.93 2 30 948514 20151009144503
+148.74.229.251 5 35 410618 20151015204309
+73.29.214.200 3 33 1134237 20151009151312
+209.148.63.122 5 45 2035740 20151005102223
+66.87.84.72 1 1 467 20151031160621
+54.251.2.104 1 5 116525 20151030130253
+123.125.71.82 1 1 15208 20151028053329
+73.215.82.50 3 45 1136243 20151020095125
+176.126.252.11 1 1 19126 20151006022233
+64.12.116.71 0 1 70576 
+175.141.184.96 2 29 949535 20151020194859
+146.185.239.200 1 1 19402 20151014162008
+166.137.252.29 3 33 427405 20151011045521
+71.172.39.63 2 30 949783 20151025134214
+166.137.252.52 4 34 356024 20151003195346
+37.130.227.133 2 2 20284 20151024120447
+70.208.65.226 4 41 548300 20151007201248
+107.77.76.96 1 1 6898 20151028150728
+66.102.8.148 1 20 437824 20151029062640
+204.101.161.159 1 8 183775 20151008160738
+74.192.241.217 4 4 74130 20151011122130
+209.128.92.209 1 1 19014 20151010035955
+70.89.23.77 2 30 948626 20151007174411
+198.38.91.59 3 3 56483 20151009162044
+73.194.1.102 3 38 441420 20151011140003
+64.12.116.70 2 2 37611 20151019141610
+85.242.95.165 2 30 948590 20151012055130
+104.156.228.176 2 2 37621 20151012095502
+151.65.58.193 2 30 948626 20151004010534
+24.0.245.43 2 29 362781 20151030190210
+173.72.54.19 2 30 949783 20151026134758
+73.197.90.34 2 30 948626 20151007085153
+64.12.117.18 0 3 329534 
+74.72.19.87 3 41 535289 20151012205325
+173.252.113.119 1 1 21837 20151031030852
+72.76.197.212 5 66 1874422 20151014143235
+69.142.50.121 9 85 3014095 20151018173221
+41.71.21.150 3 31 970066 20151026063759
+187.111.171.204 2 30 948560 20151001214545
+62.212.73.49 1 1 20164 20151021040233
+98.221.163.182 7 68 2228181 20151016230407
+64.12.116.9 0 2 121600 
+63.143.239.130 2 29 316880 20151005095136
+70.215.66.15 3 57 335782 20151010072625
+66.189.118.142 2 30 346378 20151030235003
+73.29.233.154 4 36 1052051 20151015091911
+110.77.225.132 2 30 949783 20151021214617
+100.8.167.92 3 60 1539331 20151008202852
+96.225.40.43 8 37 1186862 20151030145947
+5.45.65.93 1 1 0 20151029230917
+70.208.71.94 2 30 377046 20151031084756
+24.186.37.122 2 29 316814 20151002173729
+67.250.9.58 6 68 1927138 20151021074658
+173.252.80.119 2 2 113328 20151030125548
+24.44.18.64 2 30 949664 20151020162559
+173.70.74.137 4 33 1138388 20151006151803
+66.102.6.221 1 10 104519 20151008033140
+64.12.117.9 1 1 28538 20151019141628
+98.254.171.121 5 61 1305211 20151030133920
+64.12.116.210 0 2 29292 
+173.252.102.119 1 1 56664 20151030122225
+63.143.128.145 2 2 19593 20151007190029
+50.166.96.179 1 27 383789 20151007181351
+47.20.26.217 2 29 318630 20151031233631
+69.116.27.246 3 31 968304 20151014222859
+31.13.112.123 1 3 55985 20151030234955
+189.25.54.155 2 31 1053557 20151011192525
+136.243.48.85 1 1 19743 20151016002416
+199.233.80.251 6 45 1546247 20151022172747
+189.32.55.18 1 25 279310 20151016080139
+73.194.42.198 2 30 377046 20151031102844
+64.12.116.201 0 2 3606 
+24.185.119.240 5 71 1171144 20151010154221
+72.68.94.222 3 41 538093 20151031001901
+208.43.251.178 1 1 19090 20151013153926
+50.248.158.50 1 1 20283 20151023052859
+123.125.71.76 1 1 16926 20151028053334
+107.77.161.4 7 45 530154 20151013150818
+70.192.77.118 2 29 935727 20151028094716
+64.12.116.73 0 2 1508 
+208.54.37.187 2 29 318037 20151025004717
+188.143.232.40 2 2 39145 20151015193316
+100.8.148.68 4 43 583939 20151004122701
+45.32.129.1 2 2 38927 20151018194537
+73.29.225.203 2 2 5598 20151005053902
+70.215.67.160 3 3 15236 20151024212000
+24.185.59.152 2 30 375680 20151004232453
+72.76.93.242 5 83 1889523 20151020104533
+104.197.54.243 1 1 19060 20151002103524
+177.124.59.58 1 27 383723 20151002050351
+24.185.155.131 2 29 316880 20151004120249
+61.135.190.103 2 15 184877 20151022052537
+2.139.85.5 2 30 949992 20151031191143
+47.18.36.51 2 30 332143 20151018200318
+66.102.8.160 2 21 166813 20151029135642
+173.252.105.118 0 1 19223 
+67.87.66.182 2 30 949664 20151021075605
+52.0.89.236 1 1 19090 20151012092023
+75.99.170.170 2 30 948560 20151001143158
+98.14.233.232 3 41 1382345 20151029194935
+151.204.189.244 3 3 19103 20151016093008
+94.132.155.22 1 25 263813 20151010143423
+148.177.1.218 3 47 1408425 20151007124724
+64.12.116.8 0 2 438706 
+50.153.124.143 4 44 552798 20151004164329
+79.52.225.95 1 1 19402 20151015045652
+24.45.68.88 1 1 309 20151017005814
+73.178.211.197 3 35 1428259 20151009164828
+31.13.100.113 0 2 34222 
+187.11.184.8 2 29 949654 20151023082527
+70.215.7.155 2 29 316880 20151006161558
+198.135.0.233 8 148 2217414 20151006160008
+64.12.116.133 0 2 34034 
+66.102.8.161 5 56 486635 20151022052313
+173.252.80.114 0 3 49169 
+108.5.249.185 5 35 464163 20151008125044
+173.68.111.45 2 30 950373 20151030142713
+64.12.116.20 0 2 2082 
+96.224.93.77 2 30 332683 20151025000319
+172.56.34.100 3 40 449600 20151014165449
+66.87.116.180 3 43 582566 20151029113217
+70.208.79.104 1 1 309 20151026034023
+64.12.116.134 0 2 3348 
+173.252.80.112 0 2 34222 
+108.27.56.164 7 49 1709608 20151014015224
+24.103.3.36 2 30 331490 20151011174340
+209.128.119.84 1 1 19014 20151009043315
+70.199.86.142 2 30 376297 20151017065225
+65.26.20.60 2 30 376297 20151016130433
+100.35.146.144 2 30 377427 20151030163516
+98.158.184.148 4 59 749100 20151029195150
+173.252.105.119 0 2 50904 
+191.33.19.84 2 33 1617897 20151002224429
+64.12.116.79 0 4 34284 
+75.108.77.241 6 50 1123218 20151017205625
+173.252.79.116 0 1 11430 
+188.120.242.216 1 1 20873 20151027055944
+72.89.31.58 3 33 417727 20151021013813
+123.125.71.114 1 1 15208 20151028063618
+61.135.190.102 2 11 168577 20151030033452
+107.184.25.120 1 1 20283 20151022110205
+92.226.153.222 2 30 950373 20151029153635
+64.12.116.67 0 2 554 
+173.252.115.89 1 1 21850 20151030195802
+100.1.29.29 4 40 1397726 20151020112312
+206.253.174.50 4 61 1539950 20151013141009
+45.32.131.61 2 2 39769 20151021104516
+176.103.52.83 1 1 11477 20151007030257
+69.141.232.90 5 38 1495180 20151009154504
+173.71.65.175 2 30 948560 20151002154110
+23.27.44.242 2 2 37134 20151003024330
+173.252.79.117 0 1 14947 
+64.12.117.16 0 2 6926 
+192.99.150.97 3 3 57378 20151004044334
+50.195.98.178 3 33 660902 20151020184218
+66.87.81.135 2 30 377046 20151031013100
+73.197.105.154 3 35 855313 20151008210457
+93.159.230.90 2 35 441754 20151016103621
+172.56.36.65 5 54 489707 20151021194430
+199.168.151.176 5 74 1589386 20151015102920
+104.197.107.30 1 1 19126 20151003103605
+64.251.21.139 1 1 20283 20151024124106
+177.182.185.30 2 30 949243 20151015160421
+73.33.37.186 2 30 376837 20151021202947
+31.13.100.118 0 1 17111 
+70.208.79.159 1 1 467 20151005134025
+46.235.64.37 3 3 60849 20151024223736
+201.1.1.73 1 1 19060 20151002091352
+69.142.247.2 2 12 132523 20151008230939
+47.16.16.213 5 46 588510 20151005065119
+192.159.150.18 2 31 951864 20151012113643
+107.77.76.84 1 29 317557 20151008161522
+74.125.63.33 2 30 950373 20151026202834
+73.10.155.109 3 40 451362 20151023064345
+175.139.109.9 1 27 384406 20151020042949
+173.252.105.117 0 1 19223 
+71.226.140.253 1 7 91911 20151031192004
+173.3.193.151 4 39 516212 20151031125421
+95.45.252.1 6 6 155982 20151010221936
+64.12.116.80 0 1 1003 
+64.12.117.7 0 1 74131 
+31.13.100.112 0 1 17111 
+100.1.52.39 2 30 332143 20151019211352
+91.221.61.244 1 1 20873 20151028200838
+108.21.115.58 4 37 1477061 20151005225531
+198.245.190.201 2 30 948590 20151011160207
+61.135.190.222 0 1 95952 
+123.125.71.115 1 1 13224 20151028063617
+24.168.121.185 3 60 967843 20151019054213
+50.203.185.106 2 30 375680 20151004191346
+191.33.150.109 1 25 265082 20151024192158
+73.160.216.17 2 30 375644 20151013040314
+50.166.232.113 4 34 1149020 20151014100142
+50.166.117.88 3 35 859031 20151029081700
+69.203.10.7 3 41 1378779 20151011012648
+220.255.1.85 0 7 56472 
+100.8.83.185 5 46 2028087 20151024200809
+66.249.84.111 1 1 19402 20151015115234
+201.37.204.37 2 31 1053527 20151002000845
+69.118.43.70 2 29 933868 20151008002833
+73.178.92.197 1 1 321 20151025213145
+107.77.70.128 1 30 313113 20151025230821
+100.14.43.54 2 30 949243 20151017144154
+177.2.185.242 1 27 384946 20151022082250
+54.165.219.245 3 3 57088 20151014201309
+189.34.107.228 2 30 948626 20151003073240
+24.186.104.2 3 53 1381165 20151022131344
+177.4.199.35 1 25 279310 20151017172458
+172.56.37.131 2 29 360998 20151012175943
+172.56.37.211 4 31 319180 20151031224140
+96.242.39.171 3 31 968986 20151019062805
+72.88.210.23 2 29 935137 20151023112526
+142.4.213.25 1 1 19743 20151019171755
+108.30.198.226 5 49 669474 20151016204613
+187.55.29.127 1 1 11477 20151006091630
+64.12.116.6 0 2 10782 
+66.102.6.225 0 11 149407 
+72.68.77.137 2 30 377046 20151031220320
+208.54.90.137 2 2 20959 20151031153836
+177.183.10.153 1 7 182102 20151012144620
+189.108.63.153 2 29 948431 20151001202544
+186.30.2.77 2 30 949243 20151017181936
+24.188.239.180 2 30 331526 20151003165804
+71.113.17.226 4 36 1053813 20151024184955
+64.12.116.78 0 4 20946 
+152.249.146.187 1 18 234156 20151002193212
+207.102.138.158 1 1 11365 20151008160731
+73.226.201.173 3 33 1134461 20151005132355
+73.10.200.184 3 31 967680 20151012150519
+67.84.234.44 3 41 531404 20151017055936
+179.180.247.115 2 31 1053527 20151001070954
+24.0.240.153 1 1 332 20151031074856
+184.207.9.44 4 34 1152692 20151009214608
+199.207.253.96 4 42 1399269 20151016115209
+108.5.52.30 3 33 1134389 20151013163253
+108.53.10.211 5 47 2037657 20151008145503
+67.87.220.33 5 38 1470193 20151031171100
+41.223.126.170 2 29 950244 20151027022259
+66.87.86.100 2 31 347422 20151031030858
+61.135.190.223 0 1 14646 
+64.12.117.5 0 1 43029 
+69.121.219.70 2 30 375568 20151008024833
+73.29.12.82 3 35 396875 20151001234704
+96.246.233.219 6 73 2170302 20151010102430
+174.57.143.235 1 27 294819 20151031064455
+190.229.248.33 1 1 19743 20151019074140
+50.153.124.17 7 68 1682233 20151019211845
+65.88.123.136 2 31 898407 20151013143634
+71.187.12.213 1 25 265082 20151026143242
+68.192.16.26 2 30 948626 20151007160702
+89.169.36.186 2 2 40566 20151023030032
+76.74.248.116 2 2 39145 20151016004146
+66.102.6.166 4 33 457352 20151029062641
+61.135.190.219 0 1 95952 
+173.252.80.113 0 2 42563 
+148.74.99.157 2 29 935346 20151031215728
+70.208.70.99 2 30 376718 20151020220506
+173.215.68.94 4 56 985783 20151005142240
+73.150.202.147 2 30 375568 20151008165328
+12.130.117.34 1 1 19090 20151010204508
+66.87.86.81 4 47 618319 20151024183841
+54.200.51.245 1 1 309 20151027010308
+64.12.116.7 0 2 258 
+69.120.228.184 1 1 90 20151028144546
+212.117.180.21 1 1 20492 20151031081935
+108.5.159.52 3 32 970412 20151005111534
+64.12.116.65 0 4 27006 
+73.194.12.231 2 53 856392 20151031160000
+37.29.74.214 1 1 19931 20151020153220
+161.69.22.122 4 90 1579556 20151002073119
+119.188.66.129 0 1 1749 
+180.153.180.181 0 1 95952 
+104.154.40.242 1 1 19126 20151005103702
+98.7.93.76 6 48 704869 20151029213529
+52.88.176.49 3 3 52368 20151019142301
+70.208.71.117 5 43 567220 20151024182058
+104.223.15.195 9 9 213182 20151011064547
+73.199.153.219 2 30 950373 20151028130251
+31.13.100.115 0 1 17111 
+67.232.101.114 2 30 346759 20151030132116
+100.8.23.240 3 33 427477 20151007111807
+173.252.79.114 0 1 17111 
+50.195.116.161 3 53 531132 20151015125506
+173.63.39.52 2 29 318037 20151025103217
+61.135.190.224 1 11 57973 20151013185400
+155.188.183.25 4 57 989202 20151009071219
+172.56.37.224 2 29 360922 20151008215427
+64.12.117.12 0 2 6438 
+60.49.75.67 1 25 279310 20151015195717
+75.172.205.53 2 30 949783 20151023190025
+69.126.227.217 2 30 313823 20151031175606
+68.193.122.174 2 30 375614 20151001103417
+70.208.78.207 3 36 412786 20151030143839
+5.101.217.92 1 1 19743 20151018004405
+69.141.200.58 2 29 318627 20151030134425
+208.54.87.158 3 32 358543 20151031100437
+24.190.1.10 8 51 691273 20151015140556
+64.12.116.68 0 2 3498 
+178.150.15.131 2 2 40566 20151022225334
+173.252.88.251 0 1 17017 
+189.107.163.220 2 29 376708 20151021141411
+71.183.21.141 2 30 375644 20151011020807
+71.187.129.110 5 67 2206656 20151023123900
+166.137.240.89 5 37 438029 20151030224141
+46.229.170.197 5 5 100090 20151028070241
+85.50.3.4 2 30 948626 20151007060627
+104.197.18.66 1 1 19126 20151006103726
+73.193.128.81 5 37 1300896 20151009140224
+70.199.101.84 2 29 375485 20151001165058
+107.77.70.17 9 73 1587215 20151030231242
+119.188.66.109 0 1 4233 
+67.80.155.137 2 30 948514 20151009165632
+45.32.130.87 2 2 40007 20151026050324
+188.40.45.131 1 1 19090 20151012104016
+24.188.40.20 3 41 1378851 20151004082707
+64.12.116.74 0 1 82638 
+71.127.221.230 1 6 88931 20151031230022
+173.252.105.115 0 1 14947 
+74.90.116.31 3 32 972726 20151021223214
+172.56.16.208 2 29 318630 20151031225933
+24.168.21.175 4 43 1562295 20151014165630
+107.77.70.15 1 29 317557 20151009210740
+173.252.102.116 1 1 20283 20151023123124
+173.68.162.169 6 35 993798 20151026012819
+24.90.187.54 5 40 565111 20151031094927
+70.208.71.187 3 40 451780 20151031065202
+24.188.186.82 2 30 376297 20151017211723
+152.238.240.128 2 30 949783 20151023194205
+100.35.138.63 8 92 1151261 20151025220023
+72.69.180.80 2 30 949243 20151017121250
+64.12.116.207 0 1 4746 
+209.95.32.58 2 30 948590 20151012210351
+197.48.222.211 1 18 235969 20151028090229
+104.197.75.55 1 1 19060 20151001103537
+192.241.215.235 10 49 521913 20151021162331
+50.153.124.136 4 45 1857340 20151019140444
+72.79.51.153 3 45 1000199 20151007200132
+67.86.56.86 2 29 318246 20151031162202
+69.127.94.212 5 47 608620 20151031233739
+104.154.40.181 1 1 19126 20151004103653
+173.252.113.112 0 1 11430 
+96.248.124.141 8 58 2142330 20151010091517
+64.12.117.17 2 2 934 20151019141550
+64.12.117.6 0 2 11508 
+72.79.49.41 2 30 950373 20151028123816
+61.135.190.105 0 1 14646 
+70.192.74.11 2 30 375568 20151008161943
+182.118.53.129 0 1 6637 
+68.199.120.146 3 41 1381165 20151024182247
+66.102.6.158 1 29 290887 20151015042718
+52.26.61.179 1 1 20873 20151030122938
+24.187.21.194 2 31 376685 20151012183402
+104.246.40.13 2 30 949243 20151016192714
+174.57.142.98 3 33 1078111 20151031213024
+182.118.70.240 0 1 754 
+66.102.8.171 3 50 618848 20151022052310
+96.248.95.186 2 30 949783 20151022085607
+172.56.19.26 3 32 1121049 20151016100523
+66.155.255.123 5 46 589614 20151014204420
+100.35.161.236 9 38 361207 20151031110911
+69.126.177.215 2 30 331490 20151013153447
+77.247.181.165 2 2 20284 20151024120454
+197.88.51.166 3 31 967752 20151006085444
+207.244.77.137 8 53 2403788 20151023221749
+69.116.53.250 2 30 375680 20151003141627
+70.208.64.86 9 9 78252 20151009102109
+73.195.199.175 3 35 1430797 20151022024724
+64.12.116.145 0 2 13274 
+69.127.114.174 2 31 378918 20151011130447
+179.180.6.27 2 30 949243 20151018160157
+70.215.82.220 3 32 354546 20151016065547
+31.13.100.116 0 1 17111 
+70.167.194.17 2 30 948902 20151014104830
+46.166.170.3 1 1 20873 20151029115558
+184.207.10.179 4 41 606312 20151025235904
+31.202.247.253 1 1 19743 20151018171949
+174.57.154.54 6 102 1548189 20151018103626
+64.12.116.138 0 2 209934 
+91.212.124.19 1 1 1 20151014142512
+173.252.105.114 0 1 14947 
+166.137.252.25 2 31 314012 20151026182653
+93.159.230.28 2 35 442884 20151030122546
+73.199.46.251 2 30 332892 20151030212240
+173.63.114.106 4 42 548401 20151009221123
+207.106.190.2 4 4 76360 20151010235527
+173.71.76.32 2 29 316880 20151003144047
+66.87.83.41 6 98 1998801 20151018052245
+107.189.60.71 2 21 249991 20151015063236
+208.96.137.58 2 30 948902 20151015104801
+180.153.185.230 0 1 5391 
+172.56.28.135 2 30 377046 20151031153653
+173.252.80.115 0 1 25452 
+38.104.189.66 9 84 2304700 20151005092531
+64.12.116.206 0 2 8466 
+70.208.69.63 9 43 572323 20151008203826
+70.208.65.184 1 1 5631 20151012161625
+107.23.56.124 5 5 99579 20151030093522
+74.71.60.194 3 34 840819 20151013203243
+73.150.165.77 3 41 1378719 20151001110422
+61.135.190.104 1 11 59166 20151022052524
+47.20.196.251 2 30 332683 20151022094947
+69.127.115.207 2 30 376837 20151021214439
+66.102.8.154 1 19 150217 20151029135640
+122.57.254.137 2 30 949243 20151015172847
+12.227.137.172 8 62 2221197 20151028151942
+100.37.219.173 3 34 840673 20151009213728
+64.12.117.10 0 2 29866 
+98.116.195.13 2 30 950373 20151028135040
+166.137.136.96 2 29 317797 20151031082345
+72.79.56.226 2 30 949783 20151023052531
+74.71.207.26 2 30 332683 20151025123957
+108.30.250.231 2 30 377046 20151031113545
+201.146.68.252 2 29 949114 20151019194326
+70.208.150.86 1 1 1584 20151004222112
+50.253.177.190 1 1 20283 20151026043526
+173.252.80.117 0 2 38446 
+220.255.1.67 1 6 53464 20151001024308
+108.29.169.136 4 60 751136 20151008200305
+73.150.105.123 2 29 318246 20151031183637
+70.208.75.105 2 30 375680 20151005095116
+64.12.116.139 0 2 690034 
+74.90.144.180 9 139 2440040 20151031061800
+24.190.214.238 2 29 360998 20151010194356
+71.127.207.89 1 1 309 20151031214826
+70.208.74.198 2 29 362400 20151031221532
+23.20.222.187 2 30 949783 20151021162059
+187.78.212.208 1 18 234186 20151013182340
+31.13.100.114 1 2 38874 20151030234957
+54.197.95.234 1 1 20283 20151023085648
+174.44.156.195 5 70 1709563 20151012093656
+173.252.89.53 0 1 17017 
+74.102.19.2 3 31 970066 20151026151943
+148.74.5.241 5 37 458936 20151025142602
+173.56.20.57 2 30 376837 20151021221541
+66.102.6.162 1 28 338417 20151026215635
+71.183.108.66 2 30 950373 20151030144532
+64.12.116.131 2 2 38803 20151019141547
+24.45.54.60 6 49 2066482 20151030131329
+45.32.129.200 2 2 37693 20151003194327
+173.54.84.28 1 1 12634 20151022191151
+107.77.70.85 8 77 1593835 20151021084141
+24.246.113.98 2 30 377427 20151030134805
+108.30.221.45 3 35 1428259 20151007210131
+72.76.161.122 4 42 535682 20151003112243
+70.208.75.149 4 42 466475 20151025131954
+73.197.172.234 6 48 2003473 20151026083655
+47.16.247.229 8 49 623383 20151012190149
+98.225.230.2 5 43 551614 20151020022756
+62.233.56.162 1 1 19724 20151025225900
+73.199.7.111 3 41 535229 20151001203545
+172.56.35.59 2 30 333273 20151030150644
+31.184.238.249 1 1 20283 20151025220612
+54.147.0.216 2 21 249679 20151012213844
+66.249.88.62 4 19 228714 20151023134313
+107.77.161.3 3 32 971680 20151015195027
+108.30.116.96 3 32 397242 20151008202453
+108.50.229.56 1 25 265672 20151030154636
+189.83.187.27 2 29 948385 20151008083918
+67.1.223.81 3 37 385683 20151031145708
+172.56.3.88 2 30 332892 20151030231728
+220.255.1.25 0 8 27241 
+187.73.20.131 1 24 264072 20151014055116
+107.77.70.57 2 29 314364 20151030222230
+173.17.165.98 2 30 948626 20151006144157
+198.23.5.10 2 30 948902 20151014060321
+54.188.112.170 1 1 19931 20151020135447
+74.105.97.82 4 33 432661 20151030223640
+66.102.8.166 3 45 685543 20151012122009
+166.137.252.57 2 29 408133 20151031230436
+73.194.12.255 5 55 537863 20151022133711
+180.244.136.222 1 12 197845 20151021060954
+173.252.113.114 0 1 11430 
+162.232.73.91 1 18 243769 20151030195801
+69.122.227.8 9 87 2745432 20151023091052
+189.25.29.204 2 30 949664 20151021060832
+73.194.42.163 2 30 312345 20151008085110
+66.249.88.51 2 25 320713 20151015042648
+220.255.1.75 0 2 100185 
+66.249.88.40 1 19 192172 20151023121531
+54.145.32.140 1 1 20873 20151026215626
+72.76.187.19 10 80 2668836 20151015212110
+64.12.117.15 0 2 79702 
+64.12.116.12 0 4 6548 
+173.252.79.113 0 1 11430 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20151001 48 433 9119847 31
+20151002 74 621 12774914 29
+20151003 39 280 4835829 20
+20151004 52 451 8948126 29
+20151005 155 755 18743001 32
+20151006 45 181 3794869 21
+20151007 52 422 9560026 30
+20151008 122 927 21464556 46
+20151009 76 526 14014599 33
+20151010 61 381 8164547 27
+20151011 66 432 8693630 30
+20151012 125 589 12491002 38
+20151013 84 594 9614623 30
+20151014 75 433 10836049 34
+20151015 74 635 13251707 37
+20151016 101 569 14865821 27
+20151017 33 279 5534564 21
+20151018 42 397 9059828 20
+20151019 70 486 11203250 35
+20151020 175 776 15656516 37
+20151021 129 837 17682272 40
+20151022 87 593 12804671 37
+20151023 67 464 14149471 28
+20151024 55 365 7823670 26
+20151025 66 428 6658042 27
+20151026 134 621 16835400 31
+20151027 30 87 1454516 22
+20151028 41 243 6260048 28
+20151029 160 609 12533597 33
+20151030 173 1247 22149103 60
+20151031 128 1230 18176681 57
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 35
+5mn-15mn 29
+15mn-30mn 24
+30s-2mn 86
+2mn-5mn 45
+0s-30s 754
+30mn-1h 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 59
+/ 695 12120611 541 197
+/wp-cron.php 502 0 381 381
+/wp-admin/admin-ajax.php 467 209477 26 220
+/shop/ 155 8621229 8 12
+/services/ 142 3908883 6 56
+/contact-us/ 141 2569385 4 40
+/mobile-detailing/ 104 1969491 3 27
+/specials/ 82 1533413 5 19
+/dealerships/ 50 1011535 1 1
+/wp-content/themes/valhalla/css/fonts/flexslider-icon.woff 33 41844 0 11
+/sitemap/ 22 421519 1 3
+/about-us/ 22 437666 0 2
+/news/ 16 287124 0 6
+/cart/ 15 768127 0 2
+/product/right-angle-detail-brush/ 12 251203 6 4
+/product/seal-b-quart/ 11 193825 5 2
+/product/topaz-wax/ 10 194563 6 3
+/product/3000-plus-finishing-material/ 8 173151 3 2
+/product/medium-grade-clay-bar/ 8 167689 0 1
+/wp-content/themes/valhalla/css/fonts/flexslider-icon.eot 6 12492 0 2
+/wp-content/plugins/woocommerce/assets/fonts/star.eot 6 10056 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot 6 117384 0 0
+/product/speedy-voc-gallon/ 6 126679 0 0
+/product/super-fast-solvent/ 5 103819 0 1
+/product/flint-glaze-wax/ 5 101374 0 0
+/product/seal-b-gallon/ 2 40940 0 0
+/product/leather-perfect/ 3 63277 0 0
+/wp-admin/load-styles.php 1 292863 0 0
+/product/hi-line/ 4 84970 0 0
+/my-account/lost-password/ 3 57541 0 1
+/wp-content/plugins/better-wp-security/lib/icon-fonts/fonts/ithemes-icons.woff 1 2440 0 0
+/wp-content/plugins/woocommerce/assets/fonts/star.woff 3 3912 0 0
+/product/details/ 4 85370 0 0
+/product/citrus-belt/ 4 84938 0 0
+/product/fine-grade-clay-bar/ 4 84686 0 0
+/wp-admin/ 1 52084 0 0
+/my-account/ 4 78590 0 0
+/product/1000-plus-finishing-material-gallon/ 4 85714 0 0
+/product/new-wave-quart/ 4 85242 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf 3 58152 0 3
+/wp-content/plugins/woocommerce/assets/fonts/star.ttf 3 4536 0 0
+/wp-content/themes/valhalla/handleForm.php 1 7 0 0
+/product/showroom/ 3 62410 0 0
+/product/new-wave-gallon/ 4 85318 0 0
+/valhalla-admin 1 2692 0 0
+/product/plastic-trim-restorer/ 4 85318 0 0
+/wp-admin/load-scripts.php 4 455790 0 0
+/product/detailers-professional-glass-cleaner/ 5 107380 0 0
+/product/new-concept-gallon/ 3 63094 0 0
+/product/metal-mania/ 4 85154 0 0
+/product/1500-plus-finishing-material/ 4 85886 0 0
+/product/buff-pad-cleaning-spur/ 4 84274 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 5 97300 0 0
+/wp-admin/edit.php 1 78025 0 0
+/product/1000-plus-finishing-material-quart/ 4 85966 0 0
+/product/a-foam/ 4 84998 0 0
+/product/pure-metal/ 3 63106 0 0
+/product/car-wash-concentrate/ 4 85706 0 0
+/product/2500-plus-finishing-material/ 4 85830 0 0
+END_SIDER

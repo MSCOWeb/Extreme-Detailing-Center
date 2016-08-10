@@ -1,0 +1,42 @@
+--- 
+files: 
+  certificate: 
+    valhalladetailing_com_d579d_4ed05_1484870399_de2ea24df666f4f896e7fcd63f5bae18: 
+      created: '1453306427'
+      domains: 
+        - valhalladetailing.com
+        - www.valhalladetailing.com
+      friendly_name: valhalladetailing.com and www.valhalladetailing.com
+      id: valhalladetailing_com_d579d_4ed05_1484870399_de2ea24df666f4f896e7fcd63f5bae18
+      is_self_signed: 0
+      issuer.commonName: COMODO RSA Domain Validation Secure Server CA
+      issuer.organizationName: COMODO CA Limited
+      modulus: d579d464f330e93f94a9b932fa776900d50c0db07d383a8325ad0081e82b2a566b1e707534eec1e3d7a381992ff62cb8aa44fdc22eeac01079d600f88ab357369683c5d6ae6fe6285b6d0aaa34d52e0efd993a3cfdb00f3802083e16ae37cdbfc6294471b5b4786c5a3d90901474baed51f9d0b82283982b2f03642963c26b9a8a6aae7c27d123d6f7008ef79392cda4929915b9e87360ed8fa63dfe89ccf639dd52f7ac0d318437b2ee85ae6bbac572dce14c7c91475205e478b1f2566a6a73b43edcb6afad16f435d78f8553688f19307122087f2a5ccdb8da4081f499624892afae08f4245024682996305ad99f57d41557687ea5e93f0c8c11059db4ed05
+      modulus_length: 2048
+      not_after: '1484870399'
+      not_before: '1453248000'
+      subject.commonName: valhalladetailing.com
+  key: 
+    d579d_4ed05_ca6db7aa1a646b5d24049b7dbf05e8aa: 
+      created: '1453306427'
+      friendly_name: 2,048 bits, created 1/20/16 4:13 PM UTC
+      id: d579d_4ed05_ca6db7aa1a646b5d24049b7dbf05e8aa
+      modulus: d579d464f330e93f94a9b932fa776900d50c0db07d383a8325ad0081e82b2a566b1e707534eec1e3d7a381992ff62cb8aa44fdc22eeac01079d600f88ab357369683c5d6ae6fe6285b6d0aaa34d52e0efd993a3cfdb00f3802083e16ae37cdbfc6294471b5b4786c5a3d90901474baed51f9d0b82283982b2f03642963c26b9a8a6aae7c27d123d6f7008ef79392cda4929915b9e87360ed8fa63dfe89ccf639dd52f7ac0d318437b2ee85ae6bbac572dce14c7c91475205e478b1f2566a6a73b43edcb6afad16f435d78f8553688f19307122087f2a5ccdb8da4081f499624892afae08f4245024682996305ad99f57d41557687ea5e93f0c8c11059db4ed05
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      d579d464f330e93f94a9b932fa776900d50c0db07d383a8325ad0081e82b2a566b1e707534eec1e3d7a381992ff62cb8aa44fdc22eeac01079d600f88ab357369683c5d6ae6fe6285b6d0aaa34d52e0efd993a3cfdb00f3802083e16ae37cdbfc6294471b5b4786c5a3d90901474baed51f9d0b82283982b2f03642963c26b9a8a6aae7c27d123d6f7008ef79392cda4929915b9e87360ed8fa63dfe89ccf639dd52f7ac0d318437b2ee85ae6bbac572dce14c7c91475205e478b1f2566a6a73b43edcb6afad16f435d78f8553688f19307122087f2a5ccdb8da4081f499624892afae08f4245024682996305ad99f57d41557687ea5e93f0c8c11059db4ed05: 
+        valhalladetailing_com_d579d_4ed05_1484870399_de2ea24df666f4f896e7fcd63f5bae18: ~
+    subject.commonName: 
+      valhalladetailing.com: 
+        valhalladetailing_com_d579d_4ed05_1484870399_de2ea24df666f4f896e7fcd63f5bae18: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      valhalladetailing.com and www.valhalladetailing.com: valhalladetailing_com_d579d_4ed05_1484870399_de2ea24df666f4f896e7fcd63f5bae18
+  key: 
+    friendly_name: 
+      2,048 bits, created 1/20/16 4:13 PM UTC: d579d_4ed05_ca6db7aa1a646b5d24049b7dbf05e8aa
+    modulus: 
+      d579d464f330e93f94a9b932fa776900d50c0db07d383a8325ad0081e82b2a566b1e707534eec1e3d7a381992ff62cb8aa44fdc22eeac01079d600f88ab357369683c5d6ae6fe6285b6d0aaa34d52e0efd993a3cfdb00f3802083e16ae37cdbfc6294471b5b4786c5a3d90901474baed51f9d0b82283982b2f03642963c26b9a8a6aae7c27d123d6f7008ef79392cda4929915b9e87360ed8fa63dfe89ccf639dd52f7ac0d318437b2ee85ae6bbac572dce14c7c91475205e478b1f2566a6a73b43edcb6afad16f435d78f8553688f19307122087f2a5ccdb8da4081f499624892afae08f4245024682996305ad99f57d41557687ea5e93f0c8c11059db4ed05: d579d_4ed05_ca6db7aa1a646b5d24049b7dbf05e8aa
